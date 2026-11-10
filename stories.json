@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T19:58:20+09:00",
-  "main_text_sha256": "030f73e3a521e959d801f1e8a1a6de0d1ce857549062990c158eec3dcfac13c2",
-  "text_alignment": "mismatch",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T04:42:44+09:00",
+  "main_text_sha256": "a2f32fc16c82be32e58f6cf298ab81780568be524a8d6acfd4172a32f624ef09",
+  "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
-      "title": "",
-      "text": "おはようございます。11月10日火曜日の朝ニュースです。",
+      "title": "朝のあいさつ",
+      "text": "おはようございます。11月11日水曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,149 +22,46 @@
     },
     {
       "id": "01",
-      "title": "自民党、石破前総理ら4人を戒告処分",
-      "text": "まず、国内の話題です。自民党は9日、食料品の消費税を2年間1パーセントに引き下げる法案の採決を前に本会議を退席した、石破前総理ら4人を戒告処分としました。総理経験者への党の処分は初めてです。石破氏は、代替財源が示されていないことを理由に挙げています。法案の参議院での審議は、あさって11日から始まります。ただ、戒告は2番目に軽い処分で、参議院の幹部からは抑止力にならないとの不満も出ています。",
-      "source_url": "https://news.web.nhk/newsweb/na/nd-20261109de73129",
-      "source_name": "NHK",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73129/20261109de73129_E0000156641_1_l.jpg",
+      "title": "ブルガリアで多重事故",
+      "text": "まず、ブルガリアの高速道路で起きた大事故です。10日朝、濃い霧の中、首都ソフィアと黒海沿いのブルガスを結ぶ高速道路で、車86台が絡む多重事故が起き、12人が死亡、50人以上がけがをしました。ブルガリア政府は、今日11日を国家哀悼の日としています。",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria",
+      "source_name": "アルジャジーラ",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T092924Z_1064181984_RC2XKOA03VUV_RTRMADP_3_BULGARIA-CRASH-1794312882.jpg?resize=1920%2C1440",
       "image": {
-        "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73129/20261109de73129_E0000156641_1_l.jpg",
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T092924Z_1064181984_RC2XKOA03VUV_RTRMADP_3_BULGARIA-CRASH-1794312882.jpg?resize=1920%2C1440",
         "candidates": [
-          "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73129/20261109de73129_E0000156641_1_l.jpg"
+          "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T092924Z_1064181984_RC2XKOA03VUV_RTRMADP_3_BULGARIA-CRASH-1794312882.jpg?resize=1920%2C1440",
+          "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T092924Z_1064181984_RC2XKOA03VUV_RTRMADP_3_BULGARIA-CRASH-1794312882.jpg?resize=770%2C513&amp;quality=80"
         ],
         "width": 1920,
-        "height": 1080,
+        "height": 1440,
         "status": "ok"
       }
     },
     {
       "id": "02",
-      "title": "ベトナム書記長が衆院で演説",
-      "text": "来日中のベトナムのトー・ラム共産党書記長は9日、衆議院の本会議場で演説し、人工知能や半導体などの分野で日本との協力を深める考えを示しました。高市総理が5月に打ち出した自由で開かれたインド太平洋の構想を高く評価し、支持するとも述べました。高市総理との首脳会談では、重要鉱物をめぐる協力の加速でも一致しました。",
-      "source_url": "https://www.nippon.com/ja/articles/-/57136",
-      "source_name": "時事通信",
+      "title": "安保3文書の改定協議",
+      "text": "国内の話題です。自民党と日本維新の会は10日、国家安全保障戦略など安全保障関連の3文書の年内改定に向け、与党の実務者協議を始めました。防衛力の変革で、相手の攻撃を思いとどまらせる力を高めるのがねらいです。小泉防衛大臣は、陸・海・空の自衛隊の真の統合を進めていきたいと述べました。",
+      "source_url": "https://www.excite.co.jp/news/article/Kyodo_1492669463921328425/",
+      "source_name": "共同通信",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://nippon.ismcdn.jp/mwimgs/9/c/1200wm/img_9c90b0386998f1845a5643c155da3f8667289.jpg",
-          "https://nippon.ismcdn.jp/common/images/icon-menu.svg"
+          "https://s.eximg.jp/exnews/feed/Kyodo/3a/Kyodo_1492669463921328425/Kyodo_1492669463921328425_1.jpg",
+          "https://s.eximg.jp/exnews/logo/kyodo.png"
         ],
-        "width": 380,
-        "height": 450,
+        "width": 360,
+        "height": 234,
         "status": "rejected:keyword"
       }
     },
     {
       "id": "03",
-      "title": "ミラー氏が米大統領首席補佐官に就任",
-      "text": "次に、世界の話題です。アメリカでは、中間選挙の大敗を受けて交代が決まっていた大統領首席補佐官に、移民政策で強硬派として知られるスティーブン・ミラー氏が9日、正式に就任しました。トランプ大統領は、18日から中国で開かれるAPEC首脳会議で、習近平国家主席やプーチン大統領と会談する見通しを示しました。なお、上院選ではアラスカとミシシッピの2州で接戦が続き、結果の判明に数週間かかる可能性もあります。",
-      "source_url": "https://news.tv-asahi.co.jp/news_international/articles/900203794.html",
-      "source_name": "テレビ朝日",
-      "image_url": "https://news.tv-asahi.co.jp/articles_img/900203794_1200.jpg",
-      "image": {
-        "url": "https://news.tv-asahi.co.jp/articles_img/900203794_1200.jpg",
-        "candidates": [
-          "https://news.tv-asahi.co.jp/articles_img/900203794_1200.jpg",
-          "https://news.tv-asahi.co.jp/articles_img/900203794_1200.jpg?upd_date=20261109180051"
-        ],
-        "width": 1200,
-        "height": 675,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "04",
-      "title": "G7外相会合とCOP31が開幕",
-      "text": "パリでは先進7か国の外相会合が、トルコでは国連の気候変動会議、コップ31が始まりました。",
-      "source_url": "https://www.jiji.com/jc/article?k=2026110900528&g=soc",
-      "source_name": "時事通信",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202611/20261110ds50_o.jpg",
-      "image": {
-        "url": "https://www.jiji.com/news2/kiji_photos/202611/20261110ds50_o.jpg",
-        "candidates": [
-          "https://www.jiji.com/news2/kiji_photos/202611/20261110ds50_o.jpg",
-          "https://www.jiji.com/img/logo.svg"
-        ],
-        "width": 1200,
-        "height": 800,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "05",
-      "title": "日経平均が大幅反発",
-      "text": "次に、経済と市場の動きです。9日の東京市場では、日経平均株価が前週末比1340円73銭高の5万8775円50銭と、6営業日ぶりに大幅に反発しました。アメリカの半導体株高を受けた買い戻しが広がりました。内閣府が9日発表した9月の景気動向指数は、現状を示す一致指数が119.5と、2か月ぶりに上昇しました。数か月先の景気を示す先行指数は116.4と、1年5カ月ぶりに低下しました。",
-      "source_url": "https://news.tv-asahi.co.jp/news_economy/articles/000546379.html",
-      "source_name": "テレビ朝日",
-      "image_url": "https://news.tv-asahi.co.jp/articles_img/000546379_1200.jpg",
-      "image": {
-        "url": "https://news.tv-asahi.co.jp/articles_img/000546379_1200.jpg",
-        "candidates": [
-          "https://news.tv-asahi.co.jp/articles_img/000546379_1200.jpg",
-          "https://news.tv-asahi.co.jp/articles_img/000546379_1200.jpg?upd_date=20261109171215"
-        ],
-        "width": 1200,
-        "height": 675,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "06",
-      "title": "米株も反発、円は158円台",
-      "text": "一方、アメリカの株式市場は、日本時間の今朝の取引で、ダウ平均が前週末比1200ドルあまり高い水準で推移しており、反発しています。円相場は1ドル158円台で推移しています。",
-      "source_url": null,
-      "source_name": "",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "none"
-      }
-    },
-    {
-      "id": "07",
-      "title": "グーグル、TPU第8世代に2種追加",
-      "text": "次に、テクノロジーの話題です。グーグルは9日、人工知能向けの半導体、TPUの第8世代に、新たに2種類を追加すると発表しました。機密性の高い計算向けのものでは、遅延を従来の最大半分に抑えたとしています。",
-      "source_url": "https://cloud.google.com/blog/ja/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/?hl=ja",
-      "source_name": "Google Cloud Blog",
-      "image_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/TPUs_8tx_and_8i_Max.max-2000x2000.png",
-      "image": {
-        "url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/TPUs_8tx_and_8i_Max.max-2000x2000.png",
-        "candidates": [
-          "https://storage.googleapis.com/gweb-cloudblog-publish/images/TPUs_8tx_and_8i_Max.max-2000x2000.png"
-        ],
-        "width": 1999,
-        "height": 1125,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "08",
-      "title": "エヌビディア、SKテレコムらと協業",
-      "text": "エヌビディアは、韓国のSKテレコムや半導体設計のレベリオンズと組み、韓国国内で人工知能のインフラを整える協業を発表しました。新型の半導体を使ったシステムは、2028年の導入が見込まれています。",
-      "source_url": "https://blogs.nvidia.co.jp/blog/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion/",
-      "source_name": "NVIDIA Japan Blog",
-      "image_url": "https://blogs.nvidia.co.jp/wp-content/uploads/sites/11/2026/11/nvidia-nvlink-fusion.jpg",
-      "image": {
-        "url": "https://blogs.nvidia.co.jp/wp-content/uploads/sites/11/2026/11/nvidia-nvlink-fusion.jpg",
-        "candidates": [
-          "https://blogs.nvidia.co.jp/wp-content/uploads/sites/11/2026/11/nvidia-nvlink-fusion.jpg",
-          "https://www.nvidia.com/content/dam/1x1-00000000.png"
-        ],
-        "width": 1920,
-        "height": 1080,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "09",
-      "title": "アジリティ・ロボティクスが上場",
-      "text": "人型ロボットを手がけるアジリティ・ロボティクスは、ナスダック市場に上場しました。倉庫や物流の現場での活用が見込まれています。",
-      "source_url": "https://www.sbbit.jp/article/st/188126",
-      "source_name": "SBbit",
+      "title": "9月の家計調査",
+      "text": "総務省が10日発表した9月の家計調査では、2人以上の世帯の消費支出は28万9536円で、物価の変動を除いた実質で前の年の同じ月より6.8パーセント減りました。減少は10か月連続で、2020年9月以来の大幅な落ち込みです。総務省は、雨の日が多く外出の機会が減ったことが影響したとみています。",
+      "source_url": "https://news.web.nhk/newsweb/na/nd-20261110de73268",
+      "source_name": "NHK",
       "image_url": null,
       "image": {
         "url": null,
@@ -175,9 +72,126 @@
       }
     },
     {
+      "id": "04",
+      "title": "国保の保険料上限引き上げ",
+      "text": "厚生労働省は、自営業者などが入る国民健康保険の保険料のうち、医療分の年間の上限額を、2027年度に3万円引き上げて96万円とする方針を固めました。",
+      "source_url": "https://news.livedoor.com/article/detail/32780799/",
+      "source_name": "livedoorニュース",
+      "image_url": "https://image.news.livedoor.com/newsimage/stf/o/g/ogp_image_32780799_c2a36ccacc1a.jpg",
+      "image": {
+        "url": "https://image.news.livedoor.com/newsimage/stf/o/g/ogp_image_32780799_c2a36ccacc1a.jpg",
+        "candidates": [
+          "https://image.news.livedoor.com/newsimage/stf/o/g/ogp_image_32780799_c2a36ccacc1a.jpg",
+          "https://news.livedoor.com/img/cmn/btn_share_x.svg"
+        ],
+        "width": 1200,
+        "height": 630,
+        "status": "ok"
+      }
+    },
+    {
+      "id": "05",
+      "title": "日経平均が大幅反発",
+      "text": "10日の東京株式市場では、日経平均株価が前の日より1684円08銭高い6万459円58銭と大幅に反発しました。前日のアメリカ株の大幅高を受けて、買い戻しが広がりました。円相場は、1ドル158円台前半で推移しています。",
+      "source_url": "https://9qu1.com/invest-daily/2026-11-10-night.html",
+      "source_name": "投資デイリー",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [],
+        "width": null,
+        "height": null,
+        "status": "none"
+      }
+    },
+    {
+      "id": "06",
+      "title": "アブダビで三者協議",
+      "text": "次に、世界の話題です。アラブ首長国連邦のアブダビで、アメリカ、ロシア、ウクライナの三者協議が10日に始まりました。2月以来、9か月ぶりの三者協議で、初日は4時間を超える話し合いが行われました。ウクライナへの安全保障の保証や、捕虜の交換などが議題で、協議は今日も続けられます。",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/10/russia-and-ukraine-security-focused-talks-start-in-abu-dhabi/",
+      "source_name": "The National",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [
+          "https://www.thenationalnews.com/resizer/v2/4WW423RANVAZPIJP7YXJQQURHU.jpeg?auth=1f0f5f780e7c692cdc10f2a471f696bef4ca939deba7a2055da7212a78ad939a&amp;smart=true&amp;width=1200&amp;height=630",
+          "https://www.thenationalnews.com/pf/resources/images/app-banner-icon.svg?d=1171"
+        ],
+        "width": null,
+        "height": null,
+        "status": "rejected:keyword"
+      }
+    },
+    {
+      "id": "07",
+      "title": "米10月消費者物価指数",
+      "text": "次に、経済と市場の動きです。アメリカの10月の消費者物価指数は、前の月より0.4パーセント上昇し、市場予想を上回りました。食品とエネルギーを除いた指数も0.3パーセント上昇しました。アメリカの中央銀行、FRBが来月、追加の利上げを決めるとの見方が強まっています。",
+      "source_url": "https://news.web.nhk/newsweb/na/nd-20261110de73820",
+      "source_name": "NHK",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [],
+        "width": null,
+        "height": null,
+        "status": "error:page:HTTPError"
+      }
+    },
+    {
+      "id": "08",
+      "title": "NY株は下落して開始",
+      "text": "消費者物価指数の発表を受けた10日夜のニューヨーク株式市場は、ダウ平均が195ドル安、ナスダックが1パーセント安で取引を開始しました。日本時間の今はまだ取引の途中で、終値は確定していません。",
+      "source_url": "https://s.kabutan.jp/news/n202611110009/",
+      "source_name": "株探",
+      "image_url": "https://async.api.kabutan.jp/og_image?title=%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E3%81%AF%E4%B8%8B%E8%90%BD%E3%81%97%E3%81%A6%E5%A7%8B%E3%81%BE%E3%82%8B%E3%80%80%EF%BC%91%EF%BC%99%EF%BC%95%E3%83%89%E3%83%AB%E5%AE%89%E3%80%80%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E3%81%AF%E5%A4%A7%E5%B9%85%E5%AE%89%EF%BC%9D%E7%B1%B3%E5%9B%BD%E6%A0%AA%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3",
+      "image": {
+        "url": "https://async.api.kabutan.jp/og_image?title=%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E3%81%AF%E4%B8%8B%E8%90%BD%E3%81%97%E3%81%A6%E5%A7%8B%E3%81%BE%E3%82%8B%E3%80%80%EF%BC%91%EF%BC%99%EF%BC%95%E3%83%89%E3%83%AB%E5%AE%89%E3%80%80%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E3%81%AF%E5%A4%A7%E5%B9%85%E5%AE%89%EF%BC%9D%E7%B1%B3%E5%9B%BD%E6%A0%AA%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3",
+        "candidates": [
+          "https://async.api.kabutan.jp/og_image?title=%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E3%81%AF%E4%B8%8B%E8%90%BD%E3%81%97%E3%81%A6%E5%A7%8B%E3%81%BE%E3%82%8B%E3%80%80%EF%BC%91%EF%BC%99%EF%BC%95%E3%83%89%E3%83%AB%E5%AE%89%E3%80%80%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E3%81%AF%E5%A4%A7%E5%B9%85%E5%AE%89%EF%BC%9D%E7%B1%B3%E5%9B%BD%E6%A0%AA%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3",
+          "https://prod-assets-s.kabutan.jp/assets/kabutan_logo/default_big-05a4c6ff.svg"
+        ],
+        "width": 1200,
+        "height": 630,
+        "status": "ok"
+      }
+    },
+    {
+      "id": "09",
+      "title": "アンソロピック新モデル",
+      "text": "次に、テクノロジーの話題です。アメリカのアンソロピックは9日、新型の人工知能モデル、フェイブル5.2とミトス5.2を発表しました。あわせて、10兆円規模の資金調達を進めていることも報じられています。",
+      "source_url": "https://sevenlights.org/podcast/2026-11-10-daily-brief/",
+      "source_name": "Seven Lights",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [],
+        "width": null,
+        "height": null,
+        "status": "error:page:HTTPError"
+      }
+    },
+    {
+      "id": "10",
+      "title": "高速ルータを公開",
+      "text": "神奈川工科大学は、汎用パソコンで100ギガビット級の高速処理ができるソフトウェアルータを機能拡充し、オープンソースとして公開しました。11月にアメリカ・シカゴで開かれる国際会議では、日米を結ぶ400ギガビットの回線を使い、8Kの非圧縮映像をリアルタイムで処理する実証実験を行います。",
+      "source_url": "https://www.niigata-nippo.co.jp/articles/-/940029",
+      "source_name": "新潟日報",
+      "image_url": "https://niigata-nippo.ismcdn.jp/mwimgs/7/0/1200m/img_70bcdd89824b6001af68b92cbc6cfe3f144655.png?rd=202611051124",
+      "image": {
+        "url": "https://niigata-nippo.ismcdn.jp/mwimgs/7/0/1200m/img_70bcdd89824b6001af68b92cbc6cfe3f144655.png?rd=202611051124",
+        "candidates": [
+          "https://niigata-nippo.ismcdn.jp/mwimgs/7/0/1200m/img_70bcdd89824b6001af68b92cbc6cfe3f144655.png?rd=202611051124",
+          "https://niigata-nippo.ismcdn.jp/common/images/site/logo.svg"
+        ],
+        "width": 1024,
+        "height": 578,
+        "status": "ok"
+      }
+    },
+    {
       "id": "outro",
-      "title": "",
-      "text": "今日の注目予定です。今夜10時半に、アメリカの10月の消費者物価指数が発表されます。国内では、ソフトバンクグループの決算が発表されます。以上です。よい一日を。",
+      "title": "今日の注目予定",
+      "text": "今日の注目予定です。アブダビでの三者協議は2日目に入ります。東京大学では、2ナノ世代の半導体で人工知能を動かす技術を紹介する、RISC-V Day Tokyoが開かれます。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
