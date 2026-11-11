@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T04:42:44+09:00",
-  "main_text_sha256": "a2f32fc16c82be32e58f6cf298ab81780568be524a8d6acfd4172a32f624ef09",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T04:42:19+09:00",
+  "main_text_sha256": "ef6114b0337dfef8b13ddfb2d2ed0c5852b45574126f9800e22425c62f3e68f1",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のあいさつ",
-      "text": "おはようございます。11月11日水曜日の朝ニュースです。",
+      "text": "おはようございます。11月12日木曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,78 +22,98 @@
     },
     {
       "id": "01",
-      "title": "ブルガリアで多重事故",
-      "text": "まず、ブルガリアの高速道路で起きた大事故です。10日朝、濃い霧の中、首都ソフィアと黒海沿いのブルガスを結ぶ高速道路で、車86台が絡む多重事故が起き、12人が死亡、50人以上がけがをしました。ブルガリア政府は、今日11日を国家哀悼の日としています。",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria",
-      "source_name": "アルジャジーラ",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T092924Z_1064181984_RC2XKOA03VUV_RTRMADP_3_BULGARIA-CRASH-1794312882.jpg?resize=1920%2C1440",
-      "image": {
-        "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T092924Z_1064181984_RC2XKOA03VUV_RTRMADP_3_BULGARIA-CRASH-1794312882.jpg?resize=1920%2C1440",
-        "candidates": [
-          "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T092924Z_1064181984_RC2XKOA03VUV_RTRMADP_3_BULGARIA-CRASH-1794312882.jpg?resize=1920%2C1440",
-          "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T092924Z_1064181984_RC2XKOA03VUV_RTRMADP_3_BULGARIA-CRASH-1794312882.jpg?resize=770%2C513&amp;quality=80"
-        ],
-        "width": 1920,
-        "height": 1440,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "02",
-      "title": "安保3文書の改定協議",
-      "text": "国内の話題です。自民党と日本維新の会は10日、国家安全保障戦略など安全保障関連の3文書の年内改定に向け、与党の実務者協議を始めました。防衛力の変革で、相手の攻撃を思いとどまらせる力を高めるのがねらいです。小泉防衛大臣は、陸・海・空の自衛隊の真の統合を進めていきたいと述べました。",
-      "source_url": "https://www.excite.co.jp/news/article/Kyodo_1492669463921328425/",
-      "source_name": "共同通信",
+      "title": "ドコモ障害が復旧",
+      "text": "国内の話題です。NTTドコモは11日、午前10時34分から全国で起きていた高速通信サービス「5G SA」の通信障害が、午後7時17分に復旧したと発表しました。原因は交換機の混雑で、不正アクセスやサイバー攻撃の痕跡は確認されていません。ドコモでは5日にも同じ原因の障害が起き、最大でおよそ158万回線に影響しました。",
+      "source_url": "https://www.nikkei.com/article/DGXZQOUC060GI0W6A101C2000000/",
+      "source_name": "日本経済新聞",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://s.eximg.jp/exnews/feed/Kyodo/3a/Kyodo_1492669463921328425/Kyodo_1492669463921328425_1.jpg",
-          "https://s.eximg.jp/exnews/logo/kyodo.png"
+          "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3837079006112026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;w=1200&amp;s=074b8c729ab32dfae82d3cdb5ff5f08c",
+          "https://www.nikkei.com/api/svg/v1/k-search.rev-adf84c.svg?fill=%23333"
         ],
-        "width": 360,
-        "height": 234,
+        "width": null,
+        "height": null,
+        "status": "rejected:size"
+      }
+    },
+    {
+      "id": "02",
+      "title": "消費減税法案が参院審議入り",
+      "text": "飲食料品の消費税減税と所得連動型の現金給付を盛り込んだ法案は11日、参議院本会議で審議入りしました。高市首相は、減税による負担軽減を実感してもらえるよう取り組むと述べました。参議院では与党が少数で、野党の賛同を取り付けられるかが焦点です。あす13日には、首相が出席して特別委員会での実質審議が始まることで合意しました。",
+      "source_url": "https://www.sankei.com/article/20261111-QVFRO6WRCJNCRDZVAVIV5MV74I/",
+      "source_name": "産経新聞",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [
+          "https://www.sankei.com/resizer/v2/FHWZGOW36ZJ65LH5GVSTSPX5AU.jpg?auth=7a3d62e863a133d4b65e99773ae0401c8699fe4e6c6dc26746d81c6f8b03a637&amp;quality=50&amp;smart=true&amp;width=1200&amp;height=675",
+          "https://www.sankei.com/pf/resources/icons/sankei.svg?d=1209"
+        ],
+        "width": null,
+        "height": null,
         "status": "rejected:keyword"
       }
     },
     {
       "id": "03",
-      "title": "9月の家計調査",
-      "text": "総務省が10日発表した9月の家計調査では、2人以上の世帯の消費支出は28万9536円で、物価の変動を除いた実質で前の年の同じ月より6.8パーセント減りました。減少は10か月連続で、2020年9月以来の大幅な落ち込みです。総務省は、雨の日が多く外出の機会が減ったことが影響したとみています。",
-      "source_url": "https://news.web.nhk/newsweb/na/nd-20261110de73268",
-      "source_name": "NHK",
+      "title": "安保3文書の改定議論",
+      "text": "自民党は11日、年末に予定される安全保障関連3文書の改定に向けた議論を始めました。政府は、相手の攻撃を思いとどまらせる「拒否する能力」を高める方針を示し、党内からは原潜の保有の検討を求める意見も出ました。",
+      "source_url": "https://www.excite.co.jp/news/article/Kyodo_1493075386214450030/",
+      "source_name": "共同通信",
       "image_url": null,
       "image": {
         "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "error:page:HTTPError"
+        "candidates": [
+          "https://s.eximg.jp/exnews/feed/Kyodo/65/Kyodo_1493075386214450030/Kyodo_1493075386214450030_1.jpg",
+          "https://s.eximg.jp/exnews/logo/kyodo.png"
+        ],
+        "width": 360,
+        "height": 205,
+        "status": "rejected:keyword"
       }
     },
     {
       "id": "04",
-      "title": "国保の保険料上限引き上げ",
-      "text": "厚生労働省は、自営業者などが入る国民健康保険の保険料のうち、医療分の年間の上限額を、2027年度に3万円引き上げて96万円とする方針を固めました。",
-      "source_url": "https://news.livedoor.com/article/detail/32780799/",
-      "source_name": "livedoorニュース",
-      "image_url": "https://image.news.livedoor.com/newsimage/stf/o/g/ogp_image_32780799_c2a36ccacc1a.jpg",
+      "title": "京都で鳥インフル疑い",
+      "text": "京都府亀岡市の養鶏場で、高病原性鳥インフルエンザの疑い事例が確認されました。簡易検査で陽性となり、遺伝子検査の結果は今日12日に判明する見込みです。確定すれば国内の養鶏場では今シーズン初めてで、飼育する採卵鶏およそ20万羽が殺処分されます。高市首相は、徹底した防疫措置を迅速に進めるよう指示しました。",
+      "source_url": "https://www.nikkei.com/article/DGXZQOUF118WY0R11C26A1000000/",
+      "source_name": "日本経済新聞",
+      "image_url": null,
       "image": {
-        "url": "https://image.news.livedoor.com/newsimage/stf/o/g/ogp_image_32780799_c2a36ccacc1a.jpg",
+        "url": null,
         "candidates": [
-          "https://image.news.livedoor.com/newsimage/stf/o/g/ogp_image_32780799_c2a36ccacc1a.jpg",
-          "https://news.livedoor.com/img/cmn/btn_share_x.svg"
+          "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3863908011112026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;w=1200&amp;s=6d4d559e972734f1b560fe834d7fc962",
+          "https://www.nikkei.com/api/svg/v1/k-search.rev-adf84c.svg?fill=%23333"
         ],
-        "width": 1200,
-        "height": 630,
-        "status": "ok"
+        "width": null,
+        "height": null,
+        "status": "rejected:size"
       }
     },
     {
       "id": "05",
-      "title": "日経平均が大幅反発",
-      "text": "10日の東京株式市場では、日経平均株価が前の日より1684円08銭高い6万459円58銭と大幅に反発しました。前日のアメリカ株の大幅高を受けて、買い戻しが広がりました。円相場は、1ドル158円台前半で推移しています。",
-      "source_url": "https://9qu1.com/invest-daily/2026-11-10-night.html",
+      "title": "アブダビ協議が終了",
+      "text": "次に、世界の話題です。アメリカ、ロシア、ウクライナの3か国高官協議は11日、アブダビで2日間の日程を終え、ロシアとウクライナが大規模な捕虜交換で合意しました。具体的な人数は今後詰めるとしています。領土問題などでの進展は明らかになっていません。あわせて、G7の外相会合ではウクライナ支援の継続で一致しました。",
+      "source_url": "https://www.iza.ne.jp/article/20261111-IHDXU4Z2J5JTBD2ZMGX27KVGTM/?outputType=amp",
+      "source_name": "イザ！",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [
+          "https://www.iza.ne.jp/resizer/v2/B6WZ6ILZLRITHGNXTJMMSGXOFA.jpg?auth=83a363feb44cb45a1351fd6a2eaf318866792ac40403f8b84bea0c5c13f8dbb0&amp;quality=50&amp;focal=1802%2C814&amp;width=1200&amp;height=675"
+        ],
+        "width": null,
+        "height": null,
+        "status": "error:image:HTTPError"
+      }
+    },
+    {
+      "id": "06",
+      "title": "日経平均が反発",
+      "text": "次に、経済と市場の動きです。11日の東京株式市場では、日経平均株価が前の日より789円01銭高い6万1248円59銭で取引を終えました。前日のアメリカ株安を受けて始まりましたが、買い戻しが広がり上げ幅を広げました。円相場は、1ドル159円台で推移しています。",
+      "source_url": "https://9qu1.com/invest-daily/2026-11-11-night.html",
       "source_name": "投資デイリー",
       "image_url": null,
       "image": {
@@ -105,62 +125,29 @@
       }
     },
     {
-      "id": "06",
-      "title": "アブダビで三者協議",
-      "text": "次に、世界の話題です。アラブ首長国連邦のアブダビで、アメリカ、ロシア、ウクライナの三者協議が10日に始まりました。2月以来、9か月ぶりの三者協議で、初日は4時間を超える話し合いが行われました。ウクライナへの安全保障の保証や、捕虜の交換などが議題で、協議は今日も続けられます。",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/10/russia-and-ukraine-security-focused-talks-start-in-abu-dhabi/",
-      "source_name": "The National",
+      "id": "07",
+      "title": "NY株はハイテク買い",
+      "text": "11日夜のニューヨーク株式市場は、AI向けデータセンター大手コアウィーブの決算が市場予想を上回ったことで、ハイテク株に買いが戻っています。日本時間の今夜11時40分ごろの時点では、ナスダックが1.3パーセント高、S&P500が0.8パーセント高、ダウ平均はほぼ横ばいです。日本時間の今はまだ取引の途中で、終値は確定していません。退役軍人の日のため、アメリカの債券市場は休場です。",
+      "source_url": "https://biz.chosun.com/international/international_economy/2026/11/12/VZL7OTTNV5CSNHUH5IG7MLB6H4/",
+      "source_name": "朝鮮Biz",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://www.thenationalnews.com/resizer/v2/4WW423RANVAZPIJP7YXJQQURHU.jpeg?auth=1f0f5f780e7c692cdc10f2a471f696bef4ca939deba7a2055da7212a78ad939a&amp;smart=true&amp;width=1200&amp;height=630",
-          "https://www.thenationalnews.com/pf/resources/images/app-banner-icon.svg?d=1171"
+          "https://biz.chosun.com/resizer/v2/GUYWCNBSGU4DOMTBGQYTAYJZHE.jpg?auth=6730e314a800eb54193a3b50489f99dc20a8d5cef1bae161530a7d11264dd2e6&amp;width=1200&amp;height=630&amp;smart=true",
+          "https://biz.chosun.com/resizer/v2/GUYWCNBSGU4DOMTBGQYTAYJZHE.jpg?auth=6730e314a800eb54193a3b50489f99dc20a8d5cef1bae161530a7d11264dd2e6&amp;width=616"
         ],
         "width": null,
         "height": null,
-        "status": "rejected:keyword"
-      }
-    },
-    {
-      "id": "07",
-      "title": "米10月消費者物価指数",
-      "text": "次に、経済と市場の動きです。アメリカの10月の消費者物価指数は、前の月より0.4パーセント上昇し、市場予想を上回りました。食品とエネルギーを除いた指数も0.3パーセント上昇しました。アメリカの中央銀行、FRBが来月、追加の利上げを決めるとの見方が強まっています。",
-      "source_url": "https://news.web.nhk/newsweb/na/nd-20261110de73820",
-      "source_name": "NHK",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "error:page:HTTPError"
+        "status": "error:image:HTTPError"
       }
     },
     {
       "id": "08",
-      "title": "NY株は下落して開始",
-      "text": "消費者物価指数の発表を受けた10日夜のニューヨーク株式市場は、ダウ平均が195ドル安、ナスダックが1パーセント安で取引を開始しました。日本時間の今はまだ取引の途中で、終値は確定していません。",
-      "source_url": "https://s.kabutan.jp/news/n202611110009/",
-      "source_name": "株探",
-      "image_url": "https://async.api.kabutan.jp/og_image?title=%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E3%81%AF%E4%B8%8B%E8%90%BD%E3%81%97%E3%81%A6%E5%A7%8B%E3%81%BE%E3%82%8B%E3%80%80%EF%BC%91%EF%BC%99%EF%BC%95%E3%83%89%E3%83%AB%E5%AE%89%E3%80%80%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E3%81%AF%E5%A4%A7%E5%B9%85%E5%AE%89%EF%BC%9D%E7%B1%B3%E5%9B%BD%E6%A0%AA%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3",
-      "image": {
-        "url": "https://async.api.kabutan.jp/og_image?title=%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E3%81%AF%E4%B8%8B%E8%90%BD%E3%81%97%E3%81%A6%E5%A7%8B%E3%81%BE%E3%82%8B%E3%80%80%EF%BC%91%EF%BC%99%EF%BC%95%E3%83%89%E3%83%AB%E5%AE%89%E3%80%80%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E3%81%AF%E5%A4%A7%E5%B9%85%E5%AE%89%EF%BC%9D%E7%B1%B3%E5%9B%BD%E6%A0%AA%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3",
-        "candidates": [
-          "https://async.api.kabutan.jp/og_image?title=%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E3%81%AF%E4%B8%8B%E8%90%BD%E3%81%97%E3%81%A6%E5%A7%8B%E3%81%BE%E3%82%8B%E3%80%80%EF%BC%91%EF%BC%99%EF%BC%95%E3%83%89%E3%83%AB%E5%AE%89%E3%80%80%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E3%81%AF%E5%A4%A7%E5%B9%85%E5%AE%89%EF%BC%9D%E7%B1%B3%E5%9B%BD%E6%A0%AA%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3",
-          "https://prod-assets-s.kabutan.jp/assets/kabutan_logo/default_big-05a4c6ff.svg"
-        ],
-        "width": 1200,
-        "height": 630,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "09",
-      "title": "アンソロピック新モデル",
-      "text": "次に、テクノロジーの話題です。アメリカのアンソロピックは9日、新型の人工知能モデル、フェイブル5.2とミトス5.2を発表しました。あわせて、10兆円規模の資金調達を進めていることも報じられています。",
-      "source_url": "https://sevenlights.org/podcast/2026-11-10-daily-brief/",
-      "source_name": "Seven Lights",
+      "title": "三井化学がJSR買収",
+      "text": "三井化学は9日に発表した、半導体材料大手JSRの1兆8400億円での取得について、11日の決算会見で、財務体質の一時的な悪化を早期に正常化すると説明しました。国内の化学業界では過去最大の再編で、JSRの半導体材料事業への投資は続けるとしています。",
+      "source_url": "https://www.reuters.com/jp/economy/Z5DOT6SV25KETEBZFYDS6AHMKY-2026-11-11/",
+      "source_name": "ロイター",
       "image_url": null,
       "image": {
         "url": null,
@@ -171,27 +158,26 @@
       }
     },
     {
-      "id": "10",
-      "title": "高速ルータを公開",
-      "text": "神奈川工科大学は、汎用パソコンで100ギガビット級の高速処理ができるソフトウェアルータを機能拡充し、オープンソースとして公開しました。11月にアメリカ・シカゴで開かれる国際会議では、日米を結ぶ400ギガビットの回線を使い、8Kの非圧縮映像をリアルタイムで処理する実証実験を行います。",
-      "source_url": "https://www.niigata-nippo.co.jp/articles/-/940029",
-      "source_name": "新潟日報",
-      "image_url": "https://niigata-nippo.ismcdn.jp/mwimgs/7/0/1200m/img_70bcdd89824b6001af68b92cbc6cfe3f144655.png?rd=202611051124",
+      "id": "09",
+      "title": "タッチ不要の改札へ",
+      "text": "次に、テクノロジーの話題です。JR東日本は10日、スマートフォンを取り出さずに改札を通れる「ウォークスルー改札」を、2028年春から山手線全駅など首都圏の40駅に導入すると発表しました。超広帯域無線を使い、対応するスマートフォンをポケットに入れたままで通過できます。2027年4月からは14駅でモニターによる体験導入が始まります。",
+      "source_url": "https://www.iza.ne.jp/article/20261110-YZ2XNTWRLZCXRHJSAVUAT7J7OQ/?outputType=amp",
+      "source_name": "イザ！",
+      "image_url": null,
       "image": {
-        "url": "https://niigata-nippo.ismcdn.jp/mwimgs/7/0/1200m/img_70bcdd89824b6001af68b92cbc6cfe3f144655.png?rd=202611051124",
+        "url": null,
         "candidates": [
-          "https://niigata-nippo.ismcdn.jp/mwimgs/7/0/1200m/img_70bcdd89824b6001af68b92cbc6cfe3f144655.png?rd=202611051124",
-          "https://niigata-nippo.ismcdn.jp/common/images/site/logo.svg"
+          "https://www.iza.ne.jp/resizer/v2/XBNFEPSP5RL6XJ2LHLFDZACDKI.jpg?auth=fb38d10ea2b0d3dd1a8f8a7d574edb47dda37a30baac22694413842e3e1b1588&amp;quality=50&amp;smart=true&amp;width=1200&amp;height=675"
         ],
-        "width": 1024,
-        "height": 578,
-        "status": "ok"
+        "width": null,
+        "height": null,
+        "status": "error:image:HTTPError"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。アブダビでの三者協議は2日目に入ります。東京大学では、2ナノ世代の半導体で人工知能を動かす技術を紹介する、RISC-V Day Tokyoが開かれます。以上です。よい一日を。",
+      "text": "今日の注目予定です。アメリカのクシュナー氏とウィットコフ特使は今日、モスクワを訪れてプーチン大統領と会談し、アブダビでの協議の結果を話し合います。京都の鳥インフルエンザの疑い事例では、遺伝子検査の結果が判明する見込みです。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
