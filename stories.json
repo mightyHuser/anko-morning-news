@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T04:41:42+09:00",
-  "main_text_sha256": "bc0a6fb42a219ada8c6206d2d6152d587baa76f4880e164281bc3b322db8dcf7",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T04:44:07+09:00",
+  "main_text_sha256": "a4c8b11c6ee1b184e96c80a04876005087f9623ac11ab48f9852e0693232b1b3",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
-      "title": "朝のあいさつ",
-      "text": "おはようございます。11月14日土曜日の朝ニュースです。",
+      "title": "朝のごあいさつ",
+      "text": "おはようございます。11月15日日曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,46 +22,10 @@
     },
     {
       "id": "01",
-      "title": "首相が比・中を訪問へ",
-      "text": "政府は13日、高市総理大臣が16日から19日までフィリピンと中国を訪問すると発表しました。フィリピンではASEAN関連首脳会議に、中国ではAPEC首脳会議に出席します。日本政府は、APECに合わせてロシアのプーチン大統領との会談も打診しています。ロシアで拘束されている北海道新聞の記者の即時解放を求める狙いがあるとみられます。",
-      "source_url": "https://373news.com/news/national/detail/2026111301000533/",
-      "source_name": "共同通信",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [
-          "https://373news.com/_news/newspack/photo/2026/11/PN2026111301000538.-.-.CI0003.jpg",
-          "https://373news.com/assets/core/base/images/twitter.png"
-        ],
-        "width": 450,
-        "height": 332,
-        "status": "rejected:size"
-      }
-    },
-    {
-      "id": "02",
-      "title": "防衛費60兆円規模へ",
-      "text": "政府は、2027年度から5年間の防衛費の総額を60兆円規模とする方向で調整に入りました。現在の5年間は43兆円程度で、大幅な増額となります。財源確保のための大幅な増税は回避する方向ですが、税負担が一定程度増える可能性もあります。年末の安全保障関連3文書の改定に合わせて決めます。",
-      "source_url": "https://373news.com/news/national/detail/2026111301001276/",
-      "source_name": "共同通信",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [
-          "https://373news.com/_news/newspack/photo/2026/11/PN2026111301001279.-.-.CI0003.jpg",
-          "https://373news.com/assets/core/base/images/twitter.png"
-        ],
-        "width": 450,
-        "height": 300,
-        "status": "rejected:size"
-      }
-    },
-    {
-      "id": "03",
-      "title": "現金給付3000万人超に",
-      "text": "高市総理大臣は、就業者の半数以上にあたる3000万人を超える人を対象に、最大2万5000円の現金給付を行う方針を明らかにしました。物価高への対応が目的で、対象や実施時期の詳細は今後詰めます。",
+      "title": "熊本で震度3の地震",
+      "text": "15日午前0時5分ごろ、熊本県熊本地方を震源とするマグニチュード3.9の地震があり、熊本市南区や八代市などで最大震度3を観測しました。津波の心配はありません。",
       "source_url": null,
-      "source_name": "共同通信",
+      "source_name": "",
       "image_url": null,
       "image": {
         "url": null,
@@ -72,129 +36,175 @@
       }
     },
     {
-      "id": "04",
-      "title": "福山の火災で3人死亡",
-      "text": "広島県福山市の住宅が全焼し、住人の親子とみられる3人が死亡しました。警察は、放火の疑いで同居する長男を逮捕しました。火災の原因や経緯を調べています。",
-      "source_url": "https://www.excite.co.jp/news/article/rcc_1493826257319903266/",
-      "source_name": "RCC中国放送",
-      "image_url": null,
+      "id": "02",
+      "title": "マイクロソフト障害が復旧",
+      "text": "まず、国内の話題です。マイクロソフトのクラウドサービスで13日未明から続いていた大規模な接続障害は、14日午後に全面復旧しました。OutlookやTeamsが使えなくなり、政府の基盤システムにも支障が出ましたが、原因はネットワーク増強作業に伴う技術的な問題で、サイバー攻撃ではないと説明しています。",
+      "source_url": "https://news.web.nhk/newsweb/na/nd-20261114de75755",
+      "source_name": "NHK",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000175342_1_l.jpg",
       "image": {
-        "url": null,
+        "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000175342_1_l.jpg",
         "candidates": [
-          "https://s.eximg.jp/exnews/feed/rcc/df/rcc_1493826257319903266/rcc_1493826257319903266_1.jpg",
-          "https://s.eximg.jp/exnews/logo/rcc.jpg"
-        ],
-        "width": 360,
-        "height": 270,
-        "status": "rejected:keyword"
-      }
-    },
-    {
-      "id": "05",
-      "title": "イラン情勢で原油上昇",
-      "text": "次に、世界の話題です。アメリカのトランプ大統領がイランとの協議は不要だとの考えを示し、対イラン攻撃の再開への警戒が強まっています。イラン革命防衛隊の海軍は、ホルムズ海峡でタンカー2隻が機雷に接触し航行不能になったと発表しました。供給への懸念から、原油価格は2日続けて上昇しています。",
-      "source_url": "https://note.com/hirokimiyano/n/n267fc7cfbdbf",
-      "source_name": "note",
-      "image_url": "https://assets.st-note.com/production/uploads/images/335472317/rectangle_large_type_2_7f460cff206bb766f5f62c535689d362.png?fit=bounds&amp;quality=85&amp;width=1280",
-      "image": {
-        "url": "https://assets.st-note.com/production/uploads/images/335472317/rectangle_large_type_2_7f460cff206bb766f5f62c535689d362.png?fit=bounds&amp;quality=85&amp;width=1280",
-        "candidates": [
-          "https://assets.st-note.com/production/uploads/images/335472317/rectangle_large_type_2_7f460cff206bb766f5f62c535689d362.png?fit=bounds&amp;quality=85&amp;width=1280",
-          "https://assets.st-note.com/production/uploads/images/335472317/rectangle_large_type_2_7f460cff206bb766f5f62c535689d362.png?width=1200"
+          "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000175342_1_l.jpg"
         ],
         "width": 1920,
-        "height": 1005,
+        "height": 1080,
         "status": "ok"
       }
     },
     {
-      "id": "06",
-      "title": "COP31が初週を終える",
-      "text": "トルコのアンタルヤで開かれている国連の気候変動枠組み条約の締約国会議、COP31は、初週を終えました。アメリカのトランプ政権は2年連続で公式の代表団を送らず、ミネソタ州知事ら地方の指導者が参加しています。",
-      "source_url": "https://udn.com/news/story/6809/9876340?from=udn-catebreaknews_ch2",
-      "source_name": "聯合報",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35514122.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+      "id": "03",
+      "title": "衆院比例31議席削減法案",
+      "text": "自民党、日本維新の会、国民民主党の3党は12日、衆議院の比例代表の定数を176から145へ、31議席削減する法案を共同で国会に提出しました。与党側は来週の審議入りを提案しています。",
+      "source_url": "https://news.web.nhk/newsweb/na/nd-20261113de75610",
+      "source_name": "NHK",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75610/20261113de75610_E0000003841_1_l.jpg",
       "image": {
-        "url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35514122.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+        "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75610/20261113de75610_E0000003841_1_l.jpg",
         "candidates": [
-          "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35514122.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
-          "https://sb.scorecardresearch.com/p?c1=2&c2=7390954&comscorekw=&cv=4.0.0&cj=1"
+          "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75610/20261113de75610_E0000003841_1_l.jpg"
         ],
-        "width": 1279,
-        "height": 853,
+        "width": 1920,
+        "height": 1080,
+        "status": "ok"
+      }
+    },
+    {
+      "id": "04",
+      "title": "米イラン対立と原油",
+      "text": "次に、世界の話題です。アメリカとイランの対立が続いています。ホルムズ海峡では今週、タンカーなどの爆発が相次ぎ、イラン側はバーレーンの米軍施設を狙ったと主張しました。米軍はイランの無人機2機を撃墜したと発表しています。トランプ大統領は、イランとの取引はもう必要ないと投稿しました。",
+      "source_url": null,
+      "source_name": "",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [],
+        "width": null,
+        "height": null,
+        "status": "none"
+      }
+    },
+    {
+      "id": "05",
+      "title": "米中ロ首脳会談へ",
+      "text": "トランプ大統領は19日、中国・深圳で開かれるAPECの首脳会議にあわせて、習近平国家主席、プーチン大統領と初めての3か国首脳会談を行う見通しです。また日本政府は、北海道新聞の記者のロシアでの拘束問題を受け、高市総理とプーチン大統領の会談をロシア側に打診しています。",
+      "source_url": null,
+      "source_name": "",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [],
+        "width": null,
+        "height": null,
+        "status": "none"
+      }
+    },
+    {
+      "id": "06",
+      "title": "全米で離陸停止の異例措置",
+      "text": "アメリカでは13日夕方、航空管制の通信障害のため、連邦航空局が全米の空港で離陸を止める異例の措置を取り、約4時間半後に解除されました。8000便以上が欠航し、週末も欠航や遅れが続いています。当局はサイバー攻撃の証拠はないとしています。",
+      "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261114de75798/",
+      "source_name": "NHK WORLD-JAPAN",
+      "image_url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/news/20261114de75798_E0000175046_L.jpg",
+      "image": {
+        "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/news/20261114de75798_E0000175046_L.jpg",
+        "candidates": [
+          "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/news/20261114de75798_E0000175046_L.jpg"
+        ],
+        "width": 1920,
+        "height": 1080,
         "status": "ok"
       }
     },
     {
       "id": "07",
-      "title": "NY株は反落",
-      "text": "次に、経済と市場の動きです。12日のニューヨーク株式市場は反落しました。ダウ平均は189ドル安の5万2297ドル、ナスダックは100ポイント安の2万5366ドルで取引を終えました。エヌビディアのCEO辞任を受けたハイテク株の売りや、追加利上げへの警戒が重しとなりました。ドル円は159円台後半で推移しています。",
-      "source_url": "https://www.zaikei.co.jp/article/20261113/877363.html",
-      "source_name": "財経新聞",
-      "image_url": "https://www.zaikei.co.jp/images/zaikei_og_image.jpg",
+      "title": "米株まちまち、ナスダック安",
+      "text": "次に、経済と市場の動きです。13日のニューヨーク株式市場はまちまちで、ダウ平均は小幅に上昇した一方、エヌビディアのトップ交代の余波でハイテク株が売られ、ナスダックは0.9パーセント下落しました。ただ週間では主要3指数とも上昇しています。原油はブレントが1バレル95ドル台後半、ドル円は159円台半ばで推移しています。",
+      "source_url": "https://menafn.com/1111960384/US-Stocks-End-Lower-As-Nvidia-Fallout-Weighs-On-Technology-Shares",
+      "source_name": "MENAFN",
+      "image_url": null,
       "image": {
-        "url": "https://www.zaikei.co.jp/images/zaikei_og_image.jpg",
+        "url": null,
         "candidates": [
-          "https://www.zaikei.co.jp/images/zaikei_og_image.jpg",
-          "https://www.facebook.com/tr?id=218371325168924&ev=PageView&noscript=1"
+          "https://menafn.com/includes/img/logo.jpg",
+          "https://menafn.com/Images/logo.jpg"
         ],
-        "width": 600,
-        "height": 600,
-        "status": "ok"
+        "width": 200,
+        "height": 50,
+        "status": "rejected:keyword"
       }
     },
     {
       "id": "08",
-      "title": "東証は一時1000円超高",
-      "text": "13日の東京株式市場では、午前中に日経平均株価が一時1000円を超えて上昇しました。ハイテク関連の銘柄に買いが入っています。",
-      "source_url": null,
-      "source_name": "共同通信",
+      "title": "アンソロピック上場へ",
+      "text": "人工知能のアンソロピックは19日に株式を上場する予定で、ブルームバーグによりますと、募集に対しておよそ6倍の応募が集まったと報じられています。エヌビディアの決算発表は17日に予定されています。",
+      "source_url": "https://www.linkedin.com/pulse/weekend-buzz-14-15-november-2026-china-biz-buzz-btykc",
+      "source_name": "LinkedIn",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [],
         "width": null,
         "height": null,
-        "status": "none"
+        "status": "error:page:RemoteDisconnected"
       }
     },
     {
       "id": "09",
-      "title": "EUV露光の感度向上技術",
-      "text": "次に、テクノロジーの話題です。日本曹達と関西大学は、半導体の回路を描くEUV露光で、レジストの感度を高める下層膜の材料を開発したと発表しました。必要な露光量を20パーセント以上減らせることを確認したということで、半導体の微細化や製造コストの低減につながる技術として注目されます。",
-      "source_url": "https://news.mynavi.jp/techplus/article/20261113-5316981/",
-      "source_name": "マイナビニュース",
-      "image_url": "https://news.mynavi.jp/techplus/article/20261113-5316981/ogp_images/ogp.jpg",
+      "title": "原子核時計を世界初実証",
+      "text": "次に、テクノロジーと科学の話題です。原子核のエネルギー変化を利用して時を刻む原子核時計を、欧州と中国の研究チームが別々に開発し、動作の実証に世界で初めて成功しました。両方の論文は10月、英科学誌ネイチャーに同時掲載されています。",
+      "source_url": "https://www.tokyo-np.co.jp/article/528136",
+      "source_name": "東京新聞",
+      "image_url": "https://static.tokyo-np.co.jp/image/article/size1/f/1/7/d/f17d27fe3a26d4e2cc45427cf60b840f_1.jpg",
       "image": {
-        "url": "https://news.mynavi.jp/techplus/article/20261113-5316981/ogp_images/ogp.jpg",
+        "url": "https://static.tokyo-np.co.jp/image/article/size1/f/1/7/d/f17d27fe3a26d4e2cc45427cf60b840f_1.jpg",
         "candidates": [
-          "https://news.mynavi.jp/techplus/article/20261113-5316981/ogp_images/ogp.jpg",
-          "https://news.mynavi.jp/images/techplus/logo-tech.png"
+          "https://static.tokyo-np.co.jp/image/article/size1/f/1/7/d/f17d27fe3a26d4e2cc45427cf60b840f_1.jpg"
         ],
-        "width": 1200,
-        "height": 630,
+        "width": 1220,
+        "height": 690,
         "status": "ok"
       }
     },
     {
       "id": "10",
-      "title": "大谷はMVP投票2位",
-      "text": "大リーグの大谷翔平選手は、今シーズンの最優秀選手、MVPの投票で2位となり、4年連続の受賞はなりませんでした。",
-      "source_url": null,
-      "source_name": "共同通信",
-      "image_url": null,
+      "title": "小型衛星ヤマツミ2が通信成功",
+      "text": "福岡のQPS研究所が開発した小型レーダー衛星、ヤマツミ2は、14日午後にニュージーランドから打ち上げられ、宇宙で初めての通信に成功しました。災害時の観測などに生かされる見通しです。",
+      "source_url": "https://news.3rd-in.co.jp/article/c1202eb2-e005-11f1-b217-9ca3ba09c411",
+      "source_name": "サードニュース",
+      "image_url": "https://img.news.3rd-in.co.jp/storage/articles/2026/11/14/c1202eb2-e005-11f1-b217-9ca3ba09c411/49970-136-fb1f6827835740031b9b88de07bd38b2-2047x1365.webp",
       "image": {
-        "url": null,
-        "candidates": [],
+        "url": "https://img.news.3rd-in.co.jp/storage/articles/2026/11/14/c1202eb2-e005-11f1-b217-9ca3ba09c411/49970-136-fb1f6827835740031b9b88de07bd38b2-2047x1365.webp",
+        "candidates": [
+          "https://img.news.3rd-in.co.jp/storage/articles/2026/11/14/c1202eb2-e005-11f1-b217-9ca3ba09c411/49970-136-fb1f6827835740031b9b88de07bd38b2-2047x1365.webp"
+        ],
         "width": null,
         "height": null,
-        "status": "none"
+        "status": "ok"
+      }
+    },
+    {
+      "id": "11",
+      "title": "日本代表がブラジルに勝利",
+      "text": "次に、スポーツです。サッカーの日本代表は14日、シンガポールでのブラジルとの国際親善試合に3対2で勝ちました。久保建英選手と中村敬斗選手のゴールで先行し、追いつかれたあと、後半のアディショナルタイムに坂元達裕選手が決勝ゴールを決めました。",
+      "source_url": "https://news.ntv.co.jp/category/sports/b1235b6810d9482fbcda0d550d5d3725",
+      "source_name": "日テレNEWS",
+      "image_url": "https://news.ntv.co.jp/gimage/n24/articles/778635e6cf6a481c861afbbb71457838/a4ac67c4-f630-4ee7-be1f-bc0d45ef5b38.jpg?w=1200",
+      "image": {
+        "url": "https://news.ntv.co.jp/gimage/n24/articles/778635e6cf6a481c861afbbb71457838/a4ac67c4-f630-4ee7-be1f-bc0d45ef5b38.jpg?w=1200",
+        "candidates": [
+          "https://news.ntv.co.jp/gimage/n24/articles/778635e6cf6a481c861afbbb71457838/a4ac67c4-f630-4ee7-be1f-bc0d45ef5b38.jpg?w=1200",
+          "https://news.ntv.co.jp/images/provider_logos/logos/NTV_H32px.png"
+        ],
+        "width": 1200,
+        "height": 675,
+        "status": "ok"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。サッカーの日本代表は、シンガポールでブラジル代表と国際親善試合を行います。ラグビーの日本代表は、ロンドンでイングランド代表と対戦します。以上です。よい一日を。",
+      "text": "今日の注目予定です。野球の侍ジャパンは今夜7時から東京ドームで韓国と決勝を戦い、大会3連覇を目指します。福島県では、ふくしま駅伝が行われます。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
