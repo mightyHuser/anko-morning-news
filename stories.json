@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T04:44:07+09:00",
-  "main_text_sha256": "a4c8b11c6ee1b184e96c80a04876005087f9623ac11ab48f9852e0693232b1b3",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T04:46:10+09:00",
+  "main_text_sha256": "34db6686ad36d855c5a00b98f13657735d31fcc54ec57b8e3965ae138400ec32",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のごあいさつ",
-      "text": "おはようございます。11月15日日曜日の朝ニュースです。",
+      "text": "おはようございます。11月16日月曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,47 +22,51 @@
     },
     {
       "id": "01",
-      "title": "熊本で震度3の地震",
-      "text": "15日午前0時5分ごろ、熊本県熊本地方を震源とするマグニチュード3.9の地震があり、熊本市南区や八代市などで最大震度3を観測しました。津波の心配はありません。",
-      "source_url": null,
-      "source_name": "",
-      "image_url": null,
+      "title": "福岡市長選は再選挙へ",
+      "text": "まず、国内の話題です。15日に投開票された福岡市長選挙は、過去最多の13人が立候補して票が割れ、最多の13万7667票を得た稲富修二さんも、当選に必要な有効投票数の4分の1に届かず、再選挙が確実となりました。投票率は45.58パーセントでした。政令指定都市での再選挙は2003年の札幌市以来2例目で、再選挙は来年1月中旬の投開票が有力とみられています。最多得票の稲富さんは、再選挙への出馬について、支援者と相談して対応したいと述べています。",
+      "source_url": "https://www.47news.jp/15235762.html",
+      "source_name": "西日本新聞",
+      "image_url": "https://img.cf.47news.jp/public/photo/a85b30b4ba6b68025a60891ca5717c39/photo.jpg",
       "image": {
-        "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "none"
+        "url": "https://img.cf.47news.jp/public/photo/a85b30b4ba6b68025a60891ca5717c39/photo.jpg",
+        "candidates": [
+          "https://img.cf.47news.jp/public/photo/a85b30b4ba6b68025a60891ca5717c39/photo.jpg",
+          "https://www.47news.jp/lib/common/img/header_logo.svg"
+        ],
+        "width": 670,
+        "height": 503,
+        "status": "ok"
       }
     },
     {
       "id": "02",
-      "title": "マイクロソフト障害が復旧",
-      "text": "まず、国内の話題です。マイクロソフトのクラウドサービスで13日未明から続いていた大規模な接続障害は、14日午後に全面復旧しました。OutlookやTeamsが使えなくなり、政府の基盤システムにも支障が出ましたが、原因はネットワーク増強作業に伴う技術的な問題で、サイバー攻撃ではないと説明しています。",
-      "source_url": "https://news.web.nhk/newsweb/na/nd-20261114de75755",
-      "source_name": "NHK",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000175342_1_l.jpg",
+      "title": "各地で首長選の結果",
+      "text": "15日投開票の各地の首長選挙では、愛媛県知事選挙で現職の中村時広さんが5選を果たし、熊本市長選挙では現職の大西一史さんが4選、松山市長選挙では新人の中野泰誠さんが初当選しました。",
+      "source_url": "https://www.47news.jp/15234968.html",
+      "source_name": "47NEWS",
+      "image_url": "https://img.cf.47news.jp/public/photo/8ef34c70bfb90927a29a17bff4891dcb/photo.jpg",
       "image": {
-        "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000175342_1_l.jpg",
+        "url": "https://img.cf.47news.jp/public/photo/8ef34c70bfb90927a29a17bff4891dcb/photo.jpg",
         "candidates": [
-          "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000175342_1_l.jpg"
+          "https://img.cf.47news.jp/public/photo/8ef34c70bfb90927a29a17bff4891dcb/photo.jpg",
+          "https://www.47news.jp/lib/common/img/header_logo.svg"
         ],
-        "width": 1920,
-        "height": 1080,
+        "width": 3785,
+        "height": 2806,
         "status": "ok"
       }
     },
     {
       "id": "03",
-      "title": "衆院比例31議席削減法案",
-      "text": "自民党、日本維新の会、国民民主党の3党は12日、衆議院の比例代表の定数を176から145へ、31議席削減する法案を共同で国会に提出しました。与党側は来週の審議入りを提案しています。",
-      "source_url": "https://news.web.nhk/newsweb/na/nd-20261113de75610",
+      "title": "横田めぐみさん拉致49年",
+      "text": "北朝鮮に拉致された横田めぐみさんは、15日で拉致から49年となりました。新潟市で14日に開かれた集会では、母親の早紀江さん90歳が、1回でもいいから会いたいと訴え、家族らが日朝首脳会談の開催と被害者全員の即時一括帰国を求めました。高市総理も、拉致被害者の皆さんに一刻も早く祖国の土を踏んでいただくことが使命だと投稿しました。",
+      "source_url": "https://news.web.nhk/newsweb/na/nd-20261114de75986",
       "source_name": "NHK",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75610/20261113de75610_E0000003841_1_l.jpg",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75986/20261114de75986_E0000176220_1_l.jpg",
       "image": {
-        "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75610/20261113de75610_E0000003841_1_l.jpg",
+        "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75986/20261114de75986_E0000176220_1_l.jpg",
         "candidates": [
-          "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75610/20261113de75610_E0000003841_1_l.jpg"
+          "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75986/20261114de75986_E0000176220_1_l.jpg"
         ],
         "width": 1920,
         "height": 1080,
@@ -71,140 +75,98 @@
     },
     {
       "id": "04",
-      "title": "米イラン対立と原油",
-      "text": "次に、世界の話題です。アメリカとイランの対立が続いています。ホルムズ海峡では今週、タンカーなどの爆発が相次ぎ、イラン側はバーレーンの米軍施設を狙ったと主張しました。米軍はイランの無人機2機を撃墜したと発表しています。トランプ大統領は、イランとの取引はもう必要ないと投稿しました。",
-      "source_url": null,
-      "source_name": "",
-      "image_url": null,
+      "title": "出雲で特急と車が衝突",
+      "text": "15日夜、島根県出雲市のJR山陰線の踏切で、特急スーパーおきと軽乗用車が衝突し、軽乗用車が炎上しました。大破した車の中から1人の遺体が見つかりました。列車の乗客と乗務員52人にけがはなく、山陰線は西出雲駅と大田市駅の間で運転を取りやめました。",
+      "source_url": "https://news.yahoo.co.jp/articles/31100659cb74dcc79119beec1cfc43ef8162dc40",
+      "source_name": "日本海テレビ",
+      "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-08627737-nkt-000-2-view.jpg?exp=10800",
       "image": {
-        "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "none"
+        "url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-08627737-nkt-000-2-view.jpg?exp=10800",
+        "candidates": [
+          "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-08627737-nkt-000-2-view.jpg?exp=10800",
+          "https://s.yimg.jp/c/logo/f/2.0/news_r_34_2x.png"
+        ],
+        "width": 640,
+        "height": 853,
+        "status": "ok"
       }
     },
     {
       "id": "05",
-      "title": "米中ロ首脳会談へ",
-      "text": "トランプ大統領は19日、中国・深圳で開かれるAPECの首脳会議にあわせて、習近平国家主席、プーチン大統領と初めての3か国首脳会談を行う見通しです。また日本政府は、北海道新聞の記者のロシアでの拘束問題を受け、高市総理とプーチン大統領の会談をロシア側に打診しています。",
-      "source_url": null,
-      "source_name": "",
-      "image_url": null,
+      "title": "エストニアが対ロ国境閉鎖へ",
+      "text": "次に、世界の話題です。エストニアは、ロシアの軍事情報機関によるドローン製造企業への放火未遂があったとして、12月1日からロシアとの国境にある検問所をすべて閉鎖すると発表しました。事件をめぐっては8人が拘束されています。エストニアは、EUとNATOの加盟国で、ウクライナを強く支援しています。",
+      "source_url": "https://www.aljazeera.com/amp/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker",
+      "source_name": "アルジャジーラ",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af9e9dedd-1794763230.jpg?resize=1920%2C1440",
       "image": {
-        "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "none"
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af9e9dedd-1794763230.jpg?resize=1920%2C1440",
+        "candidates": [
+          "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af9e9dedd-1794763230.jpg?resize=1920%2C1440",
+          "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af9e9dedd-1794763230.jpg?resize=770%2C513&amp;quality=80"
+        ],
+        "width": 1920,
+        "height": 1440,
+        "status": "ok"
       }
     },
     {
       "id": "06",
-      "title": "全米で離陸停止の異例措置",
-      "text": "アメリカでは13日夕方、航空管制の通信障害のため、連邦航空局が全米の空港で離陸を止める異例の措置を取り、約4時間半後に解除されました。8000便以上が欠航し、週末も欠航や遅れが続いています。当局はサイバー攻撃の証拠はないとしています。",
-      "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261114de75798/",
-      "source_name": "NHK WORLD-JAPAN",
-      "image_url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/news/20261114de75798_E0000175046_L.jpg",
+      "title": "日経平均が反発",
+      "text": "次に、経済と市場の動きです。13日の東京株式市場で日経平均株価は322円高の6万1142円で反発し、週間では3700円あまり上昇しました。アメリカの株式市場は週末で休場のため、今週の動きは今夜の取引からとなります。",
+      "source_url": "https://www.nikkei.com/article/DGXZQOFL130J90T11C26A1000000/",
+      "source_name": "日本経済新聞",
+      "image_url": null,
       "image": {
-        "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/news/20261114de75798_E0000175046_L.jpg",
+        "url": null,
         "candidates": [
-          "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/news/20261114de75798_E0000175046_L.jpg"
+          "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3873204013112026000000-2.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;upscale=false&amp;w=1200&amp;s=0813a838cc979e613172fa68765a7394",
+          "https://www.nikkei.com/api/svg/v1/k-search.rev-adf84c.svg?fill=%23333"
         ],
-        "width": 1920,
-        "height": 1080,
-        "status": "ok"
+        "width": null,
+        "height": null,
+        "status": "rejected:size"
       }
     },
     {
       "id": "07",
-      "title": "米株まちまち、ナスダック安",
-      "text": "次に、経済と市場の動きです。13日のニューヨーク株式市場はまちまちで、ダウ平均は小幅に上昇した一方、エヌビディアのトップ交代の余波でハイテク株が売られ、ナスダックは0.9パーセント下落しました。ただ週間では主要3指数とも上昇しています。原油はブレントが1バレル95ドル台後半、ドル円は159円台半ばで推移しています。",
-      "source_url": "https://menafn.com/1111960384/US-Stocks-End-Lower-As-Nvidia-Fallout-Weighs-On-Technology-Shares",
-      "source_name": "MENAFN",
-      "image_url": null,
+      "title": "量子コンピュータ黎明を更新",
+      "text": "次に、テクノロジーと科学の話題です。理化学研究所は、量子コンピュータ黎明を新機種に更新し、全結合の56量子ビットになったと発表しました。量子で作ったデータでAIを学習させる材料計算などの研究も始まっています。ソフトバンクを加えた3者で、量子コンピュータを国内のAIデータセンターにつなぐ検討も始めるということです。",
+      "source_url": "https://jpjj.jp/articles/riken-quantinuum-reimei-h2-upgrade/",
+      "source_name": "日本時事新聞",
+      "image_url": "https://jpjj.jp/articles/riken-quantinuum-reimei-h2-upgrade/opengraph-image/",
       "image": {
-        "url": null,
+        "url": "https://jpjj.jp/articles/riken-quantinuum-reimei-h2-upgrade/opengraph-image/",
         "candidates": [
-          "https://menafn.com/includes/img/logo.jpg",
-          "https://menafn.com/Images/logo.jpg"
+          "https://jpjj.jp/articles/riken-quantinuum-reimei-h2-upgrade/opengraph-image/",
+          "https://jpjj.jp/masthead.svg"
         ],
-        "width": 200,
-        "height": 50,
-        "status": "rejected:keyword"
+        "width": 1280,
+        "height": 720,
+        "status": "ok"
       }
     },
     {
       "id": "08",
-      "title": "アンソロピック上場へ",
-      "text": "人工知能のアンソロピックは19日に株式を上場する予定で、ブルームバーグによりますと、募集に対しておよそ6倍の応募が集まったと報じられています。エヌビディアの決算発表は17日に予定されています。",
-      "source_url": "https://www.linkedin.com/pulse/weekend-buzz-14-15-november-2026-china-biz-buzz-btykc",
-      "source_name": "LinkedIn",
+      "title": "侍ジャパンが3連覇",
+      "text": "スポーツです。野球の侍ジャパンは15日、東京ドームで行われたアジアプロ野球チャンピオンシップの決勝で、韓国を5対1で破り、4戦全勝で大会3連覇を達成しました。正木智也選手が4試合連続のホームランを放ち、先発の高橋宏斗投手が7回1失点と好投しました。宗山塁選手が大会MVPに選ばれました。",
+      "source_url": "https://www.nikkansports.com/baseball/news/202611150000003.html",
+      "source_name": "日刊スポーツ",
       "image_url": null,
       "image": {
         "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "error:page:RemoteDisconnected"
-      }
-    },
-    {
-      "id": "09",
-      "title": "原子核時計を世界初実証",
-      "text": "次に、テクノロジーと科学の話題です。原子核のエネルギー変化を利用して時を刻む原子核時計を、欧州と中国の研究チームが別々に開発し、動作の実証に世界で初めて成功しました。両方の論文は10月、英科学誌ネイチャーに同時掲載されています。",
-      "source_url": "https://www.tokyo-np.co.jp/article/528136",
-      "source_name": "東京新聞",
-      "image_url": "https://static.tokyo-np.co.jp/image/article/size1/f/1/7/d/f17d27fe3a26d4e2cc45427cf60b840f_1.jpg",
-      "image": {
-        "url": "https://static.tokyo-np.co.jp/image/article/size1/f/1/7/d/f17d27fe3a26d4e2cc45427cf60b840f_1.jpg",
         "candidates": [
-          "https://static.tokyo-np.co.jp/image/article/size1/f/1/7/d/f17d27fe3a26d4e2cc45427cf60b840f_1.jpg"
+          "https://www.nikkansports.com/baseball/news/img/202611150000003-w500_0.jpg",
+          "https://cache2.nipc.jp/mod2015/img/logo/logo_header_nikkansportscom.png"
         ],
-        "width": 1220,
-        "height": 690,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "10",
-      "title": "小型衛星ヤマツミ2が通信成功",
-      "text": "福岡のQPS研究所が開発した小型レーダー衛星、ヤマツミ2は、14日午後にニュージーランドから打ち上げられ、宇宙で初めての通信に成功しました。災害時の観測などに生かされる見通しです。",
-      "source_url": "https://news.3rd-in.co.jp/article/c1202eb2-e005-11f1-b217-9ca3ba09c411",
-      "source_name": "サードニュース",
-      "image_url": "https://img.news.3rd-in.co.jp/storage/articles/2026/11/14/c1202eb2-e005-11f1-b217-9ca3ba09c411/49970-136-fb1f6827835740031b9b88de07bd38b2-2047x1365.webp",
-      "image": {
-        "url": "https://img.news.3rd-in.co.jp/storage/articles/2026/11/14/c1202eb2-e005-11f1-b217-9ca3ba09c411/49970-136-fb1f6827835740031b9b88de07bd38b2-2047x1365.webp",
-        "candidates": [
-          "https://img.news.3rd-in.co.jp/storage/articles/2026/11/14/c1202eb2-e005-11f1-b217-9ca3ba09c411/49970-136-fb1f6827835740031b9b88de07bd38b2-2047x1365.webp"
-        ],
-        "width": null,
-        "height": null,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "11",
-      "title": "日本代表がブラジルに勝利",
-      "text": "次に、スポーツです。サッカーの日本代表は14日、シンガポールでのブラジルとの国際親善試合に3対2で勝ちました。久保建英選手と中村敬斗選手のゴールで先行し、追いつかれたあと、後半のアディショナルタイムに坂元達裕選手が決勝ゴールを決めました。",
-      "source_url": "https://news.ntv.co.jp/category/sports/b1235b6810d9482fbcda0d550d5d3725",
-      "source_name": "日テレNEWS",
-      "image_url": "https://news.ntv.co.jp/gimage/n24/articles/778635e6cf6a481c861afbbb71457838/a4ac67c4-f630-4ee7-be1f-bc0d45ef5b38.jpg?w=1200",
-      "image": {
-        "url": "https://news.ntv.co.jp/gimage/n24/articles/778635e6cf6a481c861afbbb71457838/a4ac67c4-f630-4ee7-be1f-bc0d45ef5b38.jpg?w=1200",
-        "candidates": [
-          "https://news.ntv.co.jp/gimage/n24/articles/778635e6cf6a481c861afbbb71457838/a4ac67c4-f630-4ee7-be1f-bc0d45ef5b38.jpg?w=1200",
-          "https://news.ntv.co.jp/images/provider_logos/logos/NTV_H32px.png"
-        ],
-        "width": 1200,
-        "height": 675,
-        "status": "ok"
+        "width": 500,
+        "height": 374,
+        "status": "rejected:keyword"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。野球の侍ジャパンは今夜7時から東京ドームで韓国と決勝を戦い、大会3連覇を目指します。福島県では、ふくしま駅伝が行われます。以上です。よい一日を。",
+      "text": "今日の注目予定です。7月から9月期のGDP速報値が発表されます。高市総理は、ASEAN関連の首脳会議に出席するため、フィリピンと中国を訪問します。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
