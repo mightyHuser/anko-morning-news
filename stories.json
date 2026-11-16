@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T04:46:10+09:00",
-  "main_text_sha256": "34db6686ad36d855c5a00b98f13657735d31fcc54ec57b8e3965ae138400ec32",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T04:43:35+09:00",
+  "main_text_sha256": "b517b97b7dad953723c5b44b074a0e1cc1f94e82553edda6287002e5c6360e78",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のごあいさつ",
-      "text": "おはようございます。11月16日月曜日の朝ニュースです。",
+      "text": "おはようございます。11月17日火曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,104 +22,15 @@
     },
     {
       "id": "01",
-      "title": "福岡市長選は再選挙へ",
-      "text": "まず、国内の話題です。15日に投開票された福岡市長選挙は、過去最多の13人が立候補して票が割れ、最多の13万7667票を得た稲富修二さんも、当選に必要な有効投票数の4分の1に届かず、再選挙が確実となりました。投票率は45.58パーセントでした。政令指定都市での再選挙は2003年の札幌市以来2例目で、再選挙は来年1月中旬の投開票が有力とみられています。最多得票の稲富さんは、再選挙への出馬について、支援者と相談して対応したいと述べています。",
-      "source_url": "https://www.47news.jp/15235762.html",
-      "source_name": "西日本新聞",
-      "image_url": "https://img.cf.47news.jp/public/photo/a85b30b4ba6b68025a60891ca5717c39/photo.jpg",
-      "image": {
-        "url": "https://img.cf.47news.jp/public/photo/a85b30b4ba6b68025a60891ca5717c39/photo.jpg",
-        "candidates": [
-          "https://img.cf.47news.jp/public/photo/a85b30b4ba6b68025a60891ca5717c39/photo.jpg",
-          "https://www.47news.jp/lib/common/img/header_logo.svg"
-        ],
-        "width": 670,
-        "height": 503,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "02",
-      "title": "各地で首長選の結果",
-      "text": "15日投開票の各地の首長選挙では、愛媛県知事選挙で現職の中村時広さんが5選を果たし、熊本市長選挙では現職の大西一史さんが4選、松山市長選挙では新人の中野泰誠さんが初当選しました。",
-      "source_url": "https://www.47news.jp/15234968.html",
-      "source_name": "47NEWS",
-      "image_url": "https://img.cf.47news.jp/public/photo/8ef34c70bfb90927a29a17bff4891dcb/photo.jpg",
-      "image": {
-        "url": "https://img.cf.47news.jp/public/photo/8ef34c70bfb90927a29a17bff4891dcb/photo.jpg",
-        "candidates": [
-          "https://img.cf.47news.jp/public/photo/8ef34c70bfb90927a29a17bff4891dcb/photo.jpg",
-          "https://www.47news.jp/lib/common/img/header_logo.svg"
-        ],
-        "width": 3785,
-        "height": 2806,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "03",
-      "title": "横田めぐみさん拉致49年",
-      "text": "北朝鮮に拉致された横田めぐみさんは、15日で拉致から49年となりました。新潟市で14日に開かれた集会では、母親の早紀江さん90歳が、1回でもいいから会いたいと訴え、家族らが日朝首脳会談の開催と被害者全員の即時一括帰国を求めました。高市総理も、拉致被害者の皆さんに一刻も早く祖国の土を踏んでいただくことが使命だと投稿しました。",
-      "source_url": "https://news.web.nhk/newsweb/na/nd-20261114de75986",
-      "source_name": "NHK",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75986/20261114de75986_E0000176220_1_l.jpg",
-      "image": {
-        "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75986/20261114de75986_E0000176220_1_l.jpg",
-        "candidates": [
-          "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75986/20261114de75986_E0000176220_1_l.jpg"
-        ],
-        "width": 1920,
-        "height": 1080,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "04",
-      "title": "出雲で特急と車が衝突",
-      "text": "15日夜、島根県出雲市のJR山陰線の踏切で、特急スーパーおきと軽乗用車が衝突し、軽乗用車が炎上しました。大破した車の中から1人の遺体が見つかりました。列車の乗客と乗務員52人にけがはなく、山陰線は西出雲駅と大田市駅の間で運転を取りやめました。",
-      "source_url": "https://news.yahoo.co.jp/articles/31100659cb74dcc79119beec1cfc43ef8162dc40",
-      "source_name": "日本海テレビ",
-      "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-08627737-nkt-000-2-view.jpg?exp=10800",
-      "image": {
-        "url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-08627737-nkt-000-2-view.jpg?exp=10800",
-        "candidates": [
-          "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-08627737-nkt-000-2-view.jpg?exp=10800",
-          "https://s.yimg.jp/c/logo/f/2.0/news_r_34_2x.png"
-        ],
-        "width": 640,
-        "height": 853,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "05",
-      "title": "エストニアが対ロ国境閉鎖へ",
-      "text": "次に、世界の話題です。エストニアは、ロシアの軍事情報機関によるドローン製造企業への放火未遂があったとして、12月1日からロシアとの国境にある検問所をすべて閉鎖すると発表しました。事件をめぐっては8人が拘束されています。エストニアは、EUとNATOの加盟国で、ウクライナを強く支援しています。",
-      "source_url": "https://www.aljazeera.com/amp/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker",
-      "source_name": "アルジャジーラ",
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af9e9dedd-1794763230.jpg?resize=1920%2C1440",
-      "image": {
-        "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af9e9dedd-1794763230.jpg?resize=1920%2C1440",
-        "candidates": [
-          "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af9e9dedd-1794763230.jpg?resize=1920%2C1440",
-          "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af9e9dedd-1794763230.jpg?resize=770%2C513&amp;quality=80"
-        ],
-        "width": 1920,
-        "height": 1440,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "06",
-      "title": "日経平均が反発",
-      "text": "次に、経済と市場の動きです。13日の東京株式市場で日経平均株価は322円高の6万1142円で反発し、週間では3700円あまり上昇しました。アメリカの株式市場は週末で休場のため、今週の動きは今夜の取引からとなります。",
-      "source_url": "https://www.nikkei.com/article/DGXZQOFL130J90T11C26A1000000/",
+      "title": "GDP 4期ぶりマイナス",
+      "text": "まず、国内の話題です。内閣府が16日に発表した7月から9月期のGDP速報値は、実質で前期比0.0パーセント減、年率換算で0.1パーセント減と、4四半期ぶりのマイナス成長となりました。個人消費は0.3パーセント減と2四半期連続で減り、輸入の増加も成長率を押し下げました。一方、設備投資は1.6パーセント増と持ち直しています。",
+      "source_url": "https://www.nikkei.com/article/DGXZQOUA138F50T11C26A1000000/",
       "source_name": "日本経済新聞",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3873204013112026000000-2.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;upscale=false&amp;w=1200&amp;s=0813a838cc979e613172fa68765a7394",
+          "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3882330016112026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;w=1200&amp;s=ca75523a22769e10fd9b99e903a58dbe",
           "https://www.nikkei.com/api/svg/v1/k-search.rev-adf84c.svg?fill=%23333"
         ],
         "width": null,
@@ -128,17 +39,71 @@
       }
     },
     {
-      "id": "07",
-      "title": "量子コンピュータ黎明を更新",
-      "text": "次に、テクノロジーと科学の話題です。理化学研究所は、量子コンピュータ黎明を新機種に更新し、全結合の56量子ビットになったと発表しました。量子で作ったデータでAIを学習させる材料計算などの研究も始まっています。ソフトバンクを加えた3者で、量子コンピュータを国内のAIデータセンターにつなぐ検討も始めるということです。",
-      "source_url": "https://jpjj.jp/articles/riken-quantinuum-reimei-h2-upgrade/",
-      "source_name": "日本時事新聞",
-      "image_url": "https://jpjj.jp/articles/riken-quantinuum-reimei-h2-upgrade/opengraph-image/",
+      "id": "02",
+      "title": "ドコモ 5Gで3度目の障害",
+      "text": "NTTドコモは16日、5GのSAサービスで、全国で通話やデータ通信が使いづらくなる通信障害が起きたと発表しました。午前10時2分ごろから約6時間続き、午後3時58分に復旧しました。最大でおよそ158万人に影響が出たということです。同じサービスでの全国規模の障害は今月5日と11日に続き3度目で、原因はいずれも交換機への通信の集中とされています。",
+      "source_url": "https://www.nikkei.com/article/DGXZQOUC161OF0W6A111C2000000/",
+      "source_name": "日本経済新聞",
+      "image_url": null,
       "image": {
-        "url": "https://jpjj.jp/articles/riken-quantinuum-reimei-h2-upgrade/opengraph-image/",
+        "url": null,
         "candidates": [
-          "https://jpjj.jp/articles/riken-quantinuum-reimei-h2-upgrade/opengraph-image/",
-          "https://jpjj.jp/masthead.svg"
+          "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3883184016112026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;fp-x=0.26&amp;fp-y=0.6&amp;h=630&amp;w=1200&amp;s=b1986a6dc1f7543c7e00c4085944ef72",
+          "https://www.nikkei.com/api/svg/v1/k-search.rev-adf84c.svg?fill=%23333"
+        ],
+        "width": null,
+        "height": null,
+        "status": "rejected:size"
+      }
+    },
+    {
+      "id": "03",
+      "title": "高市首相 ASEANへ",
+      "text": "高市早苗首相は16日、ASEAN関連の首脳会議に出席するためフィリピンのマニラに到着しました。17日は、日本とASEANの首脳会議や東アジアサミットなどに出席し、法の支配に基づく国際秩序の重要性を訴えるほか、アジア零排放共同体、AZECの首脳会合で、危機時に石油を共同で調達する新たな枠組みの創設を提唱する見通しです。日米豪印クアッドの首脳会合も開かれる予定です。",
+      "source_url": "https://www.jiji.com/jc/article?k=2026111600757&g=eco",
+      "source_name": "時事通信",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202611/20261116at34S_ogp.jpg",
+      "image": {
+        "url": "https://www.jiji.com/news2/kiji_photos/202611/20261116at34S_ogp.jpg",
+        "candidates": [
+          "https://www.jiji.com/news2/kiji_photos/202611/20261116at34S_ogp.jpg",
+          "https://www.jiji.com/img/logo.svg"
+        ],
+        "width": 1200,
+        "height": 675,
+        "status": "ok"
+      }
+    },
+    {
+      "id": "04",
+      "title": "米中ロ 19日に初会談",
+      "text": "次に、世界の話題です。中国政府は16日、習近平国家主席とアメリカのトランプ大統領、ロシアのプーチン大統領が19日に中国・深センで初めての3者首脳会談を行うと確認しました。APEC首脳会議に合わせたもので、核兵器の削減やイラン情勢が議題になる見通しです。ウクライナ情勢については議題に含まれないとみられています。",
+      "source_url": "https://www.afpbb.com/articles/-/3662555",
+      "source_name": "AFPBB News",
+      "image_url": "https://afpbb.ismcdn.jp/mwimgs/f/5/1000x/img_f5d249a15e4175c5e260c253da47e399118599.jpg",
+      "image": {
+        "url": "https://afpbb.ismcdn.jp/mwimgs/f/5/1000x/img_f5d249a15e4175c5e260c253da47e399118599.jpg",
+        "candidates": [
+          "https://afpbb.ismcdn.jp/mwimgs/f/5/1000x/img_f5d249a15e4175c5e260c253da47e399118599.jpg",
+          "https://afpbb.ismcdn.jp/common/images/logo_afpbb_2020_w.svg"
+        ],
+        "width": 1000,
+        "height": 625,
+        "status": "ok"
+      }
+    },
+    {
+      "id": "05",
+      "title": "ウクライナでドローン応酬",
+      "text": "ウクライナ情勢では、ロシアとウクライナが夜を徹して大規模なドローン攻撃を応酬しました。ロシア国防省は、16日未明にウクライナのドローン1336機を迎撃したと発表し、ウクライナ側はロシアが占領するクリミアとロシア本土を結ぶ橋を攻撃し、一時通行が制限されました。EUは16日、ウクライナにドローンや防空装備の購入費として17億1000万ユーロを支払い、ロシアの戦費調達に関わる113の個人と団体への追加制裁も決めました。",
+      "source_url": "https://www.letemps.ch/monde/en-direct-guerre-contre-l-ukraine-une-reunion-de-la-coalition-des-volontaires-potentiellement-historique-en-preparation",
+      "source_name": "ル・タン",
+      "image_url": "https://letemps-17455.kxcdn.com/photos/69ac1f23-5a4d-4e0e-b442-07fea90c2f66/medium",
+      "image": {
+        "url": "https://letemps-17455.kxcdn.com/photos/69ac1f23-5a4d-4e0e-b442-07fea90c2f66/medium",
+        "candidates": [
+          "https://letemps-17455.kxcdn.com/photos/69ac1f23-5a4d-4e0e-b442-07fea90c2f66/medium",
+          "https://letemps-17455.kxcdn.com/photos/69ac1f23-5a4d-4e0e-b442-07fea90c2f66/small"
         ],
         "width": 1280,
         "height": 720,
@@ -146,27 +111,77 @@
       }
     },
     {
+      "id": "06",
+      "title": "EU 日本製鋼板に関税",
+      "text": "EUの欧州委員会は16日、日本製の冷延鋼板に27.9パーセントの反ダンピング関税を課すと発表しました。日本からの製品が不当に安く売られ、域内の産業に損害を与えたと説明しています。冷延鋼板は自動車や家電などに幅広く使われています。去年9月には熱延鋼板にも同じ関税が課されています。",
+      "source_url": "http://kahoku.news/articles/knp2026111601001892.html",
+      "source_name": "河北新報",
+      "image_url": "https://kahoku.news/skin/harmony/img/noimg.png",
+      "image": {
+        "url": "https://kahoku.news/skin/harmony/img/noimg.png",
+        "candidates": [
+          "https://kahoku.news/skin/harmony/img/noimg.png",
+          "http://kahoku.news/skin/harmony/images/logo.svg?v=20221012"
+        ],
+        "width": 1200,
+        "height": 630,
+        "status": "ok"
+      }
+    },
+    {
+      "id": "07",
+      "title": "日経平均 1480円安",
+      "text": "次に、経済と市場の動きです。16日の東京株式市場で日経平均株価は1480円33銭安の5万9662円2銭と大幅に下落しました。7月から9月期のGDPがマイナス成長となったことや、アメリカのハイテク株安への警戒感から、幅広い銘柄に売りが出ました。",
+      "source_url": "https://9qu1.com/invest-daily/2026-11-16-night.html",
+      "source_name": "投資デイリー",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [],
+        "width": null,
+        "height": null,
+        "status": "none"
+      }
+    },
+    {
       "id": "08",
-      "title": "侍ジャパンが3連覇",
-      "text": "スポーツです。野球の侍ジャパンは15日、東京ドームで行われたアジアプロ野球チャンピオンシップの決勝で、韓国を5対1で破り、4戦全勝で大会3連覇を達成しました。正木智也選手が4試合連続のホームランを放ち、先発の高橋宏斗投手が7回1失点と好投しました。宗山塁選手が大会MVPに選ばれました。",
-      "source_url": "https://www.nikkansports.com/baseball/news/202611150000003.html",
-      "source_name": "日刊スポーツ",
+      "title": "NY株 ナスダック大幅安",
+      "text": "夜のニューヨーク市場は取引時間中で、ハイテク株中心のナスダックが大きく下げています。ナスダック100に連動する上場投信は、日本時間の今朝4時40分ごろの時点で、前の週末より2.6パーセント安くなっています。エヌビディアの決算発表を控え、半導体株への売りが続いています。",
+      "source_url": "https://finnhub.io/?q=%22QQQ%22",
+      "source_name": "Finnhub",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://www.nikkansports.com/baseball/news/img/202611150000003-w500_0.jpg",
-          "https://cache2.nipc.jp/mod2015/img/logo/logo_header_nikkansportscom.png"
+          "https://static.finnhub.io/img/finnhub_2020-05-09_20_51/logo/logo-transparent-thumbnail.png"
         ],
-        "width": 500,
-        "height": 374,
+        "width": 5001,
+        "height": 2501,
         "status": "rejected:keyword"
+      }
+    },
+    {
+      "id": "09",
+      "title": "エヌビディア 混迷続く",
+      "text": "次に、テクノロジーの話題です。米エヌビディアは12日に共同創業者のジェンスン・フアン氏がCEOを辞任し、CFOのコレット・クレス氏が暫定CEOを務めています。フアン氏が復帰を検討しているとの報道がある一方、ベッセント財務長官は次期CEOを社外から登用すべきだとの考えを示しました。17日には四半期決算の発表が予定され、経営体制と輸出管理の説明が焦点となります。",
+      "source_url": "https://finance.biggo.jp/news/5b41b94d-a480-4de9-9a94-d24954b682af",
+      "source_name": "BigGoファイナンス",
+      "image_url": "https://img.biggo.com/uABf9HEYPgY8E_ASB4JeGkYTt78C88L8U_-tDGFASgk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzViNDFiOTRkLWE0ODAtNGRlOS05YTk0LWQyNDk1NGI2ODJhZl8xNzk0ODA3NzA1X2RlZmF1bHQuanBn.jpg",
+      "image": {
+        "url": "https://img.biggo.com/uABf9HEYPgY8E_ASB4JeGkYTt78C88L8U_-tDGFASgk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzViNDFiOTRkLWE0ODAtNGRlOS05YTk0LWQyNDk1NGI2ODJhZl8xNzk0ODA3NzA1X2RlZmF1bHQuanBn.jpg",
+        "candidates": [
+          "https://img.biggo.com/uABf9HEYPgY8E_ASB4JeGkYTt78C88L8U_-tDGFASgk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzViNDFiOTRkLWE0ODAtNGRlOS05YTk0LWQyNDk1NGI2ODJhZl8xNzk0ODA3NzA1X2RlZmF1bHQuanBn.jpg",
+          "https://img.biggo.com/kuk7u6eo9cqmKKaameqHjuwvsqsqKB9Cx6aJlemMx5U/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzViNDFiOTRkLWE0ODAtNGRlOS05YTk0LWQyNDk1NGI2ODJhZl8xNzk0ODA3NzA1X2RlZmF1bHQuanBn.webp"
+        ],
+        "width": 1200,
+        "height": 675,
+        "status": "ok"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。7月から9月期のGDP速報値が発表されます。高市総理は、ASEAN関連の首脳会議に出席するため、フィリピンと中国を訪問します。以上です。よい一日を。",
+      "text": "今日の注目予定です。高市首相はマニラでASEAN関連の首脳会議に出席します。サッカー日本代表は今夜、シンガポールでパラグアイと親善試合を行い、森保監督の最終戦となります。アメリカでは10月の小売売上高が発表され、エヌビディアの決算も注目されます。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
