@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T04:43:35+09:00",
-  "main_text_sha256": "b517b97b7dad953723c5b44b074a0e1cc1f94e82553edda6287002e5c6360e78",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T04:42:18+09:00",
+  "main_text_sha256": "42f7fd1b484c34e3401a067bb5d7fb38ea001cadc3f5a22cb9b8cbc206d7e989",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のごあいさつ",
-      "text": "おはようございます。11月17日火曜日の朝ニュースです。",
+      "text": "おはようございます。11月18日水曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,52 +22,51 @@
     },
     {
       "id": "01",
-      "title": "GDP 4期ぶりマイナス",
-      "text": "まず、国内の話題です。内閣府が16日に発表した7月から9月期のGDP速報値は、実質で前期比0.0パーセント減、年率換算で0.1パーセント減と、4四半期ぶりのマイナス成長となりました。個人消費は0.3パーセント減と2四半期連続で減り、輸入の増加も成長率を押し下げました。一方、設備投資は1.6パーセント増と持ち直しています。",
-      "source_url": "https://www.nikkei.com/article/DGXZQOUA138F50T11C26A1000000/",
-      "source_name": "日本経済新聞",
-      "image_url": null,
+      "title": "ロシア機が領空侵犯",
+      "text": "まず、国内の話題です。防衛省は17日、推定ロシア機2機が同日未明、福岡県の沖ノ島北西の領海上空を相次いで侵犯したと発表しました。航空自衛隊の戦闘機が緊急発進して警告しました。2機は対馬海峡を抜けて南下し、与那国島と台湾の間を通過して太平洋へ向かいました。小泉進次郎防衛大臣は、主権の重大な侵害で断じて容認できないとして、ロシア側に外交ルートで厳重に抗議しました。ロシア機による領空侵犯が確認されたのは、前ソ連時代を含めて45回目です。",
+      "source_url": "https://udn.com/news/story/6809/9883475",
+      "source_name": "中央社",
+      "image_url": "https://udn.com/static/img/UDN_BABY.png",
       "image": {
-        "url": null,
+        "url": "https://udn.com/static/img/UDN_BABY.png",
         "candidates": [
-          "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3882330016112026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;w=1200&amp;s=ca75523a22769e10fd9b99e903a58dbe",
-          "https://www.nikkei.com/api/svg/v1/k-search.rev-adf84c.svg?fill=%23333"
+          "https://udn.com/static/img/UDN_BABY.png",
+          "https://sb.scorecardresearch.com/p?c1=2&c2=7390954&comscorekw=&cv=4.0.0&cj=1"
         ],
-        "width": null,
-        "height": null,
-        "status": "rejected:size"
+        "width": 1200,
+        "height": 900,
+        "status": "ok"
       }
     },
     {
       "id": "02",
-      "title": "ドコモ 5Gで3度目の障害",
-      "text": "NTTドコモは16日、5GのSAサービスで、全国で通話やデータ通信が使いづらくなる通信障害が起きたと発表しました。午前10時2分ごろから約6時間続き、午後3時58分に復旧しました。最大でおよそ158万人に影響が出たということです。同じサービスでの全国規模の障害は今月5日と11日に続き3度目で、原因はいずれも交換機への通信の集中とされています。",
-      "source_url": "https://www.nikkei.com/article/DGXZQOUC161OF0W6A111C2000000/",
-      "source_name": "日本経済新聞",
-      "image_url": null,
+      "title": "楽天証券 情報漏えいか",
+      "text": "楽天証券は17日、第三者による不正アクセスを受け、顧客情報が外部に漏えいした可能性があると発表しました。ログインIDなどが最大でおよそ1125万口座、そのうち最大でおよそ447万口座では、氏名や住所に加え、年収や金融資産、出金先の口座情報まで対象になるということです。パスワードや暗証番号など、取引に必要な情報の漏えいや、不正取引は確認されていないとしています。",
+      "source_url": "https://www3.nhk.or.jp/nhkworld/news/20261117de77429/",
+      "source_name": "NHK",
+      "image_url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/news/20261117de77429_E0000185496_L.jpg",
       "image": {
-        "url": null,
+        "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/news/20261117de77429_E0000185496_L.jpg",
         "candidates": [
-          "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3883184016112026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;fp-x=0.26&amp;fp-y=0.6&amp;h=630&amp;w=1200&amp;s=b1986a6dc1f7543c7e00c4085944ef72",
-          "https://www.nikkei.com/api/svg/v1/k-search.rev-adf84c.svg?fill=%23333"
+          "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/news/20261117de77429_E0000185496_L.jpg"
         ],
-        "width": null,
-        "height": null,
-        "status": "rejected:size"
+        "width": 1920,
+        "height": 1080,
+        "status": "ok"
       }
     },
     {
       "id": "03",
-      "title": "高市首相 ASEANへ",
-      "text": "高市早苗首相は16日、ASEAN関連の首脳会議に出席するためフィリピンのマニラに到着しました。17日は、日本とASEANの首脳会議や東アジアサミットなどに出席し、法の支配に基づく国際秩序の重要性を訴えるほか、アジア零排放共同体、AZECの首脳会合で、危機時に石油を共同で調達する新たな枠組みの創設を提唱する見通しです。日米豪印クアッドの首脳会合も開かれる予定です。",
-      "source_url": "https://www.jiji.com/jc/article?k=2026111600757&g=eco",
-      "source_name": "時事通信",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202611/20261116at34S_ogp.jpg",
+      "title": "EV補助金 月内終了へ",
+      "text": "経済産業省は17日、電気自動車などの購入を促す補助金の申請受け付けを、今月20日から30日にも終了する見通しだと明らかにしました。補助金を使った購入需要が想定を上回り、予算の残高は16日時点でおよそ121億円まで減っています。来年度以降の補助金については、検討中としています。",
+      "source_url": "https://newsdig.tbs.co.jp/articles/-/3092926",
+      "source_name": "TBS NEWS DIG",
+      "image_url": "https://newsdig.ismcdn.jp/mwimgs/3/7/1200w/img_370d885fcb510de11847fbd2e7094bc1191711.jpg",
       "image": {
-        "url": "https://www.jiji.com/news2/kiji_photos/202611/20261116at34S_ogp.jpg",
+        "url": "https://newsdig.ismcdn.jp/mwimgs/3/7/1200w/img_370d885fcb510de11847fbd2e7094bc1191711.jpg",
         "candidates": [
-          "https://www.jiji.com/news2/kiji_photos/202611/20261116at34S_ogp.jpg",
-          "https://www.jiji.com/img/logo.svg"
+          "https://newsdig.ismcdn.jp/mwimgs/3/7/1200w/img_370d885fcb510de11847fbd2e7094bc1191711.jpg",
+          "https://newsdig.ismcdn.jp/common/images/site_logo.svg?rd=202611061044"
         ],
         "width": 1200,
         "height": 675,
@@ -76,63 +75,44 @@
     },
     {
       "id": "04",
-      "title": "米中ロ 19日に初会談",
-      "text": "次に、世界の話題です。中国政府は16日、習近平国家主席とアメリカのトランプ大統領、ロシアのプーチン大統領が19日に中国・深センで初めての3者首脳会談を行うと確認しました。APEC首脳会議に合わせたもので、核兵器の削減やイラン情勢が議題になる見通しです。ウクライナ情勢については議題に含まれないとみられています。",
-      "source_url": "https://www.afpbb.com/articles/-/3662555",
-      "source_name": "AFPBB News",
-      "image_url": "https://afpbb.ismcdn.jp/mwimgs/f/5/1000x/img_f5d249a15e4175c5e260c253da47e399118599.jpg",
+      "title": "クアッド首脳会合",
+      "text": "次に、世界の話題です。17日夜、フィリピンのマニラで、日本、アメリカ、オーストラリア、インドの4か国によるクアッドの首脳会合が開かれました。4か国は共同文書で、中国を念頭に、経済的な威圧に対して深刻な懸念を表明し、力による一方的な現状変更の試みに強く反対することで一致しました。クアッドの首脳会合は、およそ2年2か月ぶりです。高市早苗首相は、夕食会の場でアメリカのトランプ大統領と短時間、懇談しました。",
+      "source_url": "https://www3.nhk.or.jp/nhkworld/zh/news/nd-20261117de76934/",
+      "source_name": "NHK",
+      "image_url": null,
       "image": {
-        "url": "https://afpbb.ismcdn.jp/mwimgs/f/5/1000x/img_f5d249a15e4175c5e260c253da47e399118599.jpg",
+        "url": null,
         "candidates": [
-          "https://afpbb.ismcdn.jp/mwimgs/f/5/1000x/img_f5d249a15e4175c5e260c253da47e399118599.jpg",
-          "https://afpbb.ismcdn.jp/common/images/logo_afpbb_2020_w.svg"
+          "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/zh/news/nd-20261117de76934_3_L.jpg"
         ],
-        "width": 1000,
-        "height": 625,
-        "status": "ok"
+        "width": 640,
+        "height": 360,
+        "status": "rejected:small"
       }
     },
     {
       "id": "05",
-      "title": "ウクライナでドローン応酬",
-      "text": "ウクライナ情勢では、ロシアとウクライナが夜を徹して大規模なドローン攻撃を応酬しました。ロシア国防省は、16日未明にウクライナのドローン1336機を迎撃したと発表し、ウクライナ側はロシアが占領するクリミアとロシア本土を結ぶ橋を攻撃し、一時通行が制限されました。EUは16日、ウクライナにドローンや防空装備の購入費として17億1000万ユーロを支払い、ロシアの戦費調達に関わる113の個人と団体への追加制裁も決めました。",
-      "source_url": "https://www.letemps.ch/monde/en-direct-guerre-contre-l-ukraine-une-reunion-de-la-coalition-des-volontaires-potentiellement-historique-en-preparation",
-      "source_name": "ル・タン",
-      "image_url": "https://letemps-17455.kxcdn.com/photos/69ac1f23-5a4d-4e0e-b442-07fea90c2f66/medium",
+      "title": "日ASEAN AIで連携",
+      "text": "高市首相は17日、マニラで開かれた日本とASEANの首脳会議に出席しました。高性能なAIをめぐる脅威に対処するため、各国と連携する新たな枠組みの創設を確認したほか、重要鉱物を含む供給網の強靱化や、エネルギー安全保障での協力を進める方針で一致しました。",
+      "source_url": "https://www.kobe-np.co.jp/news/zenkoku/compact/202611/0021043257.shtml?p=0",
+      "source_name": "神戸新聞",
+      "image_url": null,
       "image": {
-        "url": "https://letemps-17455.kxcdn.com/photos/69ac1f23-5a4d-4e0e-b442-07fea90c2f66/medium",
+        "url": null,
         "candidates": [
-          "https://letemps-17455.kxcdn.com/photos/69ac1f23-5a4d-4e0e-b442-07fea90c2f66/medium",
-          "https://letemps-17455.kxcdn.com/photos/69ac1f23-5a4d-4e0e-b442-07fea90c2f66/small"
+          "https://i.kobe-np.co.jp/news/zenkoku/compact/202611/img/a_21043388.jpg",
+          "https://i.smartnews-ads.com/p?id=5fc5f5fa3c1329c23887c8ea&e=PageView"
         ],
-        "width": 1280,
-        "height": 720,
-        "status": "ok"
+        "width": 450,
+        "height": 313,
+        "status": "rejected:type"
       }
     },
     {
       "id": "06",
-      "title": "EU 日本製鋼板に関税",
-      "text": "EUの欧州委員会は16日、日本製の冷延鋼板に27.9パーセントの反ダンピング関税を課すと発表しました。日本からの製品が不当に安く売られ、域内の産業に損害を与えたと説明しています。冷延鋼板は自動車や家電などに幅広く使われています。去年9月には熱延鋼板にも同じ関税が課されています。",
-      "source_url": "http://kahoku.news/articles/knp2026111601001892.html",
-      "source_name": "河北新報",
-      "image_url": "https://kahoku.news/skin/harmony/img/noimg.png",
-      "image": {
-        "url": "https://kahoku.news/skin/harmony/img/noimg.png",
-        "candidates": [
-          "https://kahoku.news/skin/harmony/img/noimg.png",
-          "http://kahoku.news/skin/harmony/images/logo.svg?v=20221012"
-        ],
-        "width": 1200,
-        "height": 630,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "07",
-      "title": "日経平均 1480円安",
-      "text": "次に、経済と市場の動きです。16日の東京株式市場で日経平均株価は1480円33銭安の5万9662円2銭と大幅に下落しました。7月から9月期のGDPがマイナス成長となったことや、アメリカのハイテク株安への警戒感から、幅広い銘柄に売りが出ました。",
-      "source_url": "https://9qu1.com/invest-daily/2026-11-16-night.html",
+      "title": "日経平均 801円安",
+      "text": "次に、経済と市場の動きです。17日の東京株式市場で、日経平均株価は801円59銭安の5万8860円43銭で取引を終えました。7月から9月期のGDPがマイナス成長となったことや、アメリカのハイテク株安への警戒感から、幅広い銘柄に売りが出ました。",
+      "source_url": "https://9qu1.com/invest-daily/2026-11-17-night.html",
       "source_name": "投資デイリー",
       "image_url": null,
       "image": {
@@ -144,9 +124,9 @@
       }
     },
     {
-      "id": "08",
-      "title": "NY株 ナスダック大幅安",
-      "text": "夜のニューヨーク市場は取引時間中で、ハイテク株中心のナスダックが大きく下げています。ナスダック100に連動する上場投信は、日本時間の今朝4時40分ごろの時点で、前の週末より2.6パーセント安くなっています。エヌビディアの決算発表を控え、半導体株への売りが続いています。",
+      "id": "07",
+      "title": "NY株 まちまちの展開",
+      "text": "夜のニューヨーク市場は取引時間中で、方向感の定まらない展開となっています。ダウ平均は寄り付きで221ドル安となった一方、ナスダック総合指数はほぼ横ばいで始まりました。ナスダック100に連動する上場投信は、日本時間の午後2時半ごろの時点で、前の週末より1.1パーセント安くなっています。10月の小売売上高が堅調だったことから、利上げへの警戒感も出ています。取引終了後には、エヌビディアの四半期決算が発表される予定です。",
       "source_url": "https://finnhub.io/?q=%22QQQ%22",
       "source_name": "Finnhub",
       "image_url": null,
@@ -161,27 +141,27 @@
       }
     },
     {
-      "id": "09",
-      "title": "エヌビディア 混迷続く",
-      "text": "次に、テクノロジーの話題です。米エヌビディアは12日に共同創業者のジェンスン・フアン氏がCEOを辞任し、CFOのコレット・クレス氏が暫定CEOを務めています。フアン氏が復帰を検討しているとの報道がある一方、ベッセント財務長官は次期CEOを社外から登用すべきだとの考えを示しました。17日には四半期決算の発表が予定され、経営体制と輸出管理の説明が焦点となります。",
-      "source_url": "https://finance.biggo.jp/news/5b41b94d-a480-4de9-9a94-d24954b682af",
-      "source_name": "BigGoファイナンス",
-      "image_url": "https://img.biggo.com/uABf9HEYPgY8E_ASB4JeGkYTt78C88L8U_-tDGFASgk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzViNDFiOTRkLWE0ODAtNGRlOS05YTk0LWQyNDk1NGI2ODJhZl8xNzk0ODA3NzA1X2RlZmF1bHQuanBn.jpg",
+      "id": "08",
+      "title": "NTT 光回路を開発",
+      "text": "次に、テクノロジーの話題です。NTTは13日、光通信の信号を光のまま柔軟に制御できるプログラマブル光回路を開発したと発表しました。およそ1300キロの長距離伝送の実験で、信号の時間的な広がりをおよそ60パーセント低減し、受信側の信号処理の負担を軽くできる効果を確認したということです。この成果は、イギリスの科学誌ネイチャー・フォトニクスに掲載されました。",
+      "source_url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news049.html",
+      "source_name": "MONOist",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/16/cover_news049.jpg",
       "image": {
-        "url": "https://img.biggo.com/uABf9HEYPgY8E_ASB4JeGkYTt78C88L8U_-tDGFASgk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzViNDFiOTRkLWE0ODAtNGRlOS05YTk0LWQyNDk1NGI2ODJhZl8xNzk0ODA3NzA1X2RlZmF1bHQuanBn.jpg",
+        "url": "https://image.itmedia.co.jp/mn/articles/2611/16/cover_news049.jpg",
         "candidates": [
-          "https://img.biggo.com/uABf9HEYPgY8E_ASB4JeGkYTt78C88L8U_-tDGFASgk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzViNDFiOTRkLWE0ODAtNGRlOS05YTk0LWQyNDk1NGI2ODJhZl8xNzk0ODA3NzA1X2RlZmF1bHQuanBn.jpg",
-          "https://img.biggo.com/kuk7u6eo9cqmKKaameqHjuwvsqsqKB9Cx6aJlemMx5U/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzViNDFiOTRkLWE0ODAtNGRlOS05YTk0LWQyNDk1NGI2ODJhZl8xNzk0ODA3NzA1X2RlZmF1bHQuanBn.webp"
+          "https://image.itmedia.co.jp/mn/articles/2611/16/cover_news049.jpg",
+          "https://image.itmedia.co.jp/images/logo/pcvheader_mn.png"
         ],
         "width": 1200,
-        "height": 675,
+        "height": 678,
         "status": "ok"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。高市首相はマニラでASEAN関連の首脳会議に出席します。サッカー日本代表は今夜、シンガポールでパラグアイと親善試合を行い、森保監督の最終戦となります。アメリカでは10月の小売売上高が発表され、エヌビディアの決算も注目されます。以上です。よい一日を。",
+      "text": "今日の注目予定です。中国の深センでAPEC首脳会議が開幕します。19日には中国で初めての米中ロ3者首脳会談が予定され、東京では日本とインドの外務・防衛担当閣僚協議、2プラス2も開かれます。エヌビディアの決算内容も注目されます。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
