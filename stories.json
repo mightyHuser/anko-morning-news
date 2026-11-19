@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T04:44:18+09:00",
-  "main_text_sha256": "efcb083d8a2243bea8a398c563f3976cc9a5aba120936c740aae69bfcb6fffb7",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T04:42:17+09:00",
+  "main_text_sha256": "3f5e7f7d5052fe04d4710703c7a23b3b351e4c0ebf44de25d57571b37640b80a",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のごあいさつ",
-      "text": "おはようございます。11月19日木曜日の朝ニュースです。",
+      "text": "おはようございます。11月20日金曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,52 +22,33 @@
     },
     {
       "id": "01",
-      "title": "APEC開幕 高市首相が習主席と握手",
-      "text": "まず、国内の話題です。中国・深センで18日、APEC首脳会議が開幕し、晩さん会の冒頭、高市首相が議長を務める中国の習近平国家主席と握手を交わしました。2人が顔を合わせるのは、去年10月の首脳会談以来およそ1年ぶりです。正式な日中首脳会談は見送られる見通しで、首相はロシアのプーチン大統領とも短時間、意見を交わす方向で調整しています。19日には、アメリカ、中国、ロシアによる初めての3か国首脳会談も予定されています。",
-      "source_url": "https://topics.smt.docomo.ne.jp/article/tbs/world/tbs-3096150",
-      "source_name": "TBS NEWS DIG",
-      "image_url": null,
+      "title": "熊本で震度5弱の地震",
+      "text": "まず、国内の話題です。きのう19日午前2時22分ごろ、熊本県天草・芦北地方を震源とするマグニチュード5.7の地震があり、水俣市や芦北市など5つの市町村で最大震度5弱を観測しました。津波の心配はありません。水俣市と球磨村では全域に避難指示が出されました。気象庁によりますと、今年7月の熊本地震の一連の活動とみられ、揺れの強かった地域では今後1週間程度、同じ程度の揺れに注意が必要です。",
+      "source_url": "https://news.ntv.co.jp/n/fbs/category/society/fs08f9493db846475294a921de19a3f14d",
+      "source_name": "日本テレビ",
+      "image_url": "https://image.gallery.play.jp/fbs-news/articles/aecc4c128f2043e98969d52f2184d6eb/8c050313-7cfe-4c1f-80b9-01df46526a0d.jpg?w=1200",
       "image": {
-        "url": null,
+        "url": "https://image.gallery.play.jp/fbs-news/articles/aecc4c128f2043e98969d52f2184d6eb/8c050313-7cfe-4c1f-80b9-01df46526a0d.jpg?w=1200",
         "candidates": [
-          "https://img.topics.smt.news.goo.ne.jp/-/20261110160945/img/dmenu_service-brand-logo_200x200.png",
-          "https://img.topics.smt.news.goo.ne.jp/-/20261110160945/img/dmenu_logo.png"
+          "https://image.gallery.play.jp/fbs-news/articles/aecc4c128f2043e98969d52f2184d6eb/8c050313-7cfe-4c1f-80b9-01df46526a0d.jpg?w=1200",
+          "https://news.ntv.co.jp/images/svg/share.svg"
         ],
-        "width": 200,
-        "height": 200,
-        "status": "rejected:keyword"
+        "width": 1050,
+        "height": 715,
+        "status": "ok"
       }
     },
     {
       "id": "02",
-      "title": "リニア開業時期の年内公表断念",
-      "text": "JR東海は18日、リニア中央新幹線の品川・名古屋間の開業時期について、年内の公表を断念すると明らかにしました。丹羽社長は、工期や工事費の精査に思いのほか時間がかかっていると説明しました。静岡工区の工事を請け負う大成建設が談合事件で営業停止処分を受けたことも要因のひとつで、できるだけ早い時期に新たな見通しを示したいとしています。",
-      "source_url": "https://news.jp/i/1495753185470464968",
-      "source_name": "NEWSjp",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [
-          "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1495753177185470386/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_fill,g_face,w_600,h_315,f_auto,q_auto:eco/ch/images/1495753177185470386/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/853540604650766336/header_1.png"
-        ],
-        "width": 400,
-        "height": 210,
-        "status": "rejected:size"
-      }
-    },
-    {
-      "id": "03",
-      "title": "衆院定数31削減 特別委で審議",
-      "text": "衆議院議員の定数を比例代表で31議席削減する法案を審議する特別委員会が18日開かれ、法案を提出した自民、維新、国民の3党が意義を強調した一方、ほかの野党からは比例のみでの削減に否定的な意見が出されました。3党は今の国会での成立を目指しています。",
-      "source_url": "https://news.web.nhk/newsweb/na/nd-20261118de77693",
+      "title": "米中ロ首脳会談 平和宣言",
+      "text": "次に、世界の話題です。19日、中国・深センで開かれていたAPEC首脳会議にあわせ、アメリカのトランプ大統領、中国の習近平国家主席、ロシアのプーチン大統領による史上初の3か国首脳会談が行われ、「平和宣言」がまとめられました。宣言は、核戦争に勝者はなく決して戦ってはならないと再確認し、核リスクの低減と核拡散防止の対話を進めることや、石油製品の供給拡大、国連改革など4項目で一致しました。ウクライナ情勢には触れられていません。APECは2日間の日程を終え、来年はベトナムで開かれることになっています。",
+      "source_url": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
       "source_name": "NHK",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77693/20261118de77693_E0000187550_1_l.jpg",
+      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000193620_1_l.jpg",
       "image": {
-        "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77693/20261118de77693_E0000187550_1_l.jpg",
+        "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000193620_1_l.jpg",
         "candidates": [
-          "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77693/20261118de77693_E0000187550_1_l.jpg"
+          "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000193620_1_l.jpg"
         ],
         "width": 1920,
         "height": 1080,
@@ -75,48 +56,62 @@
       }
     },
     {
-      "id": "04",
-      "title": "米中間選挙 民主党が大勝",
-      "text": "次に、世界の話題です。AP通信は17日、米中間選挙の下院選をめぐり、日本時間18日午前現在で野党民主党が257議席を確保したと報じました。2008年の大統領選と同時に行われた下院選以来の大勝で、民主党は来年1月に発足する新しい議会で下院の多数派を奪還します。上院でも、アラスカ州で民主党候補の勝利が確実となり、無所属を含む民主党系が56議席を握る見通しです。",
-      "source_url": "https://news.jp/i/1495586311733919967",
-      "source_name": "共同通信",
+      "id": "03",
+      "title": "JT ロシア事業で巨額損失",
+      "text": "JTは19日、ロシアの現地子会社7社を連結決算の対象から外し、およそ1兆3770億円の損失を計上する見込みだと発表しました。今期の最終損益は7240億円の赤字になる見通しで、年間配当も272円から204円に引き下げます。ロシアの大統領令で現地法人が一時管理下に置かれ、経営権を事実上失ったためで、JTは撤退を意味するものではないと説明しています。",
+      "source_url": "https://www.nikkei.com/article/DGXZQOUB196SK0Z11C26A1000000/",
+      "source_name": "日本経済新聞",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1495638226392498474/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_fill,g_face,w_600,h_315,f_auto,q_auto:eco/ch/images/1495638226392498474/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/39166665832988672/header_13.png"
+          "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3906397019112026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;w=1200&amp;s=65dd9a01747f255dbb7233dd3f96f040",
+          "https://www.nikkei.com/api/svg/v1/k-search.rev-adf84c.svg?fill=%23333"
         ],
-        "width": 400,
-        "height": 210,
+        "width": null,
+        "height": null,
         "status": "rejected:size"
       }
     },
     {
-      "id": "05",
-      "title": "日経平均 3日ぶり反発",
-      "text": "次に、経済と市場の動きです。18日の東京株式市場で、日経平均株価は163円85銭高の5万9024円28銭で取引を終え、3日ぶりに反発しました。前日のアメリカ市場でダウ平均が848ドル安と大幅に下落しましたが、取引終了後に発表されたエヌビディアの決算が市場予想を上回ったことを好感し、AIや半導体関連の銘柄に買いが入りました。",
-      "source_url": "https://fu.minkabu.jp/news/731166",
-      "source_name": "みんかぶ",
-      "image_url": "https://s3.fu.minkabu.jp/pictures/share/og_news.png",
+      "id": "04",
+      "title": "三菱UFJ 650万件情報漏えい",
+      "text": "三菱UFJ銀行は18日、委託先のプレイドが提供するサービス「KARTE」への不正アクセスで、顧客およそ650万件の性別や年齢、居住地域の情報が漏えいしたと発表しました。氏名や住所、電話番号は含まれず、銀行のシステムへの侵入ではないとしています。同じサービスをめぐっては、DHCや楽天証券などでも漏えいの公表が相次いでいます。",
+      "source_url": "https://news.yahoo.co.jp/articles/8d9eb9864b0fa1bc711e9a97466e0b5dc3d2c4b8",
+      "source_name": "ビジネス＋IT",
+      "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261118-00188545-biz_plus-000-1-view.jpg?exp=10800",
       "image": {
-        "url": "https://s3.fu.minkabu.jp/pictures/share/og_news.png",
+        "url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261118-00188545-biz_plus-000-1-view.jpg?exp=10800",
         "candidates": [
-          "https://s3.fu.minkabu.jp/pictures/share/og_news.png",
-          "https://fu.minkabu.jp/assets/logo-5dd7dc2ef4032141ee3b8739782f472f9dca260338ec9002c7c8c570e15f2d01.svg"
+          "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261118-00188545-biz_plus-000-1-view.jpg?exp=10800",
+          "https://s.yimg.jp/c/logo/f/2.0/news_r_34_2x.png"
         ],
-        "width": 1200,
-        "height": 675,
+        "width": 1568,
+        "height": 698,
         "status": "ok"
       }
     },
     {
-      "id": "06",
-      "title": "NY株 決算好感で先物高",
-      "text": "夜のニューヨーク市場は取引時間中で、エヌビディアの決算を好感して株価指数先物がそろって上昇して始まりました。前日の取引では、ダウ平均が848ドル安、ナスダック総合指数が181ドル安と大幅に下落していました。",
-      "source_url": "https://9qu1.com/invest-daily/2026-11-18-night.html",
+      "id": "05",
+      "title": "日経平均 2日続伸",
+      "text": "次に、経済と市場の動きです。19日の東京株式市場で、日経平均株価は419円93銭高の5万9444円21銭で取引を終え、2日続けて上昇しました。アメリカのAI企業アンソロピックの上場を前に、半導体関連の銘柄に買いが入りました。一方、TOPIXは小幅に下げ、4日続落しています。",
+      "source_url": "https://9qu1.com/invest-daily/2026-11-19-close.html",
       "source_name": "投資デイリー",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [],
+        "width": null,
+        "height": null,
+        "status": "none"
+      }
+    },
+    {
+      "id": "06",
+      "title": "NY株 ナスダック下落",
+      "text": "夜のニューヨーク市場は取引時間中で、ナスダック総合指数はこの時間、前の日より1パーセントあまり下げて推移しています。",
+      "source_url": null,
+      "source_name": "",
       "image_url": null,
       "image": {
         "url": null,
@@ -128,23 +123,26 @@
     },
     {
       "id": "07",
-      "title": "エヌビディア決算 売上高2倍",
-      "text": "次に、テクノロジーの話題です。エヌビディアが発表した8月から10月期の売上高はおよそ1158億ドルと、前の年の同じ時期のおよそ2倍になりました。11月から来年1月期の売上高の見通しもおよそ1300億ドルと市場予想を上回り、AI向け半導体の需要の強さが改めて示されました。",
-      "source_url": "https://9qu1.com/invest-daily/2026-11-18-night.html",
-      "source_name": "投資デイリー",
-      "image_url": null,
+      "title": "アンソロピック上場 初値34%高",
+      "text": "次に、テクノロジーの話題です。AI企業アンソロピックが19日、アメリカのナスダック市場に上場し、初値は公開価格の83ドルを34パーセント上回る111ドル50セントとなりました。調達額はおよそ813億ドルで、史上最大の新規上場となります。ただ、その後は値を下げ、公開価格を2割ほど上回る水準で推移しています。",
+      "source_url": "https://gizmodo.com/anthropic-ipo-makes-wall-street-history-and-brings-ai-into-uncharted-territory-2000842011",
+      "source_name": "Gizmodo",
+      "image_url": "https://gizmodo.com/app/uploads/2026/11/AnthropicboardIPO-1200x675.jpeg",
       "image": {
-        "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "none"
+        "url": "https://gizmodo.com/app/uploads/2026/11/AnthropicboardIPO-1200x675.jpeg",
+        "candidates": [
+          "https://gizmodo.com/app/uploads/2026/11/AnthropicboardIPO-1200x675.jpeg",
+          "https://sb.scorecardresearch.com/p?c1=2&amp;c2=39636245&amp;cv=3.9.1&amp;cj=1"
+        ],
+        "width": 1200,
+        "height": 675,
+        "status": "ok"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。中国・深センでAPEC首脳会議の全体会議が開かれ、首脳宣言が採択される見通しです。アメリカ、中国、ロシアによる初めての3か国首脳会談も行われ、核軍縮やウクライナ和平などが協議される見通しです。以上です。よい一日を。",
+      "text": "今日の注目予定です。アンソロピックの上場手続きがきょう完了する予定で、初日の終値が注目されます。ユニクロはきょうから「感謝祭」を始めます。あす21日からは勤労感謝の日を含む3連休が始まります。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
