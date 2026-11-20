@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T04:42:17+09:00",
-  "main_text_sha256": "3f5e7f7d5052fe04d4710703c7a23b3b351e4c0ebf44de25d57571b37640b80a",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T04:42:24+09:00",
+  "main_text_sha256": "680d216b589ed28fae57e9ccd84051c37c82d55c23d9b1a35673b0437980aac8",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のごあいさつ",
-      "text": "おはようございます。11月20日金曜日の朝ニュースです。",
+      "text": "おはようございます。11月21日土曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,80 +22,9 @@
     },
     {
       "id": "01",
-      "title": "熊本で震度5弱の地震",
-      "text": "まず、国内の話題です。きのう19日午前2時22分ごろ、熊本県天草・芦北地方を震源とするマグニチュード5.7の地震があり、水俣市や芦北市など5つの市町村で最大震度5弱を観測しました。津波の心配はありません。水俣市と球磨村では全域に避難指示が出されました。気象庁によりますと、今年7月の熊本地震の一連の活動とみられ、揺れの強かった地域では今後1週間程度、同じ程度の揺れに注意が必要です。",
-      "source_url": "https://news.ntv.co.jp/n/fbs/category/society/fs08f9493db846475294a921de19a3f14d",
-      "source_name": "日本テレビ",
-      "image_url": "https://image.gallery.play.jp/fbs-news/articles/aecc4c128f2043e98969d52f2184d6eb/8c050313-7cfe-4c1f-80b9-01df46526a0d.jpg?w=1200",
-      "image": {
-        "url": "https://image.gallery.play.jp/fbs-news/articles/aecc4c128f2043e98969d52f2184d6eb/8c050313-7cfe-4c1f-80b9-01df46526a0d.jpg?w=1200",
-        "candidates": [
-          "https://image.gallery.play.jp/fbs-news/articles/aecc4c128f2043e98969d52f2184d6eb/8c050313-7cfe-4c1f-80b9-01df46526a0d.jpg?w=1200",
-          "https://news.ntv.co.jp/images/svg/share.svg"
-        ],
-        "width": 1050,
-        "height": 715,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "02",
-      "title": "米中ロ首脳会談 平和宣言",
-      "text": "次に、世界の話題です。19日、中国・深センで開かれていたAPEC首脳会議にあわせ、アメリカのトランプ大統領、中国の習近平国家主席、ロシアのプーチン大統領による史上初の3か国首脳会談が行われ、「平和宣言」がまとめられました。宣言は、核戦争に勝者はなく決して戦ってはならないと再確認し、核リスクの低減と核拡散防止の対話を進めることや、石油製品の供給拡大、国連改革など4項目で一致しました。ウクライナ情勢には触れられていません。APECは2日間の日程を終え、来年はベトナムで開かれることになっています。",
-      "source_url": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
-      "source_name": "NHK",
-      "image_url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000193620_1_l.jpg",
-      "image": {
-        "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000193620_1_l.jpg",
-        "candidates": [
-          "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000193620_1_l.jpg"
-        ],
-        "width": 1920,
-        "height": 1080,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "03",
-      "title": "JT ロシア事業で巨額損失",
-      "text": "JTは19日、ロシアの現地子会社7社を連結決算の対象から外し、およそ1兆3770億円の損失を計上する見込みだと発表しました。今期の最終損益は7240億円の赤字になる見通しで、年間配当も272円から204円に引き下げます。ロシアの大統領令で現地法人が一時管理下に置かれ、経営権を事実上失ったためで、JTは撤退を意味するものではないと説明しています。",
-      "source_url": "https://www.nikkei.com/article/DGXZQOUB196SK0Z11C26A1000000/",
-      "source_name": "日本経済新聞",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [
-          "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3906397019112026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;w=1200&amp;s=65dd9a01747f255dbb7233dd3f96f040",
-          "https://www.nikkei.com/api/svg/v1/k-search.rev-adf84c.svg?fill=%23333"
-        ],
-        "width": null,
-        "height": null,
-        "status": "rejected:size"
-      }
-    },
-    {
-      "id": "04",
-      "title": "三菱UFJ 650万件情報漏えい",
-      "text": "三菱UFJ銀行は18日、委託先のプレイドが提供するサービス「KARTE」への不正アクセスで、顧客およそ650万件の性別や年齢、居住地域の情報が漏えいしたと発表しました。氏名や住所、電話番号は含まれず、銀行のシステムへの侵入ではないとしています。同じサービスをめぐっては、DHCや楽天証券などでも漏えいの公表が相次いでいます。",
-      "source_url": "https://news.yahoo.co.jp/articles/8d9eb9864b0fa1bc711e9a97466e0b5dc3d2c4b8",
-      "source_name": "ビジネス＋IT",
-      "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261118-00188545-biz_plus-000-1-view.jpg?exp=10800",
-      "image": {
-        "url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261118-00188545-biz_plus-000-1-view.jpg?exp=10800",
-        "candidates": [
-          "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261118-00188545-biz_plus-000-1-view.jpg?exp=10800",
-          "https://s.yimg.jp/c/logo/f/2.0/news_r_34_2x.png"
-        ],
-        "width": 1568,
-        "height": 698,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "05",
-      "title": "日経平均 2日続伸",
-      "text": "次に、経済と市場の動きです。19日の東京株式市場で、日経平均株価は419円93銭高の5万9444円21銭で取引を終え、2日続けて上昇しました。アメリカのAI企業アンソロピックの上場を前に、半導体関連の銘柄に買いが入りました。一方、TOPIXは小幅に下げ、4日続落しています。",
-      "source_url": "https://9qu1.com/invest-daily/2026-11-19-close.html",
+      "title": "日経平均 3007円安",
+      "text": "まず、国内の話題です。20日の東京株式市場で、日経平均株価は前の日より3007円56銭安い、5万6436円65銭で取引を終えました。下げ幅は過去5番目の大きさで、東証プライム市場では93パーセントの銘柄が値下がりしました。前日のアメリカ市場での株安の流れを受け、AIや半導体関連の銘柄を中心に売りが広がり、アドバンテスト1銘柄で600円あまり押し下げました。3連休を控えた持ち高調整の売りも出たとみられています。",
+      "source_url": "https://9qu1.com/invest-daily/2026-11-20-close.html",
       "source_name": "投資デイリー",
       "image_url": null,
       "image": {
@@ -107,11 +36,11 @@
       }
     },
     {
-      "id": "06",
-      "title": "NY株 ナスダック下落",
-      "text": "夜のニューヨーク市場は取引時間中で、ナスダック総合指数はこの時間、前の日より1パーセントあまり下げて推移しています。",
-      "source_url": null,
-      "source_name": "",
+      "id": "02",
+      "title": "10月CPI 2.2%上昇",
+      "text": "20日朝に発表された10月の全国消費者物価指数は、生鮮食品を除いた指数が前の年の同じ月より2.2パーセント上がりました。9月の2.1パーセントから伸びがやや広がり、電気代がプラスに転じた一方、食料の上がり方はゆるやかになりました。物価の伸びが続くなか、日銀の利上げ観測も意識されています。",
+      "source_url": "https://9qu1.com/invest-daily/2026-11-20-close.html",
+      "source_name": "投資デイリー",
       "image_url": null,
       "image": {
         "url": null,
@@ -122,27 +51,80 @@
       }
     },
     {
-      "id": "07",
-      "title": "アンソロピック上場 初値34%高",
-      "text": "次に、テクノロジーの話題です。AI企業アンソロピックが19日、アメリカのナスダック市場に上場し、初値は公開価格の83ドルを34パーセント上回る111ドル50セントとなりました。調達額はおよそ813億ドルで、史上最大の新規上場となります。ただ、その後は値を下げ、公開価格を2割ほど上回る水準で推移しています。",
-      "source_url": "https://gizmodo.com/anthropic-ipo-makes-wall-street-history-and-brings-ai-into-uncharted-territory-2000842011",
-      "source_name": "Gizmodo",
-      "image_url": "https://gizmodo.com/app/uploads/2026/11/AnthropicboardIPO-1200x675.jpeg",
+      "id": "03",
+      "title": "楽天証券 集団訴訟へ",
+      "text": "楽天証券の大規模な情報流出をめぐり、被害者による集団訴訟に向けた準備が進んでいます。弁護士が18日夜に立ち上げた参加希望者を募るサイトには、20日朝までに1万5000人以上が登録しました。楽天証券は最大で1572万件の顧客情報が流出したおそれがあると発表していて、金融庁は原因の分析や再発防止策について報告を求める命令を出しています。弁護士は、流出した情報は犯罪と結びつくリスクが高く、会社の情報の扱いもずさんだと指摘しています。",
+      "source_url": "https://www.fnn.jp/articles/-/1156123?obtp_src=FNNjp_AR_1&obOrigUrl=true",
+      "source_name": "FNNプライムオンライン",
+      "image_url": null,
       "image": {
-        "url": "https://gizmodo.com/app/uploads/2026/11/AnthropicboardIPO-1200x675.jpeg",
+        "url": null,
         "candidates": [
-          "https://gizmodo.com/app/uploads/2026/11/AnthropicboardIPO-1200x675.jpeg",
-          "https://sb.scorecardresearch.com/p?c1=2&amp;c2=39636245&amp;cv=3.9.1&amp;cj=1"
+          "https://fnn.ismcdn.jp/mwimgs/d/4/600/img_d4d03cc23b878ebcd76c75bd27c143e3723769.jpg",
+          "https://fnn.ismcdn.jp/common/images/logo_ver_2020.svg"
+        ],
+        "width": 600,
+        "height": 337,
+        "status": "rejected:keyword"
+      }
+    },
+    {
+      "id": "04",
+      "title": "高市首相 南米2首脳と会談",
+      "text": "次に、世界の話題です。高市首相は20日、来日したペルーのフジモリ大統領とチリのカスト大統領とそれぞれ会談し、銅やリチウムなど重要鉱物のサプライチェーンの強靭化に向けた連携で一致しました。中国による輸出規制を念頭に、資源の安定調達に向けた各国との連携を強めています。ペルーには、エルニーニョ現象への災害対応支援としておよそ5億円の無償資金協力も打ち出しました。チリとは、将来の防衛装備品の移転も念頭に、防衛協力を広げる方針で一致しました。",
+      "source_url": "https://www.nippon.com/ja/articles/-/57804",
+      "source_name": "nippon.com",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [
+          "https://nippon.ismcdn.jp/mwimgs/f/0/1200wm/img_f09e0ab81197331f0b648f65da52701564366.jpg",
+          "https://nippon.ismcdn.jp/common/images/icon-menu.svg"
+        ],
+        "width": 450,
+        "height": 335,
+        "status": "rejected:keyword"
+      }
+    },
+    {
+      "id": "05",
+      "title": "NY株続落 ナスダック3%安",
+      "text": "次に、経済と市場の動きです。20日のニューヨーク市場は取引時間中で、ナスダック総合指数はこの時間、前の日より3パーセントあまり下げて推移しています。S&P500種も2パーセントほど下げ、ダウ平均は小幅な下げにとどまっています。AIや半導体株への売りが続き、前の日に上場したアンソロピックの株は10パーセントを超えて下げています。ダウ平均は前の日も1101ドル安と大幅に下げ、5万ドルの大台を割り込んでいました。",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/",
+      "source_name": "Motley Fool",
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2864c6bae8d284d27fa2c839ecc5b95fd343b4be-2000x1335.jpg&amp;w=1200&amp;op=resize",
+      "image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2864c6bae8d284d27fa2c839ecc5b95fd343b4be-2000x1335.jpg&amp;w=1200&amp;op=resize",
+        "candidates": [
+          "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2864c6bae8d284d27fa2c839ecc5b95fd343b4be-2000x1335.jpg&amp;w=1200&amp;op=resize",
+          "https://g.foolcdn.com/misc-assets/logo-tmf-primary-1-magenta-purple-reversed.svg?_w=320"
+        ],
+        "width": 2000,
+        "height": 1335,
+        "status": "ok"
+      }
+    },
+    {
+      "id": "06",
+      "title": "アンソロピック上場 初日終値97ドル",
+      "text": "次に、テクノロジーの話題です。AI企業アンソロピックは19日、アメリカのナスダック市場に上場し、初値は公開価格の83ドルを34パーセント上回る111ドル50セントとなりました。その後は売りに押され、初日の終値は公開価格を17パーセント上回る97ドル17セントでした。調達額は史上最大規模とされ、一時は時価総額が2兆ドルを超える場面もありました。",
+      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20261120.html",
+      "source_name": "野村総合研究所",
+      "image_url": "https://www.nri.com/jp/media/column/kiuchi/files/000068168.png",
+      "image": {
+        "url": "https://www.nri.com/jp/media/column/kiuchi/files/000068168.png",
+        "candidates": [
+          "https://www.nri.com/jp/media/column/kiuchi/files/000068168.png"
         ],
         "width": 1200,
-        "height": 675,
+        "height": 630,
         "status": "ok"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。アンソロピックの上場手続きがきょう完了する予定で、初日の終値が注目されます。ユニクロはきょうから「感謝祭」を始めます。あす21日からは勤労感謝の日を含む3連休が始まります。以上です。よい一日を。",
+      "text": "今日の注目予定です。きょうから勤労感謝の日を含む3連休が始まります。各地の行楽地や商業施設では、連休初日のにぎわいが見込まれます。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
