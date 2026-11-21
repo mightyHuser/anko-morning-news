@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T04:42:24+09:00",
-  "main_text_sha256": "680d216b589ed28fae57e9ccd84051c37c82d55c23d9b1a35673b0437980aac8",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T04:42:40+09:00",
+  "main_text_sha256": "ed487a5ab6139c9b55081f2daaa9a4cd0c547ffb597d579dd69a4eb4d8807df4",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のごあいさつ",
-      "text": "おはようございます。11月21日土曜日の朝ニュースです。",
+      "text": "おはようございます。11月22日日曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,45 +22,15 @@
     },
     {
       "id": "01",
-      "title": "日経平均 3007円安",
-      "text": "まず、国内の話題です。20日の東京株式市場で、日経平均株価は前の日より3007円56銭安い、5万6436円65銭で取引を終えました。下げ幅は過去5番目の大きさで、東証プライム市場では93パーセントの銘柄が値下がりしました。前日のアメリカ市場での株安の流れを受け、AIや半導体関連の銘柄を中心に売りが広がり、アドバンテスト1銘柄で600円あまり押し下げました。3連休を控えた持ち高調整の売りも出たとみられています。",
-      "source_url": "https://9qu1.com/invest-daily/2026-11-20-close.html",
-      "source_name": "投資デイリー",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "none"
-      }
-    },
-    {
-      "id": "02",
-      "title": "10月CPI 2.2%上昇",
-      "text": "20日朝に発表された10月の全国消費者物価指数は、生鮮食品を除いた指数が前の年の同じ月より2.2パーセント上がりました。9月の2.1パーセントから伸びがやや広がり、電気代がプラスに転じた一方、食料の上がり方はゆるやかになりました。物価の伸びが続くなか、日銀の利上げ観測も意識されています。",
-      "source_url": "https://9qu1.com/invest-daily/2026-11-20-close.html",
-      "source_name": "投資デイリー",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "none"
-      }
-    },
-    {
-      "id": "03",
-      "title": "楽天証券 集団訴訟へ",
-      "text": "楽天証券の大規模な情報流出をめぐり、被害者による集団訴訟に向けた準備が進んでいます。弁護士が18日夜に立ち上げた参加希望者を募るサイトには、20日朝までに1万5000人以上が登録しました。楽天証券は最大で1572万件の顧客情報が流出したおそれがあると発表していて、金融庁は原因の分析や再発防止策について報告を求める命令を出しています。弁護士は、流出した情報は犯罪と結びつくリスクが高く、会社の情報の扱いもずさんだと指摘しています。",
-      "source_url": "https://www.fnn.jp/articles/-/1156123?obtp_src=FNNjp_AR_1&obOrigUrl=true",
+      "title": "関文科相 交代示唆",
+      "text": "まず、国内の話題です。自民党の鈴木俊一幹事長は21日、盛岡市で記者会見し、政治資金パーティーに官僚を呼んで企業関係者に政策を説明させた関芳弘文部科学大臣について、交代させる可能性を示唆しました。関大臣をめぐっては、官僚が参加したパーティーが新たに3件あったことが20日に明らかになり、これまで説明していた2件と合わせて5件となりました。野党は問責決議案の提出を検討していて、鈴木幹事長は消費減税法案などの成立を最優先に、「阻害要因をなくしていくことが重要だ」と述べました。",
+      "source_url": "https://www.fnn.jp/articles/-/1157033",
       "source_name": "FNNプライムオンライン",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://fnn.ismcdn.jp/mwimgs/d/4/600/img_d4d03cc23b878ebcd76c75bd27c143e3723769.jpg",
+          "https://fnn.ismcdn.jp/mwimgs/c/c/600/img_cce7b84f67c0a912d5bca0c170b1cfef281089.jpg",
           "https://fnn.ismcdn.jp/common/images/logo_ver_2020.svg"
         ],
         "width": 600,
@@ -69,62 +39,99 @@
       }
     },
     {
-      "id": "04",
-      "title": "高市首相 南米2首脳と会談",
-      "text": "次に、世界の話題です。高市首相は20日、来日したペルーのフジモリ大統領とチリのカスト大統領とそれぞれ会談し、銅やリチウムなど重要鉱物のサプライチェーンの強靭化に向けた連携で一致しました。中国による輸出規制を念頭に、資源の安定調達に向けた各国との連携を強めています。ペルーには、エルニーニョ現象への災害対応支援としておよそ5億円の無償資金協力も打ち出しました。チリとは、将来の防衛装備品の移転も念頭に、防衛協力を広げる方針で一致しました。",
-      "source_url": "https://www.nippon.com/ja/articles/-/57804",
-      "source_name": "nippon.com",
+      "id": "02",
+      "title": "公明 自民系推薦せず",
+      "text": "公明党は、来年春の統一地方選挙で自民党系の候補を推薦しない方針を固めました。高市内閣の閣僚をめぐる政治とカネの問題や、与党主導の衆議院の比例定数31削減への反発が背景にあります。連立政権を離れて1年以上がたち、地域ごとの協力関係を認めれば、公明党が重視する統一地方選に影響しかねないと判断したものです。",
+      "source_url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate=Main&no=2026112101001117",
+      "source_name": "共同通信",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://nippon.ismcdn.jp/mwimgs/f/0/1200wm/img_f09e0ab81197331f0b648f65da52701564366.jpg",
-          "https://nippon.ismcdn.jp/common/images/icon-menu.svg"
+          "https://www.yamagata-np.jp/images/title.gif",
+          "https://www.facebook.com/tr?id=735566451254136&ev=PageView&noscript=1"
         ],
-        "width": 450,
-        "height": 335,
+        "width": null,
+        "height": null,
+        "status": "rejected:type"
+      }
+    },
+    {
+      "id": "03",
+      "title": "マニラ 詐欺拠点摘発",
+      "text": "次に、世界の話題です。フィリピンで特殊詐欺の拠点が摘発され、日本人9人を含む17人が拘束されました。グループは宅配業者を装って「荷物に違法な物が入っている」と連絡し、警察官になりすまして逮捕や資産の凍結をちらつかせ、金をだまし取ろうとしていたとみられます。拠点からは「福井県警」と書かれたパネルや警察の制服などが見つかり、AIソフトで実在する警察官の顔を再現し、ビデオ通話でなりすましていた疑いもあるということです。",
+      "source_url": "https://www.fnn.jp/articles/-/1156948",
+      "source_name": "FNNプライムオンライン",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [
+          "https://fnn.ismcdn.jp/mwimgs/a/9/600/img_a9e280397bb1566a1fa70c798ba4482532763.jpg",
+          "https://fnn.ismcdn.jp/common/images/logo_ver_2020.svg"
+        ],
+        "width": 600,
+        "height": 331,
         "status": "rejected:keyword"
       }
     },
     {
-      "id": "05",
-      "title": "NY株続落 ナスダック3%安",
-      "text": "次に、経済と市場の動きです。20日のニューヨーク市場は取引時間中で、ナスダック総合指数はこの時間、前の日より3パーセントあまり下げて推移しています。S&P500種も2パーセントほど下げ、ダウ平均は小幅な下げにとどまっています。AIや半導体株への売りが続き、前の日に上場したアンソロピックの株は10パーセントを超えて下げています。ダウ平均は前の日も1101ドル安と大幅に下げ、5万ドルの大台を割り込んでいました。",
-      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/",
-      "source_name": "Motley Fool",
-      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2864c6bae8d284d27fa2c839ecc5b95fd343b4be-2000x1335.jpg&amp;w=1200&amp;op=resize",
+      "id": "04",
+      "title": "AI兵器 規制合意せず",
+      "text": "スイスのジュネーブで開かれていた特定通常兵器使用禁止制限条約の再検討会議は21日、AIを使い人間の介在なく標的を攻撃する自律型致死兵器の規制をめぐり、法的な拘束力のある新たなルールの策定で合意できず、判断を先送りしました。大半の国が法規制に賛成しましたが、アメリカやロシアなどが抵抗しました。各国は今後2年間、規制の枠組みについて協議を続けます。",
+      "source_url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate=Main&no=2026112101000720",
+      "source_name": "共同通信",
+      "image_url": null,
       "image": {
-        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2864c6bae8d284d27fa2c839ecc5b95fd343b4be-2000x1335.jpg&amp;w=1200&amp;op=resize",
+        "url": null,
         "candidates": [
-          "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2864c6bae8d284d27fa2c839ecc5b95fd343b4be-2000x1335.jpg&amp;w=1200&amp;op=resize",
-          "https://g.foolcdn.com/misc-assets/logo-tmf-primary-1-magenta-purple-reversed.svg?_w=320"
+          "https://www.yamagata-np.jp/images/title.gif",
+          "https://www.facebook.com/tr?id=735566451254136&ev=PageView&noscript=1"
         ],
-        "width": 2000,
-        "height": 1335,
-        "status": "ok"
+        "width": null,
+        "height": null,
+        "status": "rejected:type"
+      }
+    },
+    {
+      "id": "05",
+      "title": "NY株大幅続落",
+      "text": "次に、経済と市場の動きです。20日のニューヨーク株式市場は大幅に続落し、ダウ平均は前の日より949ドル安い4万8147ドルで取引を終えました。下げは5日連続で、最高値からの下落率は11パーセントを超え、調整局面に入りました。ハイテク株の比率が高いナスダック総合指数は5.28パーセント安と急落し、S&P500種も3.70パーセント下げました。AI関連銘柄への売りが広がり、上場したばかりのアンソロピックも8.5パーセント下げ、エヌビディアは証券取引委員会による調査の報道もあり、14パーセント下げました。",
+      "source_url": "https://www.nikkei.com/article/DGXZQOFL20CGY0Q6A121C2000000/",
+      "source_name": "日本経済新聞",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [
+          "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
+          "https://www.nikkei.com/api/svg/v1/k-search.rev-adf84c.svg?fill=%23333"
+        ],
+        "width": 1200,
+        "height": 630,
+        "status": "rejected:size"
       }
     },
     {
       "id": "06",
-      "title": "アンソロピック上場 初日終値97ドル",
-      "text": "次に、テクノロジーの話題です。AI企業アンソロピックは19日、アメリカのナスダック市場に上場し、初値は公開価格の83ドルを34パーセント上回る111ドル50セントとなりました。その後は売りに押され、初日の終値は公開価格を17パーセント上回る97ドル17セントでした。調達額は史上最大規模とされ、一時は時価総額が2兆ドルを超える場面もありました。",
-      "source_url": "https://www.nri.com/jp/media/column/kiuchi/20261120.html",
-      "source_name": "野村総合研究所",
-      "image_url": "https://www.nri.com/jp/media/column/kiuchi/files/000068168.png",
+      "title": "リーマン予想 証明か",
+      "text": "次に、テクノロジーの話題です。アメリカのAI企業アンソロピックに所属する数学者が20日、生成AI「Claude」を使い、167年間未解決だった数学の難問「リーマン予想」を証明したと発表しました。証明はコンピューターによる検証システム「Lean」での確認を通過したとされていますが、数学界で正式に認められたわけではなく、専門家の精査が続いています。リーマン予想は、100万ドルの賞金がかけられたミレニアム懸賞問題の一つです。",
+      "source_url": "https://news.yahoo.co.jp/articles/c6bed2e9ea95a323d4d3d5960dba7846bf5f84b1",
+      "source_name": "CNET Japan",
+      "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261121-35255245-cnetj-000-2-view.jpg?exp=10800",
       "image": {
-        "url": "https://www.nri.com/jp/media/column/kiuchi/files/000068168.png",
+        "url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261121-35255245-cnetj-000-2-view.jpg?exp=10800",
         "candidates": [
-          "https://www.nri.com/jp/media/column/kiuchi/files/000068168.png"
+          "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261121-35255245-cnetj-000-2-view.jpg?exp=10800",
+          "https://s.yimg.jp/c/logo/f/2.0/news_r_34_2x.png"
         ],
-        "width": 1200,
-        "height": 630,
+        "width": 584,
+        "height": 438,
         "status": "ok"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。きょうから勤労感謝の日を含む3連休が始まります。各地の行楽地や商業施設では、連休初日のにぎわいが見込まれます。以上です。よい一日を。",
+      "text": "今日の注目予定です。きょうは3連休の中日で、大相撲九州場所は千秋楽を迎えます。2敗で並ぶ横綱の大の里と平幕の若元春を中心に、優勝争いが最終日までもつれています。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
