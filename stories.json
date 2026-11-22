@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T04:42:40+09:00",
-  "main_text_sha256": "ed487a5ab6139c9b55081f2daaa9a4cd0c547ffb597d579dd69a4eb4d8807df4",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T04:42:19+09:00",
+  "main_text_sha256": "c409f7e85888c67a8106b5b02ca1c7f9223d23c80b3fbbf290a27c81eaf031a0",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のごあいさつ",
-      "text": "おはようございます。11月22日日曜日の朝ニュースです。",
+      "text": "おはようございます。11月23日月曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,116 +22,132 @@
     },
     {
       "id": "01",
-      "title": "関文科相 交代示唆",
-      "text": "まず、国内の話題です。自民党の鈴木俊一幹事長は21日、盛岡市で記者会見し、政治資金パーティーに官僚を呼んで企業関係者に政策を説明させた関芳弘文部科学大臣について、交代させる可能性を示唆しました。関大臣をめぐっては、官僚が参加したパーティーが新たに3件あったことが20日に明らかになり、これまで説明していた2件と合わせて5件となりました。野党は問責決議案の提出を検討していて、鈴木幹事長は消費減税法案などの成立を最優先に、「阻害要因をなくしていくことが重要だ」と述べました。",
-      "source_url": "https://www.fnn.jp/articles/-/1157033",
-      "source_name": "FNNプライムオンライン",
-      "image_url": null,
+      "title": "関文科相 問責論高まる",
+      "text": "まず、国内の話題です。政治資金パーティーに官僚を呼んで企業関係者に政策を説明させた関芳弘文部科学大臣をめぐり、国民民主党の玉木雄一郎代表は22日、参議院への問責決議案の提出に値するとの考えを示しました。国会で説明していた2件に加え、新たに3件あったことを問題視し、「虚偽答弁だ」と批判しています。一方、21日に交代の可能性を示唆した自民党の鈴木俊一幹事長の発言について、木原稔官房長官は22日、「個々の人事に関する発言ではない」と軌道修正しました。野党は24日にも、問責決議案の提出に向けて協議する見通しです。",
+      "source_url": "https://www.47news.jp/15270687.html",
+      "source_name": "共同通信",
+      "image_url": "https://img.cf.47news.jp/public/photo/d313abcf82314410ab9c9afa96067c65/photo.jpg",
       "image": {
-        "url": null,
+        "url": "https://img.cf.47news.jp/public/photo/d313abcf82314410ab9c9afa96067c65/photo.jpg",
         "candidates": [
-          "https://fnn.ismcdn.jp/mwimgs/c/c/600/img_cce7b84f67c0a912d5bca0c170b1cfef281089.jpg",
-          "https://fnn.ismcdn.jp/common/images/logo_ver_2020.svg"
+          "https://img.cf.47news.jp/public/photo/d313abcf82314410ab9c9afa96067c65/photo.jpg",
+          "https://www.47news.jp/lib/common/img/header_logo.svg"
         ],
-        "width": 600,
-        "height": 337,
-        "status": "rejected:keyword"
+        "width": 1000,
+        "height": 725,
+        "status": "ok"
       }
     },
     {
       "id": "02",
-      "title": "公明 自民系推薦せず",
-      "text": "公明党は、来年春の統一地方選挙で自民党系の候補を推薦しない方針を固めました。高市内閣の閣僚をめぐる政治とカネの問題や、与党主導の衆議院の比例定数31削減への反発が背景にあります。連立政権を離れて1年以上がたち、地域ごとの協力関係を認めれば、公明党が重視する統一地方選に影響しかねないと判断したものです。",
-      "source_url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate=Main&no=2026112101001117",
-      "source_name": "共同通信",
+      "title": "COP31 合意断念",
+      "text": "次に、世界の話題です。トルコのアンタルヤで開かれていた国連の気候変動会議、COP31は22日、成果文書の採択を断念して閉幕しました。化石燃料からの脱却に直接触れていない草案に、欧州連合などが反対したためです。成果文書が採択されないままの閉幕は、2009年のCOP15以来となります。最終草案は、パリ協定の目標である気温上昇1.5度以内に収める軌道をすでに超えていると初めて認め、二酸化炭素の除去技術の開発を急ぐよう求めていました。",
+      "source_url": "https://www.reuters.com/jp/world/environment/RXVJ5NWAZRL4JO4GAHPFBKHHFU-2026-11-22/",
+      "source_name": "ロイター",
       "image_url": null,
       "image": {
         "url": null,
-        "candidates": [
-          "https://www.yamagata-np.jp/images/title.gif",
-          "https://www.facebook.com/tr?id=735566451254136&ev=PageView&noscript=1"
-        ],
+        "candidates": [],
         "width": null,
         "height": null,
-        "status": "rejected:type"
+        "status": "error:page:HTTPError"
       }
     },
     {
       "id": "03",
-      "title": "マニラ 詐欺拠点摘発",
-      "text": "次に、世界の話題です。フィリピンで特殊詐欺の拠点が摘発され、日本人9人を含む17人が拘束されました。グループは宅配業者を装って「荷物に違法な物が入っている」と連絡し、警察官になりすまして逮捕や資産の凍結をちらつかせ、金をだまし取ろうとしていたとみられます。拠点からは「福井県警」と書かれたパネルや警察の制服などが見つかり、AIソフトで実在する警察官の顔を再現し、ビデオ通話でなりすましていた疑いもあるということです。",
-      "source_url": "https://www.fnn.jp/articles/-/1156948",
-      "source_name": "FNNプライムオンライン",
-      "image_url": null,
+      "title": "ポーランドにミサイル落下",
+      "text": "ポーランド政府は20日、ロシア軍の巡航ミサイルなど3発がポーランド領内に落下したと発表しました。ウクライナとの国境から数十キロの地点で、けが人や建物への被害は確認されていません。トゥスク首相は「事故だとは思えない」と述べ、意図的な挑発行為とみられると非難しています。ポーランド国防相も北大西洋条約機構の事務総長に、東欧の防衛強化を求めました。",
+      "source_url": "https://news.tv-asahi.co.jp/news_international/articles/000549506.html",
+      "source_name": "テレビ朝日",
+      "image_url": "https://news.tv-asahi.co.jp/articles_img/000549506_1200.jpg",
       "image": {
-        "url": null,
+        "url": "https://news.tv-asahi.co.jp/articles_img/000549506_1200.jpg",
         "candidates": [
-          "https://fnn.ismcdn.jp/mwimgs/a/9/600/img_a9e280397bb1566a1fa70c798ba4482532763.jpg",
-          "https://fnn.ismcdn.jp/common/images/logo_ver_2020.svg"
+          "https://news.tv-asahi.co.jp/articles_img/000549506_1200.jpg",
+          "https://news.tv-asahi.co.jp/articles_img/000549506_1200.jpg?upd_date=20261121072514"
         ],
-        "width": 600,
-        "height": 331,
-        "status": "rejected:keyword"
+        "width": 1200,
+        "height": 675,
+        "status": "ok"
       }
     },
     {
       "id": "04",
-      "title": "AI兵器 規制合意せず",
-      "text": "スイスのジュネーブで開かれていた特定通常兵器使用禁止制限条約の再検討会議は21日、AIを使い人間の介在なく標的を攻撃する自律型致死兵器の規制をめぐり、法的な拘束力のある新たなルールの策定で合意できず、判断を先送りしました。大半の国が法規制に賛成しましたが、アメリカやロシアなどが抵抗しました。各国は今後2年間、規制の枠組みについて協議を続けます。",
-      "source_url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate=Main&no=2026112101000720",
+      "title": "10月物価 2.2%上昇",
+      "text": "次に、経済と市場の動きです。総務省が20日に発表した10月の全国消費者物価指数は、生鮮食品を除く総合で前の年の同じ月より2.2パーセント上昇しました。伸び率は9月の2.1パーセントから拡大し、日本銀行が目標とする2パーセントを2か月連続で上回りました。食料やエネルギーが全体を押し上げ、電気代は1.6パーセント、都市ガス代は5.3パーセント上昇しました。一方、コメ類は29.7パーセント下がり、過去最大の下げ幅となりました。",
+      "source_url": "https://www.sankei.com/article/20261120-RZD5EA7MEBOJDPKI6LKCLL5WTU/",
+      "source_name": "産経新聞",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [
+          "https://www.sankei.com/resizer/v2/GS2VGJUXFNIV3O52DAZNEGH4QU.jpg?auth=bdff2b8aa4465248be847a131abfe620797fe7ea61829f3dd05acd97be49bb50&amp;quality=50&amp;smart=true&amp;width=1200&amp;height=675",
+          "https://www.sankei.com/pf/resources/icons/sankei.svg?d=1209"
+        ],
+        "width": null,
+        "height": null,
+        "status": "rejected:keyword"
+      }
+    },
+    {
+      "id": "05",
+      "title": "ホンダ・トヨタ 160万台リコール",
+      "text": "ホンダとトヨタ自動車は20日、タカタ製エアバッグのインフレーターに破裂のおそれがあるとして、合わせておよそ160万台をリコールすると発表しました。アメリカ国内のホンダ車が81万台、世界中のトヨタ車が79万台で、対象車両での破裂やけが、事故は報告されていないということです。両社はインフレーターを交換するとしています。アメリカの道路交通安全局は、劣化のリスクに先んじて対応できたとして、他の自動車メーカーにも分析と試験を続けるよう求めています。",
+      "source_url": "https://www.newsweekjapan.jp/articles/-/340935",
+      "source_name": "ロイター",
+      "image_url": "https://newsweekjapan.ismcdn.jp/mwimgs/0/d/1200x/img_0db67d6400a33edf664ae9ac0863dac875049.jpg",
+      "image": {
+        "url": "https://newsweekjapan.ismcdn.jp/mwimgs/0/d/1200x/img_0db67d6400a33edf664ae9ac0863dac875049.jpg",
+        "candidates": [
+          "https://newsweekjapan.ismcdn.jp/mwimgs/0/d/1200x/img_0db67d6400a33edf664ae9ac0863dac875049.jpg",
+          "https://newsweekjapan.ismcdn.jp/common/images/newsweek/logo.svg"
+        ],
+        "width": 1200,
+        "height": 800,
+        "status": "ok"
+      }
+    },
+    {
+      "id": "06",
+      "title": "ベピコロンボ 水星到着",
+      "text": "次に、テクノロジーと科学の話題です。欧州宇宙機関は22日、2018年に地球を出発した日欧共同の水星探査計画「ベピコロンボ」の探査機2機を、水星の周回軌道に投入したと発表しました。日本の探査機「みお」と欧州の探査機「MPO」で、およそ100億キロを航行して水星に到着しました。日本では初めての水星探査で、2機体制での周回観測は世界初となり、来春にも始まる見通しです。",
+      "source_url": "https://news.jp/i/1497050709656798050",
       "source_name": "共同通信",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://www.yamagata-np.jp/images/title.gif",
-          "https://www.facebook.com/tr?id=735566451254136&ev=PageView&noscript=1"
+          "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1497136161984545361/origin_1.jpg",
+          "https://img.jp.ekkowassets.com/c_fill,g_face,w_600,h_315,f_auto,q_auto:eco/ch/images/1497136161984545361/origin_1.jpg",
+          "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/39166665832988672/header_13.png"
         ],
-        "width": null,
-        "height": null,
-        "status": "rejected:type"
-      }
-    },
-    {
-      "id": "05",
-      "title": "NY株大幅続落",
-      "text": "次に、経済と市場の動きです。20日のニューヨーク株式市場は大幅に続落し、ダウ平均は前の日より949ドル安い4万8147ドルで取引を終えました。下げは5日連続で、最高値からの下落率は11パーセントを超え、調整局面に入りました。ハイテク株の比率が高いナスダック総合指数は5.28パーセント安と急落し、S&P500種も3.70パーセント下げました。AI関連銘柄への売りが広がり、上場したばかりのアンソロピックも8.5パーセント下げ、エヌビディアは証券取引委員会による調査の報道もあり、14パーセント下げました。",
-      "source_url": "https://www.nikkei.com/article/DGXZQOFL20CGY0Q6A121C2000000/",
-      "source_name": "日本経済新聞",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [
-          "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-          "https://www.nikkei.com/api/svg/v1/k-search.rev-adf84c.svg?fill=%23333"
-        ],
-        "width": 1200,
-        "height": 630,
+        "width": 400,
+        "height": 210,
         "status": "rejected:size"
       }
     },
     {
-      "id": "06",
-      "title": "リーマン予想 証明か",
-      "text": "次に、テクノロジーの話題です。アメリカのAI企業アンソロピックに所属する数学者が20日、生成AI「Claude」を使い、167年間未解決だった数学の難問「リーマン予想」を証明したと発表しました。証明はコンピューターによる検証システム「Lean」での確認を通過したとされていますが、数学界で正式に認められたわけではなく、専門家の精査が続いています。リーマン予想は、100万ドルの賞金がかけられたミレニアム懸賞問題の一つです。",
-      "source_url": "https://news.yahoo.co.jp/articles/c6bed2e9ea95a323d4d3d5960dba7846bf5f84b1",
-      "source_name": "CNET Japan",
-      "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261121-35255245-cnetj-000-2-view.jpg?exp=10800",
+      "id": "07",
+      "title": "大の里 2場所連続優勝",
+      "text": "スポーツの話題です。大相撲九州場所は22日、千秋楽を迎え、横綱の大の里が13勝2敗で並んだ平幕の若元春との優勝決定戦を渡し込みで制し、2場所連続7度目の優勝を果たしました。横綱での連続制覇は昇進9場所目で初めてです。33歳の若元春は初優勝を逃しましたが、技能賞に輝きました。",
+      "source_url": "https://www.sankei.com/article/20261122-K6OJHERQKFKH3BWIOOKAW7O6JE/?obOrigUrl=true",
+      "source_name": "産経新聞",
+      "image_url": null,
       "image": {
-        "url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261121-35255245-cnetj-000-2-view.jpg?exp=10800",
+        "url": null,
         "candidates": [
-          "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261121-35255245-cnetj-000-2-view.jpg?exp=10800",
-          "https://s.yimg.jp/c/logo/f/2.0/news_r_34_2x.png"
+          "https://www.sankei.com/resizer/v2/EHVFWHWIDFOIFJBFYEFUWNKNBU.jpg?auth=c74f9215c6c7234d9778169dc53f86c6bb75df028e1b44f827da5e0a1b1aa7ed&amp;quality=50&amp;focal=1757%2C1316&amp;width=1200&amp;height=675",
+          "https://www.sankei.com/pf/resources/icons/sankei.svg?d=1209"
         ],
-        "width": 584,
-        "height": 438,
-        "status": "ok"
+        "width": null,
+        "height": null,
+        "status": "rejected:keyword"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。きょうは3連休の中日で、大相撲九州場所は千秋楽を迎えます。2敗で並ぶ横綱の大の里と平幕の若元春を中心に、優勝争いが最終日までもつれています。以上です。よい一日を。",
+      "text": "今日の注目予定です。きょうは勤労感謝の日で、東京市場は休場です。3連休の最終日となります。週内では、24日に野党が関文部科学大臣への問責決議案の提出に向けて協議する見通しで、25日にはアメリカの物価指標、PCE価格指数の発表が予定されています。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
