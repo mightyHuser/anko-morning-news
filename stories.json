@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T04:42:19+09:00",
-  "main_text_sha256": "c409f7e85888c67a8106b5b02ca1c7f9223d23c80b3fbbf290a27c81eaf031a0",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T04:42:01+09:00",
+  "main_text_sha256": "975f4a5691af4eda4773c37814b9579cf16a7f01d228301b8b58dab5a99b89d2",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のごあいさつ",
-      "text": "おはようございます。11月23日月曜日の朝ニュースです。",
+      "text": "おはようございます。11月24日火曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,27 +22,81 @@
     },
     {
       "id": "01",
-      "title": "関文科相 問責論高まる",
-      "text": "まず、国内の話題です。政治資金パーティーに官僚を呼んで企業関係者に政策を説明させた関芳弘文部科学大臣をめぐり、国民民主党の玉木雄一郎代表は22日、参議院への問責決議案の提出に値するとの考えを示しました。国会で説明していた2件に加え、新たに3件あったことを問題視し、「虚偽答弁だ」と批判しています。一方、21日に交代の可能性を示唆した自民党の鈴木俊一幹事長の発言について、木原稔官房長官は22日、「個々の人事に関する発言ではない」と軌道修正しました。野党は24日にも、問責決議案の提出に向けて協議する見通しです。",
-      "source_url": "https://www.47news.jp/15270687.html",
-      "source_name": "共同通信",
-      "image_url": "https://img.cf.47news.jp/public/photo/d313abcf82314410ab9c9afa96067c65/photo.jpg",
+      "title": "首里城正殿 7年ぶり公開",
+      "text": "まず、国内の話題です。2019年の火災で焼失した沖縄の首里城正殿の一般公開が、23日正午から始まりました。内部の公開は7年ぶりです。朱色に彩られた正殿は「巨大な琉球漆器」とも呼ばれ、初日から多くの人が訪れました。内部の観覧は事前予約制で、入場料は大人1000円です。",
+      "source_url": "https://www.nikkansports.com/general/news/202611230001427.html",
+      "source_name": "日刊スポーツ",
+      "image_url": null,
       "image": {
-        "url": "https://img.cf.47news.jp/public/photo/d313abcf82314410ab9c9afa96067c65/photo.jpg",
+        "url": null,
         "candidates": [
-          "https://img.cf.47news.jp/public/photo/d313abcf82314410ab9c9afa96067c65/photo.jpg",
-          "https://www.47news.jp/lib/common/img/header_logo.svg"
+          "https://www.nikkansports.com/mod2015/img/common/sns_nikkansports_daytime_other.png",
+          "https://cache2.nipc.jp/mod2015/img/logo/logo_header_nikkansportscom.png"
         ],
-        "width": 1000,
-        "height": 725,
-        "status": "ok"
+        "width": 1300,
+        "height": 683,
+        "status": "rejected:keyword"
       }
     },
     {
       "id": "02",
-      "title": "COP31 合意断念",
-      "text": "次に、世界の話題です。トルコのアンタルヤで開かれていた国連の気候変動会議、COP31は22日、成果文書の採択を断念して閉幕しました。化石燃料からの脱却に直接触れていない草案に、欧州連合などが反対したためです。成果文書が採択されないままの閉幕は、2009年のCOP15以来となります。最終草案は、パリ協定の目標である気温上昇1.5度以内に収める軌道をすでに超えていると初めて認め、二酸化炭素の除去技術の開発を急ぐよう求めていました。",
-      "source_url": "https://www.reuters.com/jp/world/environment/RXVJ5NWAZRL4JO4GAHPFBKHHFU-2026-11-22/",
+      "title": "日本版DBS 12月開始",
+      "text": "子どもと接する仕事に就く人の性犯罪歴を確認する、いわゆる日本版DBSの仕組みが、12月25日から始まります。学校や認可保育所など、全国およそ12万6000か所の施設で働く、およそ280万人が対象です。新たに採用される人は、仕事を始める前に確認を終えることになっていて、いま働いている人も、3年以内に確認を受けることになっています。",
+      "source_url": "https://tokyodispatch.com/residents/japan-dbs-screening-december-volunteers-gaps",
+      "source_name": "Tokyo Dispatch",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [
+          "https://tokyodispatch.com/img/images/tokyodispatch/dd1cf1af843a0ffff555.jpg",
+          "https://tokyodispatch.com/favicon.svg"
+        ],
+        "width": 670,
+        "height": 352,
+        "status": "rejected:keyword"
+      }
+    },
+    {
+      "id": "03",
+      "title": "キーウ近郊にドローン攻撃",
+      "text": "次に、世界の話題です。ロシア軍のドローンが22日未明、ウクライナの首都キーウ近郊のディメルにある集合住宅を直撃し、建物の一部が崩落しました。これまでに4人の死亡が確認され、およそ10人の安否が分かっていません。7歳の男の子が、およそ14時間後にがれきの下から救出されました。ゼレンスキー大統領は、救助活動が続いていると述べ、キーウ州は23日を服喪の日としました。",
+      "source_url": "https://kimkj.com/ja/global-conflict-board-ja/?mod=document&uid=22824",
+      "source_name": "KIMKJ.COM",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [
+          "https://kimkj.com/wp-content/uploads/kimkj-social/kimkj-social-default-v1.png",
+          "https://kimkj.com/wp-content/uploads/kboard_captcha/captcha_6b049712dcb3c.png"
+        ],
+        "width": 1200,
+        "height": 630,
+        "status": "rejected:size"
+      }
+    },
+    {
+      "id": "04",
+      "title": "トランプ氏 イラン攻撃再開示唆",
+      "text": "トランプ大統領は22日、イランとの交渉が合意に至らなければ、年明け以降、イランへの軍事攻撃を再開する方向に傾いていると述べました。イランが海上封鎖を突破しようとすれば、船舶を攻撃して沈めるとも警告しました。一方で、イラン国内の反政府デモの参加者には、抗議を続けるよう呼びかけました。",
+      "source_url": "https://habozou.com/news/post-18840",
+      "source_name": "habozou.com",
+      "image_url": "https://habozou.com/wp-content/uploads/2026/11/eyecatch_20261123_ja.png",
+      "image": {
+        "url": "https://habozou.com/wp-content/uploads/2026/11/eyecatch_20261123_ja.png",
+        "candidates": [
+          "https://habozou.com/wp-content/uploads/2026/11/eyecatch_20261123_ja.png",
+          "https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3366096&pid=892706043"
+        ],
+        "width": 1200,
+        "height": 630,
+        "status": "ok"
+      }
+    },
+    {
+      "id": "05",
+      "title": "米株急反発 途中経過",
+      "text": "次に、経済と市場の動きです。アメリカの株式市場は23日、大きく反発して始まりました。先週末、AI関連株の売りでダウ平均が949ドル安、ナスダック総合が5パーセントを超える下げとなった反動で、買い戻しが広がりました。取引開始後の段階では、ダウ平均が一時1000ドル以上上昇し、ナスダック総合は6パーセント近く上げています。11月のアメリカの景況感を示すPMI速報値は54.6と、4か月ぶりの低水準でしたが、景気の拡大は続いています。なお、アメリカ市場はまだ取引時間中で、終値は出ていません。",
+      "source_url": "https://www.reuters.com/jp/markets/world-indices/M4VTOKJJWRPBDEMLJ5EL6SYTOE-2026-11-23/",
       "source_name": "ロイター",
       "image_url": null,
       "image": {
@@ -54,100 +108,24 @@
       }
     },
     {
-      "id": "03",
-      "title": "ポーランドにミサイル落下",
-      "text": "ポーランド政府は20日、ロシア軍の巡航ミサイルなど3発がポーランド領内に落下したと発表しました。ウクライナとの国境から数十キロの地点で、けが人や建物への被害は確認されていません。トゥスク首相は「事故だとは思えない」と述べ、意図的な挑発行為とみられると非難しています。ポーランド国防相も北大西洋条約機構の事務総長に、東欧の防衛強化を求めました。",
-      "source_url": "https://news.tv-asahi.co.jp/news_international/articles/000549506.html",
-      "source_name": "テレビ朝日",
-      "image_url": "https://news.tv-asahi.co.jp/articles_img/000549506_1200.jpg",
-      "image": {
-        "url": "https://news.tv-asahi.co.jp/articles_img/000549506_1200.jpg",
-        "candidates": [
-          "https://news.tv-asahi.co.jp/articles_img/000549506_1200.jpg",
-          "https://news.tv-asahi.co.jp/articles_img/000549506_1200.jpg?upd_date=20261121072514"
-        ],
-        "width": 1200,
-        "height": 675,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "04",
-      "title": "10月物価 2.2%上昇",
-      "text": "次に、経済と市場の動きです。総務省が20日に発表した10月の全国消費者物価指数は、生鮮食品を除く総合で前の年の同じ月より2.2パーセント上昇しました。伸び率は9月の2.1パーセントから拡大し、日本銀行が目標とする2パーセントを2か月連続で上回りました。食料やエネルギーが全体を押し上げ、電気代は1.6パーセント、都市ガス代は5.3パーセント上昇しました。一方、コメ類は29.7パーセント下がり、過去最大の下げ幅となりました。",
-      "source_url": "https://www.sankei.com/article/20261120-RZD5EA7MEBOJDPKI6LKCLL5WTU/",
-      "source_name": "産経新聞",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [
-          "https://www.sankei.com/resizer/v2/GS2VGJUXFNIV3O52DAZNEGH4QU.jpg?auth=bdff2b8aa4465248be847a131abfe620797fe7ea61829f3dd05acd97be49bb50&amp;quality=50&amp;smart=true&amp;width=1200&amp;height=675",
-          "https://www.sankei.com/pf/resources/icons/sankei.svg?d=1209"
-        ],
-        "width": null,
-        "height": null,
-        "status": "rejected:keyword"
-      }
-    },
-    {
-      "id": "05",
-      "title": "ホンダ・トヨタ 160万台リコール",
-      "text": "ホンダとトヨタ自動車は20日、タカタ製エアバッグのインフレーターに破裂のおそれがあるとして、合わせておよそ160万台をリコールすると発表しました。アメリカ国内のホンダ車が81万台、世界中のトヨタ車が79万台で、対象車両での破裂やけが、事故は報告されていないということです。両社はインフレーターを交換するとしています。アメリカの道路交通安全局は、劣化のリスクに先んじて対応できたとして、他の自動車メーカーにも分析と試験を続けるよう求めています。",
-      "source_url": "https://www.newsweekjapan.jp/articles/-/340935",
-      "source_name": "ロイター",
-      "image_url": "https://newsweekjapan.ismcdn.jp/mwimgs/0/d/1200x/img_0db67d6400a33edf664ae9ac0863dac875049.jpg",
-      "image": {
-        "url": "https://newsweekjapan.ismcdn.jp/mwimgs/0/d/1200x/img_0db67d6400a33edf664ae9ac0863dac875049.jpg",
-        "candidates": [
-          "https://newsweekjapan.ismcdn.jp/mwimgs/0/d/1200x/img_0db67d6400a33edf664ae9ac0863dac875049.jpg",
-          "https://newsweekjapan.ismcdn.jp/common/images/newsweek/logo.svg"
-        ],
-        "width": 1200,
-        "height": 800,
-        "status": "ok"
-      }
-    },
-    {
       "id": "06",
-      "title": "ベピコロンボ 水星到着",
-      "text": "次に、テクノロジーと科学の話題です。欧州宇宙機関は22日、2018年に地球を出発した日欧共同の水星探査計画「ベピコロンボ」の探査機2機を、水星の周回軌道に投入したと発表しました。日本の探査機「みお」と欧州の探査機「MPO」で、およそ100億キロを航行して水星に到着しました。日本では初めての水星探査で、2機体制での周回観測は世界初となり、来春にも始まる見通しです。",
-      "source_url": "https://news.jp/i/1497050709656798050",
-      "source_name": "共同通信",
+      "title": "エヌビディア CEO復帰",
+      "text": "次に、テクノロジーの話題です。アメリカの半導体大手エヌビディアは23日、辞任していたジェンスン・フアン氏を、社長兼CEOに即時復帰させると発表しました。取締役会は全会一致で決め、フアン氏の復帰に国家安全保障上のリスクはないと確認したとしています。フアン氏は今月、中国の工作員とされる女性らとの不倫が報じられ、辞任していました。発表を受けて、エヌビディアの株価は一時35パーセントを超えて急伸しました。ただ、アメリカ議会の与野党からは、復帰を批判する声も上がっています。",
+      "source_url": "https://www.reuters.com/jp/business/technology/GQZXIOW6EFPLBGOZOWMHHBHOXM-2026-11-23/",
+      "source_name": "ロイター",
       "image_url": null,
       "image": {
         "url": null,
-        "candidates": [
-          "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1497136161984545361/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_fill,g_face,w_600,h_315,f_auto,q_auto:eco/ch/images/1497136161984545361/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/39166665832988672/header_13.png"
-        ],
-        "width": 400,
-        "height": 210,
-        "status": "rejected:size"
-      }
-    },
-    {
-      "id": "07",
-      "title": "大の里 2場所連続優勝",
-      "text": "スポーツの話題です。大相撲九州場所は22日、千秋楽を迎え、横綱の大の里が13勝2敗で並んだ平幕の若元春との優勝決定戦を渡し込みで制し、2場所連続7度目の優勝を果たしました。横綱での連続制覇は昇進9場所目で初めてです。33歳の若元春は初優勝を逃しましたが、技能賞に輝きました。",
-      "source_url": "https://www.sankei.com/article/20261122-K6OJHERQKFKH3BWIOOKAW7O6JE/?obOrigUrl=true",
-      "source_name": "産経新聞",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [
-          "https://www.sankei.com/resizer/v2/EHVFWHWIDFOIFJBFYEFUWNKNBU.jpg?auth=c74f9215c6c7234d9778169dc53f86c6bb75df028e1b44f827da5e0a1b1aa7ed&amp;quality=50&amp;focal=1757%2C1316&amp;width=1200&amp;height=675",
-          "https://www.sankei.com/pf/resources/icons/sankei.svg?d=1209"
-        ],
+        "candidates": [],
         "width": null,
         "height": null,
-        "status": "rejected:keyword"
+        "status": "error:page:HTTPError"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。きょうは勤労感謝の日で、東京市場は休場です。3連休の最終日となります。週内では、24日に野党が関文部科学大臣への問責決議案の提出に向けて協議する見通しで、25日にはアメリカの物価指標、PCE価格指数の発表が予定されています。以上です。よい一日を。",
+      "text": "今日の注目予定です。東京市場は3連休明けで取引が再開され、先週末の大幅安と、アメリカ市場の反発がどう反映されるかが注目されます。野党はきょう、関文部科学大臣への問責決議案の提出に向けて協議する見通しです。あす25日には、アメリカの物価指標、PCE価格指数の発表が予定されています。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
