@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T04:42:55+09:00",
-  "main_text_sha256": "f3c334f580e947ede7f032e477058b5c5e322c0338e52847eab5223ae0f4bd7a",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T04:42:05+09:00",
+  "main_text_sha256": "f1e8285f0378d66fa2134f52e10f36d973129c882d2e3417d72516c1a72cf778",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のごあいさつ",
-      "text": "おはようございます。11月25日水曜日の朝ニュースです。",
+      "text": "おはようございます。11月26日木曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -23,79 +23,81 @@
     {
       "id": "01",
       "title": "小田原厚木道路で逆走事故",
-      "text": "まず、国内の話題です。24日夕方、神奈川県平塚市の小田原厚木道路で、77歳の男性が運転する軽自動車が逆走し、対向車と正面衝突しました。34歳の男性が死亡し、77歳の男性も重傷です。77歳の男性は、料金所でUターンをして逆走を始めたとみられています。",
-      "source_url": "https://news.jp/i/1497982013150396660",
+      "text": "まず、国内の話題です。24日夕方、神奈川県平塚市の小田原厚木道路で、77歳の男性が運転する軽乗用車が料金所の手前でUターンをして逆走し、対向車と正面衝突しました。衝突された車の34歳の男性が死亡し、77歳の男性も重傷です。警察は、車がおよそ1.7キロにわたって逆走していたとみて、詳しい経緯を調べています。",
+      "source_url": "https://news.jp/i/1498293902950630062",
       "source_name": "時事通信",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1497982007158375933/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_fill,g_face,w_600,h_315,f_auto,q_auto:eco/ch/images/1497982007158375933/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/264577961918152704/header_5.png"
+          "https://img.jp.ekkowassets.com/c_limit,w_200,h_200,f_auto,q_auto:eco/ch/units/39166665832988672/profile_7.png",
+          "https://img.jp.ekkowassets.com/c_limit,w_300,h_300,f_auto,q_auto:eco/ch/units/39166665832988672/profile_7.png",
+          "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/39166665832988672/header_13.png"
         ],
-        "width": 400,
-        "height": 210,
+        "width": 200,
+        "height": 200,
         "status": "rejected:size"
       }
     },
     {
       "id": "02",
       "title": "関文科相に問責決議案へ",
-      "text": "政治資金パーティーをめぐる問題で、参議院の野党6党は24日、関文部科学大臣への問責決議案を提出する方針で一致しました。関大臣は、パーティーに官僚を招いて説明させていた問題について、辞任を否定し、続投に意欲を示しています。高市総理は、関大臣は説明責任を果たしているとして、交代させる必要はないとの認識を示しました。参議院では与党が半数を満たしていないため、提出されれば可決される可能性があります。",
-      "source_url": "https://news.jp/i/1497759251660832922",
-      "source_name": "時事通信",
+      "text": "政治資金パーティーをめぐる問題で、参議院の野党は、関文部科学大臣への問責決議案をきょう提出する方針です。関大臣はパーティーに官僚を招いて説明させていた問題について辞任を否定し、続投に意欲を示しています。高市総理は、関大臣は説明責任を果たしているとして、交代させる必要はないとの認識です。参議院では与党が半数を満たしていないため、提出されれば可決される可能性があります。",
+      "source_url": "http://www.excite.co.jp/news/article/ntv_1498216714335928460/",
+      "source_name": "日テレNEWS",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1497790358912828260/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_fill,g_face,w_600,h_315,f_auto,q_auto:eco/ch/images/1497790358912828260/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/39166665832988672/header_13.png"
+          "https://s.eximg.jp/exnews/feed/ntv/ea/ntv_1498216714335928460/ntv_1498216714335928460_1.jpg",
+          "https://s.eximg.jp/exnews/logo/ntv.jpg"
         ],
-        "width": 400,
-        "height": 210,
-        "status": "rejected:size"
+        "width": 360,
+        "height": 203,
+        "status": "rejected:keyword"
       }
     },
     {
       "id": "03",
-      "title": "楽天証券 漏えい第2報",
-      "text": "楽天証券は24日、不正アクセスによる顧客情報の漏えいについて、第2報を発表しました。氏名や住所、電話番号などの個人情報が漏れたのはおよそ441万件で、このうちおよそ119万件は口座を開いていない人の情報でした。預かり資産の残高情報はおよそ168万件が漏れました。パスワードや暗証番号の漏えいは確認されておらず、この件による不正な取引も見つかっていないとしています。",
-      "source_url": "https://www.watch.impress.co.jp/docs/news/2158909.html",
-      "source_name": "Impress Watch",
-      "image_url": "https://www.watch.impress.co.jp/img/ipw/list/2158/909/raku1.jpg",
+      "title": "米が14カ国・地域に新関税検討",
+      "text": "次に、世界の話題です。アメリカの通商代表部は25日、日本や中国、EUなど14の国と地域からの輸入品に、新たな関税を課すことを検討していると明らかにしました。過剰な生産でアメリカ企業を圧迫する不公正な貿易慣行への対抗措置だとしています。日本への関税は、すでに合意した15パーセントを超えない見通しです。",
+      "source_url": "https://www.saga-s.co.jp/articles/-/1837672",
+      "source_name": "共同通信",
+      "image_url": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png",
       "image": {
-        "url": "https://www.watch.impress.co.jp/img/ipw/list/2158/909/raku1.jpg",
+        "url": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png",
         "candidates": [
-          "https://www.watch.impress.co.jp/img/ipw/list/2158/909/raku1.jpg",
-          "https://tagger.opecloud.com/mediaconsortium/v2/noscript-image.gif"
+          "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png",
+          "https://saga.ismcdn.jp/common/saga/images/v1/common/weather/w-c-after-su.png"
         ],
-        "width": 1200,
-        "height": 800,
+        "width": 600,
+        "height": 414,
         "status": "ok"
       }
     },
     {
       "id": "04",
-      "title": "上海市トップを調査",
-      "text": "次に、世界の話題です。中国の国営新華社通信は24日、上海市トップの陳吉寧・市党委員会書記が、重大な規律と法律の違反の疑いで、党の規律検査機関の調査を受けていると伝えました。陳氏は党の最高指導部である政治局員で、来年の党大会での昇格も取り沙汰されていました。違反の具体的な内容は明らかにされていません。",
-      "source_url": "https://www.reuters.com/jp/world/china/F3FLAKAHJJKM7NEFIGWD7A3X4I-2026-11-24/",
-      "source_name": "ロイター",
+      "title": "米で鳥インフル初の死亡例",
+      "text": "WHO＝世界保健機関は、アメリカ西部ワシントン州で、酪農場に勤務していた3人が高病原性の鳥インフルエンザに感染し、うち1人が死亡したと発表しました。感染した乳牛と接触したことによるもので、ヒトからヒトへの感染は確認されていないということです。",
+      "source_url": "http://www.excite.co.jp/news/article/TBSNews_1498107502909539029/",
+      "source_name": "TBS NEWS",
       "image_url": null,
       "image": {
         "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "error:page:HTTPError"
+        "candidates": [
+          "https://s.eximg.jp/exnews/feed/TBSNews/28/TBSNews_1498107502909539029/TBSNews_1498107502909539029_1.jpg",
+          "https://s.eximg.jp/exnews/logo/tbs-dig_excite_news_340x80.jpg"
+        ],
+        "width": 360,
+        "height": 203,
+        "status": "rejected:keyword"
       }
     },
     {
       "id": "05",
-      "title": "ゼレンスキー氏 船攻撃認める",
-      "text": "ウクライナのゼレンスキー大統領は、21日にフィンランド湾でロシアの貨物船をドローンで攻撃したのはウクライナだと認めました。ロシア国旗を掲げる船や、兵器などを運ぶ船は正当な標的だと述べました。一方、ウクライナを支援するノルウェーは、こうした作戦では慎重な対応を求めています。",
-      "source_url": "https://www.reuters.com/jp/world/ukraine/QYQVZVIDFJO2NEJ622FVKZEEBM-2026-11-24/",
+      "title": "日経平均1633円安",
+      "text": "次に、経済と市場の動きです。25日の東京株式市場で、日経平均株価は前の営業日より1633円安い5万7011円で取引を終えました。アメリカでAIや半導体関連の株が売られた流れを受け、東京市場でも関連銘柄に売りが広がりました。前日は2207円高と大幅に反発していましたが、その上げ幅の大半を1日で失いました。",
+      "source_url": "https://www.reuters.com/jp/markets/japan/45CEYT7R6NIWDJ7APKDAYSYDCM-2026-11-25/",
       "source_name": "ロイター",
       "image_url": null,
       "image": {
@@ -108,28 +110,9 @@
     },
     {
       "id": "06",
-      "title": "日経平均大幅反発",
-      "text": "次に、経済と市場の動きです。24日の東京株式市場で、日経平均株価は前の営業日より2207円高の5万8644円で取引を終えました。エヌビディアのトップ復帰を受けたアメリカ株の反発で、半導体関連株を中心に買い戻しが広がりました。",
-      "source_url": "https://news.jp/i/1497849952114180900",
-      "source_name": "時事通信",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [
-          "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1497860296980169709/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_fill,g_face,w_600,h_315,f_auto,q_auto:eco/ch/images/1497860296980169709/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/39166665832988672/header_13.png"
-        ],
-        "width": 400,
-        "height": 210,
-        "status": "rejected:size"
-      }
-    },
-    {
-      "id": "07",
-      "title": "米株反落 途中経過",
-      "text": "アメリカ市場は24日、前の日の大幅高の反動で、ナスダック総合などが反落して始まっています。前日に3割以上急騰したエヌビディア株は、一時6パーセント近く下げています。なお、アメリカ市場はまだ取引時間中で、終値は出ていません。",
-      "source_url": "https://www.reuters.com/jp/markets/world-indices/KQMIUSDNIFMZZB6V4KK7W5X6NQ-2026-11-24/",
+      "title": "米株大幅安 途中経過",
+      "text": "アメリカの株式市場は25日、大幅に安く始まっています。ダウ平均株価は一時1000ドルを超えて下げ、ナスダック総合指数も一時4パーセント近く下落しました。アメリカ政府の新たな関税案や、朝方発表された物価の指標が投資家心理を圧迫しています。なお、アメリカ市場はまだ取引時間中で、終値は出ていません。",
+      "source_url": "https://www.reuters.com/jp/markets/world-indices/MFBYGPKVYROZ7L4SD5QZLCEPDQ-2026-11-25/",
       "source_name": "ロイター",
       "image_url": null,
       "image": {
@@ -141,26 +124,46 @@
       }
     },
     {
-      "id": "08",
-      "title": "JAXA 2000人分情報流出",
-      "text": "次に、テクノロジーの話題です。JAXAは24日、地球観測衛星のデータを公開するシステムが不正アクセスを受け、利用者2000人分のアカウント名と暗号化されたパスワードが流出したと発表しました。システムは18日から停止していて、復旧の見通しは立っていません。観測データは公開情報で、攻撃者がアクセスした痕跡はないとしています。",
-      "source_url": "https://global.jaxa.jp/press/2026/11/20261124-2_e.html",
-      "source_name": "JAXA",
+      "id": "07",
+      "title": "月探査車ルペックス走行試験",
+      "text": "次に、テクノロジーの話題です。JAXA＝宇宙航空研究開発機構は25日、インドと共同で進める月極域探査機ルペックスの探査車の走行試験を報道陣に公開しました。探査車は、月の南極域で地中の水の量や分布を調べるもので、2028年度の打ち上げを目指しています。",
+      "source_url": "https://www.iwate-np.co.jp/article/kyodo/2026/11/25/1660607",
+      "source_name": "共同通信",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://global.jaxa.jp/press/images/jaxa-thumb-240x240-2404.png"
+          "https://cdn.iwate-np.co.jp/media-static/kyodo-article/1660607/main/photo/tm6b06b99f_6dbbe1fc0.jpg",
+          "https://cdn.iwate-np.co.jp/assets/build/assets/icon-menu.svg?v=oiB7ONMI"
         ],
-        "width": null,
-        "height": null,
-        "status": "error:image:HTTPError"
+        "width": 450,
+        "height": 332,
+        "status": "rejected:keyword"
+      }
+    },
+    {
+      "id": "08",
+      "title": "神舟24号打ち上げ成功",
+      "text": "中国は25日、有人宇宙船、神舟24号を打ち上げ、宇宙ステーション天宮とのドッキングに成功しました。乗組員3人のうち1人はパキスタン人の宇宙飛行士で、中国の宇宙船に外国人が搭乗するのは初めてです。",
+      "source_url": "https://news.jp/i/1498123273232564295",
+      "source_name": "共同通信",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [
+          "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1498199542360064840/origin_1.jpg",
+          "https://img.jp.ekkowassets.com/c_fill,g_face,w_600,h_315,f_auto,q_auto:eco/ch/images/1498199542360064840/origin_1.jpg",
+          "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/39166665832988672/header_13.png"
+        ],
+        "width": 400,
+        "height": 210,
+        "status": "rejected:size"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。アメリカでは、物価の指標となるPCE価格指数が発表され、12月の利下げをめぐる判断材料として注目されます。野党は、関文部科学大臣への問責決議案を今週中にも提出する見通しです。以上です。よい一日を。",
+      "text": "今日の注目予定です。参議院では、関文部科学大臣への問責決議案の提出が見込まれます。アメリカは感謝祭のため、株式市場は休場です。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
