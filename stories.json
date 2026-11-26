@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T04:42:05+09:00",
-  "main_text_sha256": "f1e8285f0378d66fa2134f52e10f36d973129c882d2e3417d72516c1a72cf778",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T04:42:28+09:00",
+  "main_text_sha256": "8c3a4d011c15f30991869c36add820f222c7f8763e8b8f5a17dd7836d60991bd",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のごあいさつ",
-      "text": "おはようございます。11月26日木曜日の朝ニュースです。",
+      "text": "おはようございます。11月27日金曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,70 +22,34 @@
     },
     {
       "id": "01",
-      "title": "小田原厚木道路で逆走事故",
-      "text": "まず、国内の話題です。24日夕方、神奈川県平塚市の小田原厚木道路で、77歳の男性が運転する軽乗用車が料金所の手前でUターンをして逆走し、対向車と正面衝突しました。衝突された車の34歳の男性が死亡し、77歳の男性も重傷です。警察は、車がおよそ1.7キロにわたって逆走していたとみて、詳しい経緯を調べています。",
-      "source_url": "https://news.jp/i/1498293902950630062",
-      "source_name": "時事通信",
+      "title": "エジプトでタンカー事故31人死亡",
+      "text": "まず、世界の話題です。エジプトの首都カイロ近郊ギザで25日、燃料を積んだトラックが横転して炎上し、周囲の車27台を巻き込む大規模な事故がありました。エジプト当局によりますと、これまでに31人の死亡が確認され、25人がけがをしています。エジプトでは最近、交通事故が相次いでおり、再発防止を求める声が上がっています。事故の原因は調査中です。",
+      "source_url": "https://news.jp/i/1498501292350784234",
+      "source_name": "共同通信",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://img.jp.ekkowassets.com/c_limit,w_200,h_200,f_auto,q_auto:eco/ch/units/39166665832988672/profile_7.png",
-          "https://img.jp.ekkowassets.com/c_limit,w_300,h_300,f_auto,q_auto:eco/ch/units/39166665832988672/profile_7.png",
+          "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1498505297492852930/origin_1.jpg",
+          "https://img.jp.ekkowassets.com/c_fill,g_face,w_600,h_315,f_auto,q_auto:eco/ch/images/1498505297492852930/origin_1.jpg",
           "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/39166665832988672/header_13.png"
         ],
-        "width": 200,
-        "height": 200,
+        "width": 400,
+        "height": 210,
         "status": "rejected:size"
       }
     },
     {
       "id": "02",
-      "title": "関文科相に問責決議案へ",
-      "text": "政治資金パーティーをめぐる問題で、参議院の野党は、関文部科学大臣への問責決議案をきょう提出する方針です。関大臣はパーティーに官僚を招いて説明させていた問題について辞任を否定し、続投に意欲を示しています。高市総理は、関大臣は説明責任を果たしているとして、交代させる必要はないとの認識です。参議院では与党が半数を満たしていないため、提出されれば可決される可能性があります。",
-      "source_url": "http://www.excite.co.jp/news/article/ntv_1498216714335928460/",
-      "source_name": "日テレNEWS",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [
-          "https://s.eximg.jp/exnews/feed/ntv/ea/ntv_1498216714335928460/ntv_1498216714335928460_1.jpg",
-          "https://s.eximg.jp/exnews/logo/ntv.jpg"
-        ],
-        "width": 360,
-        "height": 203,
-        "status": "rejected:keyword"
-      }
-    },
-    {
-      "id": "03",
-      "title": "米が14カ国・地域に新関税検討",
-      "text": "次に、世界の話題です。アメリカの通商代表部は25日、日本や中国、EUなど14の国と地域からの輸入品に、新たな関税を課すことを検討していると明らかにしました。過剰な生産でアメリカ企業を圧迫する不公正な貿易慣行への対抗措置だとしています。日本への関税は、すでに合意した15パーセントを超えない見通しです。",
-      "source_url": "https://www.saga-s.co.jp/articles/-/1837672",
-      "source_name": "共同通信",
-      "image_url": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png",
-      "image": {
-        "url": "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png",
-        "candidates": [
-          "https://saga.ismcdn.jp/mwimgs/4/a/1200m/img_4a79ed948348108b927ce1667ed4af9b47092.png",
-          "https://saga.ismcdn.jp/common/saga/images/v1/common/weather/w-c-after-su.png"
-        ],
-        "width": 600,
-        "height": 414,
-        "status": "ok"
-      }
-    },
-    {
-      "id": "04",
-      "title": "米で鳥インフル初の死亡例",
-      "text": "WHO＝世界保健機関は、アメリカ西部ワシントン州で、酪農場に勤務していた3人が高病原性の鳥インフルエンザに感染し、うち1人が死亡したと発表しました。感染した乳牛と接触したことによるもので、ヒトからヒトへの感染は確認されていないということです。",
-      "source_url": "http://www.excite.co.jp/news/article/TBSNews_1498107502909539029/",
+      "title": "関文科相に問責決議案",
+      "text": "次に、国内の話題です。政治資金パーティーをめぐる問題で、参議院の野党は26日、関文部科学大臣への問責決議案を提出しました。関大臣は辞任を否定し、続投に意欲を示しています。高市総理は、関大臣は説明責任を果たしているとして、交代させる必要はないとの認識です。参議院では与党が半数を満たしていないため、きょう27日に採決されれば可決される可能性があります。",
+      "source_url": "http://www.excite.co.jp/news/article/TBSNews_1498491294486840153/",
       "source_name": "TBS NEWS",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://s.eximg.jp/exnews/feed/TBSNews/28/TBSNews_1498107502909539029/TBSNews_1498107502909539029_1.jpg",
+          "https://s.eximg.jp/exnews/feed/TBSNews/40/TBSNews_1498491294486840153/TBSNews_1498491294486840153_1.jpg",
           "https://s.eximg.jp/exnews/logo/tbs-dig_excite_news_340x80.jpg"
         ],
         "width": 360,
@@ -94,10 +58,43 @@
       }
     },
     {
+      "id": "03",
+      "title": "米の新関税案に日本政府が遺憾",
+      "text": "アメリカの通商代表部は25日、日本や中国など14の国と地域からの輸入品に、通商法301条に基づく新たな関税を課す案を公表しました。日本には最大15パーセントの税率案が示され、協議の状況によっては最大20パーセントも検討するとしています。木原官房長官は26日の記者会見で、日本を含めたことは遺憾だと、すでに米側に伝えたと明らかにしました。",
+      "source_url": "https://novaist.jp/articles/japan-protests-us-tariff-plan/",
+      "source_name": "NOVAIST",
+      "image_url": "https://s.novaist.jp/media/2026/11/26170939/39341-20261126-080936-397-1200x630.png",
+      "image": {
+        "url": "https://s.novaist.jp/media/2026/11/26170939/39341-20261126-080936-397-1200x630.png",
+        "candidates": [
+          "https://s.novaist.jp/media/2026/11/26170939/39341-20261126-080936-397-1200x630.png",
+          "https://novaist.jp/s/wp-content/themes/novaist/assets/images/logo-plain-color.svg"
+        ],
+        "width": 1200,
+        "height": 630,
+        "status": "ok"
+      }
+    },
+    {
+      "id": "04",
+      "title": "米・NATOがロシアに戦争不拡大要求",
+      "text": "次に、世界の話題です。トランプ大統領とNATOのルッテ事務総長は25日、アメリカのフロリダ州で会談し、ロシアに対し、ウクライナでの戦争を拡大させる行動を避けるよう求める共同声明を発表しました。一方、ロシアは26日未明にかけて、ウクライナの首都キーウなどにミサイルやドローンによる大規模な攻撃を行い、キーウでは7人がけがをしました。ロシア大統領府は、戦争を拡大させているのはウクライナ側だと反論しています。",
+      "source_url": "https://www.reuters.com/jp/world/ukraine/OY5D74UDQ5JBTGDM57TPWY5FOY-2026-11-26/",
+      "source_name": "ロイター",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [],
+        "width": null,
+        "height": null,
+        "status": "error:page:HTTPError"
+      }
+    },
+    {
       "id": "05",
-      "title": "日経平均1633円安",
-      "text": "次に、経済と市場の動きです。25日の東京株式市場で、日経平均株価は前の営業日より1633円安い5万7011円で取引を終えました。アメリカでAIや半導体関連の株が売られた流れを受け、東京市場でも関連銘柄に売りが広がりました。前日は2207円高と大幅に反発していましたが、その上げ幅の大半を1日で失いました。",
-      "source_url": "https://www.reuters.com/jp/markets/japan/45CEYT7R6NIWDJ7APKDAYSYDCM-2026-11-25/",
+      "title": "日経平均487円高",
+      "text": "次に、経済と市場の動きです。26日の東京株式市場で、日経平均株価は前の営業日より487円高い5万7499円で取引を終えました。前日に売られたAIや半導体関連の株に買い戻しが入り、一時は上げ幅が1200円を超える場面もありました。アメリカの株式市場は26日、感謝祭のため休場でした。",
+      "source_url": "https://www.reuters.com/jp/markets/japan/RZOUDRO6YBPCNFECZQMQ7ALT5Y-2026-11-26/",
       "source_name": "ロイター",
       "image_url": null,
       "image": {
@@ -110,60 +107,44 @@
     },
     {
       "id": "06",
-      "title": "米株大幅安 途中経過",
-      "text": "アメリカの株式市場は25日、大幅に安く始まっています。ダウ平均株価は一時1000ドルを超えて下げ、ナスダック総合指数も一時4パーセント近く下落しました。アメリカ政府の新たな関税案や、朝方発表された物価の指標が投資家心理を圧迫しています。なお、アメリカ市場はまだ取引時間中で、終値は出ていません。",
-      "source_url": "https://www.reuters.com/jp/markets/world-indices/MFBYGPKVYROZ7L4SD5QZLCEPDQ-2026-11-25/",
-      "source_name": "ロイター",
-      "image_url": null,
+      "title": "日銀コアCPI 3.5%上昇",
+      "text": "日銀が25日に公表した10月の消費者物価のコア指標では、生鮮食品と制度変更などの特殊要因を除いた指数が、前の年の同じ月より3.5パーセント上昇しました。2023年9月以来の高い伸びです。",
+      "source_url": "https://novaist.jp/articles/japan-core-inflation-rises-2/",
+      "source_name": "NOVAIST",
+      "image_url": "https://s.novaist.jp/media/2026/11/25180327/39250-20261125-090322-754-1200x630.png",
       "image": {
-        "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "error:page:HTTPError"
+        "url": "https://s.novaist.jp/media/2026/11/25180327/39250-20261125-090322-754-1200x630.png",
+        "candidates": [
+          "https://s.novaist.jp/media/2026/11/25180327/39250-20261125-090322-754-1200x630.png",
+          "https://novaist.jp/s/wp-content/themes/novaist/assets/images/logo-plain-color.svg"
+        ],
+        "width": 1200,
+        "height": 630,
+        "status": "ok"
       }
     },
     {
       "id": "07",
-      "title": "月探査車ルペックス走行試験",
-      "text": "次に、テクノロジーの話題です。JAXA＝宇宙航空研究開発機構は25日、インドと共同で進める月極域探査機ルペックスの探査車の走行試験を報道陣に公開しました。探査車は、月の南極域で地中の水の量や分布を調べるもので、2028年度の打ち上げを目指しています。",
-      "source_url": "https://www.iwate-np.co.jp/article/kyodo/2026/11/25/1660607",
-      "source_name": "共同通信",
-      "image_url": null,
+      "title": "ベピコロンボ水星軌道に",
+      "text": "次に、テクノロジーと科学の話題です。ヨーロッパ宇宙機関とJAXAの共同水星探査機ベピコロンボは、日本時間の22日、水星の周回軌道への投入に成功しました。日欧の探査機として初めてで、世界では2011年のアメリカの探査機メッセンジャーに続く2例目です。JAXAの探査機みおは、来月10日に分離する計画で、本格的な科学観測は来年4月に始まる予定です。",
+      "source_url": "https://novaist.jp/articles/bepicolombo-mercury-orbit/",
+      "source_name": "NOVAIST",
+      "image_url": "https://s.novaist.jp/media/2026/11/26175325/39374-20261126-085318-743-1200x630.png",
       "image": {
-        "url": null,
+        "url": "https://s.novaist.jp/media/2026/11/26175325/39374-20261126-085318-743-1200x630.png",
         "candidates": [
-          "https://cdn.iwate-np.co.jp/media-static/kyodo-article/1660607/main/photo/tm6b06b99f_6dbbe1fc0.jpg",
-          "https://cdn.iwate-np.co.jp/assets/build/assets/icon-menu.svg?v=oiB7ONMI"
+          "https://s.novaist.jp/media/2026/11/26175325/39374-20261126-085318-743-1200x630.png",
+          "https://novaist.jp/s/wp-content/themes/novaist/assets/images/logo-plain-color.svg"
         ],
-        "width": 450,
-        "height": 332,
-        "status": "rejected:keyword"
-      }
-    },
-    {
-      "id": "08",
-      "title": "神舟24号打ち上げ成功",
-      "text": "中国は25日、有人宇宙船、神舟24号を打ち上げ、宇宙ステーション天宮とのドッキングに成功しました。乗組員3人のうち1人はパキスタン人の宇宙飛行士で、中国の宇宙船に外国人が搭乗するのは初めてです。",
-      "source_url": "https://news.jp/i/1498123273232564295",
-      "source_name": "共同通信",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [
-          "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1498199542360064840/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_fill,g_face,w_600,h_315,f_auto,q_auto:eco/ch/images/1498199542360064840/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/39166665832988672/header_13.png"
-        ],
-        "width": 400,
-        "height": 210,
-        "status": "rejected:size"
+        "width": 1200,
+        "height": 630,
+        "status": "ok"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。参議院では、関文部科学大臣への問責決議案の提出が見込まれます。アメリカは感謝祭のため、株式市場は休場です。以上です。よい一日を。",
+      "text": "今日の注目予定です。参議院では、関文部科学大臣への問責決議案の採決が見込まれます。アメリカの株式市場は、感謝祭明けで短縮取引となります。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
