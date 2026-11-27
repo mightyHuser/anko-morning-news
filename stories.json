@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T04:42:28+09:00",
-  "main_text_sha256": "8c3a4d011c15f30991869c36add820f222c7f8763e8b8f5a17dd7836d60991bd",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T04:45:09+09:00",
+  "main_text_sha256": "0052b2eead4b635aa615cf0d239278edc59b2eee4b657ab00c37b7df81211264",
   "text_alignment": "ok",
   "stories": [
     {
       "id": "intro",
       "title": "朝のごあいさつ",
-      "text": "おはようございます。11月27日金曜日の朝ニュースです。",
+      "text": "おはようございます。11月28日土曜日の朝ニュースです。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
@@ -22,34 +22,15 @@
     },
     {
       "id": "01",
-      "title": "エジプトでタンカー事故31人死亡",
-      "text": "まず、世界の話題です。エジプトの首都カイロ近郊ギザで25日、燃料を積んだトラックが横転して炎上し、周囲の車27台を巻き込む大規模な事故がありました。エジプト当局によりますと、これまでに31人の死亡が確認され、25人がけがをしています。エジプトでは最近、交通事故が相次いでおり、再発防止を求める声が上がっています。事故の原因は調査中です。",
-      "source_url": "https://news.jp/i/1498501292350784234",
-      "source_name": "共同通信",
+      "title": "関文科相の問責を否決",
+      "text": "まず、国内の話題です。政治資金パーティーをめぐる問題で野党が提出した、関芳弘文部科学大臣への問責決議案は、きのう27日の参議院本会議で、賛成120票、反対124票のわずか4票差で否決されました。高市総理は関大臣を続投させる方針で、野党側は説明責任の追及を続ける構えです。",
+      "source_url": "http://www.excite.co.jp/news/article/TBSNews_1498997123494986112/",
+      "source_name": "TBS NEWS DIG",
       "image_url": null,
       "image": {
         "url": null,
         "candidates": [
-          "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1498505297492852930/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_fill,g_face,w_600,h_315,f_auto,q_auto:eco/ch/images/1498505297492852930/origin_1.jpg",
-          "https://img.jp.ekkowassets.com/c_limit,w_400,h_60,f_auto,q_auto:eco/ch/units/39166665832988672/header_13.png"
-        ],
-        "width": 400,
-        "height": 210,
-        "status": "rejected:size"
-      }
-    },
-    {
-      "id": "02",
-      "title": "関文科相に問責決議案",
-      "text": "次に、国内の話題です。政治資金パーティーをめぐる問題で、参議院の野党は26日、関文部科学大臣への問責決議案を提出しました。関大臣は辞任を否定し、続投に意欲を示しています。高市総理は、関大臣は説明責任を果たしているとして、交代させる必要はないとの認識です。参議院では与党が半数を満たしていないため、きょう27日に採決されれば可決される可能性があります。",
-      "source_url": "http://www.excite.co.jp/news/article/TBSNews_1498491294486840153/",
-      "source_name": "TBS NEWS",
-      "image_url": null,
-      "image": {
-        "url": null,
-        "candidates": [
-          "https://s.eximg.jp/exnews/feed/TBSNews/40/TBSNews_1498491294486840153/TBSNews_1498491294486840153_1.jpg",
+          "https://s.eximg.jp/exnews/feed/TBSNews/fb/TBSNews_1498997123494986112/TBSNews_1498997123494986112_1.jpg",
           "https://s.eximg.jp/exnews/logo/tbs-dig_excite_news_340x80.jpg"
         ],
         "width": 360,
@@ -58,65 +39,71 @@
       }
     },
     {
-      "id": "03",
-      "title": "米の新関税案に日本政府が遺憾",
-      "text": "アメリカの通商代表部は25日、日本や中国など14の国と地域からの輸入品に、通商法301条に基づく新たな関税を課す案を公表しました。日本には最大15パーセントの税率案が示され、協議の状況によっては最大20パーセントも検討するとしています。木原官房長官は26日の記者会見で、日本を含めたことは遺憾だと、すでに米側に伝えたと明らかにしました。",
-      "source_url": "https://novaist.jp/articles/japan-protests-us-tariff-plan/",
-      "source_name": "NOVAIST",
-      "image_url": "https://s.novaist.jp/media/2026/11/26170939/39341-20261126-080936-397-1200x630.png",
+      "id": "02",
+      "title": "日経ID 540万人分漏えい",
+      "text": "日本経済新聞社は、委託先のマーケティングサービス、カルテへの不正アクセスにより、日経IDの利用者およそ540万人分の個人情報が漏えいしたことを確認したと発表しました。漏えいしたのは、変換処理をしたメールアドレスや電話番号、性別、生年月で、クレジットカード情報やパスワードは含まれていないということです。二次被害は確認されておらず、対象者には個別に連絡するとしています。",
+      "source_url": "https://www.nikkei.co.jp/nikkeiinfo/news/information/1590.html",
+      "source_name": "日本経済新聞社",
+      "image_url": null,
       "image": {
-        "url": "https://s.novaist.jp/media/2026/11/26170939/39341-20261126-080936-397-1200x630.png",
+        "url": null,
         "candidates": [
-          "https://s.novaist.jp/media/2026/11/26170939/39341-20261126-080936-397-1200x630.png",
-          "https://novaist.jp/s/wp-content/themes/novaist/assets/images/logo-plain-color.svg"
+          "https://www.nikkei.co.jp/nikkeiinfo/img/ogtestimage.png",
+          "https://www.nikkei.co.jp/nikkeiinfo/shared/img/cmn_logo_nikkei_01.svg"
         ],
         "width": 1200,
         "height": 630,
-        "status": "ok"
+        "status": "rejected:keyword"
+      }
+    },
+    {
+      "id": "03",
+      "title": "清水町で12台多重事故",
+      "text": "静岡県清水町の県道ではきのう午後、車12台が絡む多重事故があり、10人が病院に搬送されました。1人が重傷、9人が軽傷とみられています。警察によりますと、67歳の男性が運転する車が、自らの車線と対向車線の車に次々とぶつかったということで、事故の原因を調べています。",
+      "source_url": "https://www.iwate-np.co.jp/article/kyodo/2026/11/27/1661167",
+      "source_name": "共同通信",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [
+          "https://cdn.iwate-np.co.jp/media-static/kyodo-article/1661167/main/photo/tm6b099b39_06d1f6680.jpg",
+          "https://cdn.iwate-np.co.jp/assets/build/assets/icon-menu.svg?v=oiB7ONMI"
+        ],
+        "width": 640,
+        "height": 360,
+        "status": "rejected:keyword"
       }
     },
     {
       "id": "04",
-      "title": "米・NATOがロシアに戦争不拡大要求",
-      "text": "次に、世界の話題です。トランプ大統領とNATOのルッテ事務総長は25日、アメリカのフロリダ州で会談し、ロシアに対し、ウクライナでの戦争を拡大させる行動を避けるよう求める共同声明を発表しました。一方、ロシアは26日未明にかけて、ウクライナの首都キーウなどにミサイルやドローンによる大規模な攻撃を行い、キーウでは7人がけがをしました。ロシア大統領府は、戦争を拡大させているのはウクライナ側だと反論しています。",
-      "source_url": "https://www.reuters.com/jp/world/ukraine/OY5D74UDQ5JBTGDM57TPWY5FOY-2026-11-26/",
+      "title": "中国軍が台湾対岸で上陸演習",
+      "text": "次に、世界の話題です。中国軍が、台湾に対面する福建省の海域で、民間船をつないで仮設の浮き橋を作り、上陸を試す演習を数週間にわたり続けていることが、衛星画像の分析で明らかになりました。台湾国防部は、演習の動きを把握し、台湾海峡の安全への影響を評価しているとしています。",
+      "source_url": "https://bworldonline.com/world/2026/11/27/797275/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/",
       "source_name": "ロイター",
-      "image_url": null,
+      "image_url": "http://bworldonline.com/wp-content/uploads/2023/09/China-Taiwan-flags.jpg",
       "image": {
-        "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "error:page:HTTPError"
+        "url": "http://bworldonline.com/wp-content/uploads/2023/09/China-Taiwan-flags.jpg",
+        "candidates": [
+          "http://bworldonline.com/wp-content/uploads/2023/09/China-Taiwan-flags.jpg",
+          "https://bworldonline.com/wp-content/uploads/2026/09/header_logo_pc-1.png"
+        ],
+        "width": 1080,
+        "height": 720,
+        "status": "ok"
       }
     },
     {
       "id": "05",
-      "title": "日経平均487円高",
-      "text": "次に、経済と市場の動きです。26日の東京株式市場で、日経平均株価は前の営業日より487円高い5万7499円で取引を終えました。前日に売られたAIや半導体関連の株に買い戻しが入り、一時は上げ幅が1200円を超える場面もありました。アメリカの株式市場は26日、感謝祭のため休場でした。",
-      "source_url": "https://www.reuters.com/jp/markets/japan/RZOUDRO6YBPCNFECZQMQ7ALT5Y-2026-11-26/",
+      "title": "ガザで停戦下も死者",
+      "text": "停戦が続くパレスチナ自治区ガザでは、イスラエル軍の攻撃により、26日までの1日で少なくとも10人が死亡しました。犠牲者には、ハマスが任命したガザの教育副大臣とその妻も含まれています。停戦合意から1年以上がたちますが、攻撃は断続的に続いていて、停戦後の死者は1600人を超えています。",
+      "source_url": "https://www.walknews.com/1434788/",
       "source_name": "ロイター",
-      "image_url": null,
+      "image_url": "https://www.walknews.com/wp-content/uploads/2026/11/39388-20261127-023343-434-1200x630.png",
       "image": {
-        "url": null,
-        "candidates": [],
-        "width": null,
-        "height": null,
-        "status": "error:page:HTTPError"
-      }
-    },
-    {
-      "id": "06",
-      "title": "日銀コアCPI 3.5%上昇",
-      "text": "日銀が25日に公表した10月の消費者物価のコア指標では、生鮮食品と制度変更などの特殊要因を除いた指数が、前の年の同じ月より3.5パーセント上昇しました。2023年9月以来の高い伸びです。",
-      "source_url": "https://novaist.jp/articles/japan-core-inflation-rises-2/",
-      "source_name": "NOVAIST",
-      "image_url": "https://s.novaist.jp/media/2026/11/25180327/39250-20261125-090322-754-1200x630.png",
-      "image": {
-        "url": "https://s.novaist.jp/media/2026/11/25180327/39250-20261125-090322-754-1200x630.png",
+        "url": "https://www.walknews.com/wp-content/uploads/2026/11/39388-20261127-023343-434-1200x630.png",
         "candidates": [
-          "https://s.novaist.jp/media/2026/11/25180327/39250-20261125-090322-754-1200x630.png",
-          "https://novaist.jp/s/wp-content/themes/novaist/assets/images/logo-plain-color.svg"
+          "https://www.walknews.com/wp-content/uploads/2026/11/39388-20261127-023343-434-1200x630.png",
+          "https://www.walknews.com/wp-content/uploads/2026/09/WALKNEWS-1-300x75-1.png"
         ],
         "width": 1200,
         "height": 630,
@@ -124,27 +111,57 @@
       }
     },
     {
-      "id": "07",
-      "title": "ベピコロンボ水星軌道に",
-      "text": "次に、テクノロジーと科学の話題です。ヨーロッパ宇宙機関とJAXAの共同水星探査機ベピコロンボは、日本時間の22日、水星の周回軌道への投入に成功しました。日欧の探査機として初めてで、世界では2011年のアメリカの探査機メッセンジャーに続く2例目です。JAXAの探査機みおは、来月10日に分離する計画で、本格的な科学観測は来年4月に始まる予定です。",
-      "source_url": "https://novaist.jp/articles/bepicolombo-mercury-orbit/",
-      "source_name": "NOVAIST",
-      "image_url": "https://s.novaist.jp/media/2026/11/26175325/39374-20261126-085318-743-1200x630.png",
+      "id": "06",
+      "title": "日経平均1211円高 米株も上昇",
+      "text": "次に、経済と市場の動きです。27日の東京株式市場では、日経平均株価が1211円あまり値上がりし、5万8711円で取引を終えました。中国の景気対策への期待などから、アジアの市場がそろって上昇しました。アメリカでは、感謝祭明けの短縮取引で、ダウ平均株価が591ドルあまり上がり、5万774ドル、ナスダック総合指数も2.3パーセント上昇して取引を終え、売られていたAI関連株に買い戻しが入りました。",
+      "source_url": "https://www.reuters.com/jp/markets/commodities/YVPAYZL5BJP4RACP5PNEK7TBTQ-2026-11-27/",
+      "source_name": "ロイター",
+      "image_url": null,
       "image": {
-        "url": "https://s.novaist.jp/media/2026/11/26175325/39374-20261126-085318-743-1200x630.png",
+        "url": null,
+        "candidates": [],
+        "width": null,
+        "height": null,
+        "status": "error:page:HTTPError"
+      }
+    },
+    {
+      "id": "07",
+      "title": "東京コアCPI 2.9%上昇",
+      "text": "総務省がきのう発表した東京都区部の11月の消費者物価指数は、生鮮食品を除く総合指数が去年の同じ月より2.9パーセント上昇しました。上昇率は10月の2.6パーセントから拡大し、政府による電気とガス料金の補助の終了が、エネルギー価格を押し上げたとみられています。",
+      "source_url": null,
+      "source_name": "総務省統計局",
+      "image_url": null,
+      "image": {
+        "url": null,
+        "candidates": [],
+        "width": null,
+        "height": null,
+        "status": "none"
+      }
+    },
+    {
+      "id": "08",
+      "title": "H3打ち上げを三菱重工へ",
+      "text": "次に、テクノロジーの話題です。日本の基幹ロケット、H3の打ち上げが、JAXAから三菱重工業へ段階的に移管されることになりました。来年1月11日に種子島から打ち上げられる11号機は、政府の情報収集衛星を載せ、初めて三菱重工が打ち上げの実施主体となります。",
+      "source_url": "https://www.watch.impress.co.jp/docs/news/2158299.html",
+      "source_name": "Impress Watch",
+      "image_url": "https://www.watch.impress.co.jp/img/ipw/list/2158/299/jaxa1.jpg",
+      "image": {
+        "url": "https://www.watch.impress.co.jp/img/ipw/list/2158/299/jaxa1.jpg",
         "candidates": [
-          "https://s.novaist.jp/media/2026/11/26175325/39374-20261126-085318-743-1200x630.png",
-          "https://novaist.jp/s/wp-content/themes/novaist/assets/images/logo-plain-color.svg"
+          "https://www.watch.impress.co.jp/img/ipw/list/2158/299/jaxa1.jpg",
+          "https://tagger.opecloud.com/mediaconsortium/v2/noscript-image.gif"
         ],
-        "width": 1200,
-        "height": 630,
+        "width": 1500,
+        "height": 1000,
         "status": "ok"
       }
     },
     {
       "id": "outro",
       "title": "今日の注目予定",
-      "text": "今日の注目予定です。参議院では、関文部科学大臣への問責決議案の採決が見込まれます。アメリカの株式市場は、感謝祭明けで短縮取引となります。以上です。よい一日を。",
+      "text": "今日の注目予定です。台湾では統一地方選挙が投開票され、頼清徳政権にとって初めての大型選挙の結果が、夜には判明する見通しです。国内では、フィギュアスケートのNHK杯が東京で2日目を迎え、男女のフリーが行われます。以上です。よい一日を。",
       "source_url": null,
       "source_name": "",
       "image_url": null,
